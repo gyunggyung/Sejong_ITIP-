@@ -1,0 +1,5 @@
+git init
+git add *
+git commit -m "Version 1.0"
+git remote add origin ?https://github.com/newhiwoong/Sejong_ITIP.git
+git pull origin master

@@ -1,0 +1,88 @@
+﻿1. hongdae(hongik university area) – 홍대
+2. myung dong – 명동
+3. gyeongbok palace – 경복궁
+4. n seoul tower - N서울타워
+5. insadong – 인사동
+6. changdeokgung palace – 창덕궁
+7. bukchon hanok village – 북촌 한옥마을
+8. lotte world – 롯데월드
+9. namsan park – 남산공원
+10. namdaemun market – 남대문시장
+11. cheonggyecheon – 청계천
+12. deoksugung – 덕수궁
+13. dongdaemun market – 동대문시장
+14. gwanghwamun – 광화문
+15. namdaemun – 남대문(숭례문)
+16. changgyeonggung palace – 창경궁
+17. jongmyo shrine – 종묘
+18. national folk museum of korea – 국립민속박물관
+19. cheongwadae – 청와대
+20. gwanghwamun square – 광화문 광장
+21. bukhansan national park – 북한산 국립공원
+22. banpo bridge – 반포대교
+23. dongdaemun design plaza – 동대문 디자인 플라자
+24. dongdaemun – 동대문(흥인지문)
+25. national museum of korea – 국립중앙박물관
+26. 63 building seoul - 63빌딩
+27. seoul grand park – 서울대공원
+28. war memorial of korea – 전쟁기념관
+29. seoul forest – 서울숲
+30. boungeunsa temple – 봉은사
+31. jogyesa temple temple – 조계사
+32. Olympic park – 올림픽공원
+33. namhansanseong provincial park – 남한산성
+34. seoulland – 서울랜드
+35. children's grand park – 어린이대공원
+36. inwangsan mountain – 인왕산
+37. gyeonghuigung palace – 경희궁
+38. world cup park – 월드컵공원
+39. trick eye museum seoul – 서울 트릭아이뮤지엄
+40. National Palace Museum of Korea – 국립고궁박물관
+41. seoul museum of history – 서울역사박물관
+42. leeum, Samsung museum of art – 삼성미술관 리움
+43. dobongsan mountain – 도봉산
+44. unhyeongung palace – 운현궁
+45. tapgol park – 탑골공원
+46. yeouido hangang park – 여의도 한강공원
+47. myeongdong cathedral – 명동성당
+48. namsangol hanok village – 남산골 한옥마을
+49. gwanaksan mountain – 관악산
+50. garosu-gil road – 신사동 가로수길
+51. sinchon – 신촌
+52. yeonnam dong park – 연남동 경의선 숲길
+53. mangridan-gil – 망원동 망리단길
+54. gyeongnidan-gil – 이태원 경리단길
+55. yeongdeungpo underground mall – 영등포 타임스퀘어
+56. munraedong arts town in seoul – 문래동 예술촌
+57. sillim dong – 신림
+58. banpo hangang park – 반포한강공원
+59. seolleung/jeongneung – 선릉/정릉
+60. gangnam – 강남
+61. teheran ro – 테헤란로
+62. jamsil hangang park – 잠실 한강공원
+63. seoul express bus terminal – 서울 고속터미널
+64. yangjae citizen's park – 양재 시민의숲
+65. jamsil sports complex seoul – 잠실종합운동장
+66. seokchon lake park – 석촌호수공원
+67. seokchon dong ancient tombs – 석촌 고분군
+68. garak market – 가락시장
+69. ttukseom hangang park – 뚝섬한강공원
+70. kondae(konkuk university area) – 건대
+71. daehangno – 대학로
+72. wangsimni – 왕십리
+73. itaewon – 이태원
+74. uljiro – 을지로
+75. songridan-gil – 잠실 송리단길
+76. myeong dong – 명동
+77. seoul city hall – 서울시청
+78. seoul station – 서울역
+79. north seoul dream forest – 북서울 꿈의숲
+80. seongsu dong – 성수동
+81. ikseon dong – 익선동
+82. noryangjin fish market – 노량진수산물도매시장
+83. boramae park – 보라매공원
+84. lotte world tower & mall – 롯데월드타워&롯데월드몰
+85. gangnam station – 강남역
+86. coex mall – 스타필드 코엑스몰
+87. seodaemun independence park – 서대문 독립공원
+88. seodaemun museum of natural history – 서대문 자연사박물관
