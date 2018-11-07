@@ -1,6 +1,12 @@
 <h1 align="center">Sejong_ITIP</h1>
 날씨와 거리를 기반으로 서울에서 갈만한 장소를 추천해줍니다.
 
+## API
+- 아래 API들을 받아야 프로그램을 실행할 수 있습니다.
+- 날씨 : https://www.data.go.kr/dataset/15000099/openapi.do
+- 미세먼지 : https://www.data.go.kr/dataset/15000581/openapi.do
+- 구글맵 : https://cloud.google.com/maps-platform/?hl=ko
+
 ## Data
 서울에 갈만한 장소를 정리합니다. 아래는 해당 데이터들의 Attribute value입니다.
 
