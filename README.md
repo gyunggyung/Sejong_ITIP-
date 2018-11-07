@@ -8,7 +8,7 @@
 > 구글맵 : https://cloud.google.com/maps-platform/?hl=ko  
 
 ## Data
-서울에 갈만한 장소를 정리합니다. 아래는 해당 데이터들의 Attribute value입니다.  
+<b>서울에 갈만한 장소를 정리합니다. 아래는 해당 데이터들의 Attribute value입니다.</b>  
 > https://github.com/newhiwoong/Sejong_ITIP-/blob/master/Seoul_Place.csv
 
 - Name : 장소의 이름을 기제합니다.
@@ -46,6 +46,7 @@
 
 ## 다양한 사용방법
 <b>아래 내용들은 수정하면 사진이 원하는 기상상태와 위치에 맞게 추천을 할 수 있습니다.</b>  
+아래 -> 표시가 있는 항목은 해당 주석 및에 있는 변수들을 수정하면 되고 print 안에 있는 변수는 해당 변수를 수정하면 된다.  
 - 미세먼지 가져오기 -> stationName = '광진구' # FIXME
 - 날씨 및 미세먼지 변수 만들기 -> long = 127.073092, lati = 37.550208 
 - MAIN CODE -> Longitude=12700, Latitude=3755
