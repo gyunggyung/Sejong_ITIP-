@@ -1,5 +1,5 @@
 <h1 align="center">Sejong_ITIP</h1>
-날씨와 거리를 기반으로 서울에서 갈만한 장소를 추천해줍니다.
+최근 미세먼지와 폭염 등에 대한 많은 이슈들이 발생했습니다. 현재 갈만한 장소, 놀만한 장소를 추천해주는 앱들은 많으나 날씨와 미세먼지 현황을 고려하여 추천해주는 앱은 보이지 않습니다. 우리의 프로그램은 날씨와 거리를 기반으로 서울에서 갈만한 장소를 추천해줍니다.
 
 ## API
 - 아래 API들을 받아야 프로그램을 실행할 수 있습니다.
@@ -36,7 +36,7 @@
 - 장소의 위도를 기제합니다.
 
 ### Show density of Data  
-![](map.PNG)
+![](image/map.PNG)
 
 
 ## 개발 방법
@@ -56,6 +56,20 @@
 
 8. 다양한 장소 추천 크롤링한 정보들과 사진등을 표시하며 몇 가지 장소를 추천
 
-![](result.PNG)
+![](image/result.PNG)
 
-## 예제
+## 다양한 사용방법
+- 아래 내용들은 수정하면 사진이 원하는 기상상태와 위치에 맞게 추천을 할 수 있습니다.
+
+- 미세먼지 가져오기 -> stationName = '광진구' # FIXME
+- 날씨 및 미세먼지 변수 만들기 -> long = 127.073092, lati = 37.550208 
+- MAIN CODE -> Longitude=12700, Latitude=3755
+- print ("추출 시간   : ",dataTime)
+- print ("미세먼지    : ",fine_dust)
+- print ("초 미세먼지 : ",Ultrafine_dust)
+- print ("기온        : ",weather_dict["T1H"])
+- print ("강수량      : ",weather_dict["RN1"])
+- print ("강수형태    : ",weather_dict["PTY"])
+- print ("하늘상태    : ",weather_dict["SKY"])
+- print ("낙뢰        : ",weather_dict["LGT"])
+- print ("풍속        : ",weather_dict["WSD"])
