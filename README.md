@@ -2,39 +2,23 @@
 최근 미세먼지와 폭염 등에 대한 많은 이슈들이 발생했습니다. 현재 갈만한 장소, 놀만한 장소를 추천해주는 앱들은 많으나 날씨와 미세먼지 현황을 고려하여 추천해주는 앱은 보이지 않습니다. 우리의 프로그램은 날씨와 거리를 기반으로 서울에서 갈만한 장소를 추천해줍니다.
 
 ## API
-- 아래 API들을 받아야 프로그램을 실행할 수 있습니다.
-- 날씨 : https://www.data.go.kr/dataset/15000099/openapi.do
-- 미세먼지 : https://www.data.go.kr/dataset/15000581/openapi.do
-- 구글맵 : https://cloud.google.com/maps-platform/?hl=ko
+<b>아래 API들을 받아야 프로그램을 실행할 수 있습니다.<b>  
+> 날씨 : https://www.data.go.kr/dataset/15000099/openapi.do
+> 미세먼지 : https://www.data.go.kr/dataset/15000581/openapi.do
+> 구글맵 : https://cloud.google.com/maps-platform/?hl=ko
 
 ## Data
 서울에 갈만한 장소를 정리합니다. 아래는 해당 데이터들의 Attribute value입니다.  
 > https://github.com/newhiwoong/Sejong_ITIP-/blob/master/Seoul_Place.csv
 
-### Name
-- 장소의 이름을 기제합니다.
-
-### Function
-- 장소의 대분류를 기제합니다.
-
-### Details
-- 장소의 상세설명을 기제합니다.
-
-### Day
-- 장소의 이용가능 시간을 기제합니다.
-
-### Score
-- 장소에 대한 Google의 Score 기제합니다.
-- 추천을 할 때에는 거리, 날씨 등에 맞게 점수를 갱신합니다.
-
-### Indoor/Outdoors
-- 장소가 내부에 있는지 외부에 있는지 기제합니다.
-
-### Longitude
-- 장소의 경도를 기제합니다.
-
-### Latitude
-- 장소의 위도를 기제합니다.
+- Name : 장소의 이름을 기제합니다.
+- Function :  장소의 대분류를 기제합니다.
+- Details : 장소의 상세설명을 기제합니다.
+- Day : 장소의 이용가능 시간을 기제합니다.
+- Score : 장소에 대한 Google의 Score 기제합니다. 추천을 할 때에는 거리, 날씨 등에 맞게 점수를 갱신합니다.
+- Indoor/Outdoors : 장소가 내부에 있는지 외부에 있는지 기제합니다.
+- Longitude : 장소의 경도를 기제합니다.
+- Latitude : 장소의 위도를 기제합니다.
 
 ### Show density of Data  
 ![](image/map.PNG)
@@ -57,6 +41,7 @@
 
 8. 다양한 장소 추천 크롤링한 정보들과 사진등을 표시하며 몇 가지 장소를 추천
 
+### 8. 다양한 장소 추천 크롤링한 정보들과 사진등을 표시하며 몇 가지 장소를 추천
 ![](image/result.PNG)
 
 ## 다양한 사용방법
