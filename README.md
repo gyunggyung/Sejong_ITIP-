@@ -3,9 +3,9 @@
 
 ## API
 <b>아래 API들을 받아야 프로그램을 실행할 수 있습니다.</b>  
-> 날씨 : https://www.data.go.kr/dataset/15000099/openapi.do
-> 미세먼지 : https://www.data.go.kr/dataset/15000581/openapi.do
-> 구글맵 : https://cloud.google.com/maps-platform/?hl=ko
+> 날씨 : https://www.data.go.kr/dataset/15000099/openapi.do  
+> 미세먼지 : https://www.data.go.kr/dataset/15000581/openapi.do  
+> 구글맵 : https://cloud.google.com/maps-platform/?hl=ko  
 
 ## Data
 서울에 갈만한 장소를 정리합니다. 아래는 해당 데이터들의 Attribute value입니다.  
@@ -20,7 +20,7 @@
 - Longitude : 장소의 경도를 기제합니다.
 - Latitude : 장소의 위도를 기제합니다.
 
-### Show density of Data  
+#### Show density of Data  
 ![](image/map.PNG)
 
 
@@ -45,8 +45,7 @@
 ![](image/result.PNG)
 
 ## 다양한 사용방법
-- 아래 내용들은 수정하면 사진이 원하는 기상상태와 위치에 맞게 추천을 할 수 있습니다.
-
+<b>아래 내용들은 수정하면 사진이 원하는 기상상태와 위치에 맞게 추천을 할 수 있습니다.</b>  
 - 미세먼지 가져오기 -> stationName = '광진구' # FIXME
 - 날씨 및 미세먼지 변수 만들기 -> long = 127.073092, lati = 37.550208 
 - MAIN CODE -> Longitude=12700, Latitude=3755
