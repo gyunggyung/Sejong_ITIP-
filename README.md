@@ -46,16 +46,17 @@
 
 ## 다양한 사용방법
 <b>아래 내용들은 수정하면 사진이 원하는 기상상태와 위치에 맞게 추천을 할 수 있습니다.</b>  
-아래 -> 표시가 있는 항목은 해당 주석 및에 있는 변수들을 수정하면 되고 print 안에 있는 변수는 해당 변수를 수정하면 된다.  
-- 미세먼지 가져오기 -> stationName = '광진구' # FIXME
-- 날씨 및 미세먼지 변수 만들기 -> long = 127.073092, lati = 37.550208 
-- MAIN CODE -> Longitude=12700, Latitude=3755
-- print ("추출 시간   : ",dataTime)
-- print ("미세먼지    : ",fine_dust)
-- print ("초 미세먼지 : ",Ultrafine_dust)
-- print ("기온        : ",weather_dict["T1H"])
-- print ("강수량      : ",weather_dict["RN1"])
-- print ("강수형태    : ",weather_dict["PTY"])
-- print ("하늘상태    : ",weather_dict["SKY"])
-- print ("낙뢰        : ",weather_dict["LGT"])
-- print ("풍속        : ",weather_dict["WSD"])
+
+- stationName = '광진구'
+- long = 127.073092
+- lati = 37.550208 
+- Longitude=12700
+- Latitude=3755
+- fine_dust = int(fine_dust)
+- Ultrafine_dust= int(Ultrafine_dust)
+- T1H = int(weather_dict["T1H"])
+- RN1 = float(weather_dict["RN1"])
+- PTY = int(weather_dict["PTY"])
+- SKY = int(weather_dict["SKY"])
+- LGT = int(weather_dict["LGT"])
+- WSD = int(weather_dict["WSD"])
