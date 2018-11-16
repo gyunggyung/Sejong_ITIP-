@@ -63,7 +63,7 @@
 
 ## 더 알아보기
 <b>프로그램 제작에 필요한 크롤러와 API들의 사용법입니다.</b>  
-> 크롤러 : https://github.com/newhiwoong/Sejong_ITIP-/blob/master/crawling.md  
-> 날씨 API : https://github.com/newhiwoong/Sejong_ITIP-/blob/master/weather.md  
-> 미세먼지 API : https://github.com/newhiwoong/Sejong_ITIP-/blob/master/fine-dust.md  
-> 구글맵 API : https://github.com/newhiwoong/Sejong_ITIP-/blob/master/googlemap.md  
+> 크롤러 : https://github.com/newhiwoong/Sejong_ITIP-/blob/master/MDfile/crawling.md  
+> 날씨 API : https://github.com/newhiwoong/Sejong_ITIP-/blob/master/MDfile/weather.md  
+> 미세먼지 API : https://github.com/newhiwoong/Sejong_ITIP-/blob/master/MDfile/fine-dust.md  
+> 구글맵 API : https://github.com/newhiwoong/Sejong_ITIP-/blob/master/MDfile/googlemap.md  
