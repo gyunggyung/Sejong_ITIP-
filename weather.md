@@ -15,7 +15,7 @@ get_weather_data(126.976695, 37.57737, API key)
 ```
 예를 들어, 경복궁의 실시간 기상정보를 불러오기 위해서 위와 같이 입력합니다.\
 2018년 11월 16시 5시 기준 출력값은\
-`{'T1H': '9', 'RN1': '0', 'PTY': '0', 'SKY': '1', 'LGT': '0', 'WSD': 'None'}` 입니다.
+`{'T1H': '9', 'RN1': '0', 'PTY': '0', 'SKY': '1', 'LGT': '0', 'WSD': 'None'}`입니다.
 
 ## Output
     data_parsed 에는 T1H, RN1, PTY, SKY, LGT, WSD 가 존재

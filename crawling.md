@@ -15,7 +15,7 @@
  ```python
 push_to_db()
 ```
- push_to_db 함수는 키워드에 해당하는 검색 결과를 불러와 하기 Output 목록 에 해당하는 값을 추출하여 Seoul_Place.csv 파일에 저장합니다.
+ push_to_db 함수는 키워드에 해당하는 검색 결과를 불러와 하기 Output 목록에 해당하는 값을 추출하여 Seoul_Place.csv 파일에 저장합니다.
   
  이와 별개로, get_location 함수를 실행해 현재 위치와 구 단위 주소를 받아올 수 있습니다.
  ```python
