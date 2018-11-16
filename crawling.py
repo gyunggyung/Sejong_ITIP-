@@ -5,31 +5,66 @@ from urllib.request import urlretrieve
 import time
 import csv
 
-
 options = webdriver.ChromeOptions()
-options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36")
-options.add_argument("--lang=en-US")
+options.add_experimental_option('prefs',{'profile.default_content_setting_values.geolocation':1})
 driver = webdriver.Chrome('chromedriver', chrome_options=options)
 
 
 def get_location():
     driver.get("https://www.google.co.kr/maps")
-    url = driver.current_url
-    while '/@' not in url:
+    new_url = driver.current_url
+    while '/@' not in new_url:
         time.sleep(0.5)
-        url = driver.current_url
-    coordinate = url.split('@')[1].split(',')[0:2]  # reversed
-    print(coordinate.reverse())
-    return coordinate.reverse()
+        new_url = driver.current_url
+
+    driver.find_element_by_xpath("//button[@aria-label='내 위치 보기']").click()
+    while new_url == driver.current_url:
+        time.sleep(0.3)
+    new_url = driver.current_url
+
+    while int(new_url.split("/@")[1].split("z")[0].split(",")[2]) < 20:
+        old_url = new_url
+        driver.find_element_by_xpath("//button[@aria-label='확대']").click()
+        driver.implicitly_wait(3)
+        while old_url == driver.current_url:
+            time.sleep(0.3)
+        new_url = driver.current_url
+        print(new_url)
+    coordinate = new_url.split('/@')[1].split(',')[0:2]
+
+    driver.find_element_by_id("searchboxinput").send_keys(",".join(coordinate))
+    driver.find_element_by_id("searchbox-searchbutton").click()
+    driver.implicitly_wait(3)
+    while True:
+        time.sleep(0.5)
+        new_url = driver.current_url
+        print(new_url)
+        if "search" in new_url:
+            try:
+                driver.find_element_by_class_name("section-result")
+            except NoSuchElementException:
+                print("redirecting")
+        elif "place" in new_url:
+            try:
+                place = driver.find_element_by_xpath("//span[@class='widget-pane-link']")
+            except NoSuchElementException:
+                print("loading")
+                time.sleep(0.2)
+            else:
+                break
+    coordinate.reverse()
+    address = place.text.split(' ')
+    for s in address:
+        if s[-1] == '구':
+            coordinate.append(s)
+            break
+
+    print(coordinate)
+    return coordinate
 
 
-def url_search(name_to_search, memoized, current_location):
-    if memoized[name_to_search] != "":
-        driver.get(memoized[name_to_search])
-        driver.find_element_by_class_name("section-pagination-button noprint").click()
-        time.sleep(0.5)
-        memoized[name_to_search] = driver.current_url
-    elif "place" in memoized[name_to_search]:
+def url_search(name_to_search, places, current_location):
+    if "place" in places[name_to_search]:
         print("searching over - "+name_to_search)
     else:
         driver.get(current_location)
@@ -52,11 +87,9 @@ def url_search(name_to_search, memoized, current_location):
                     print("redirecting")
                 else:
                     if "data" in new_url:
-                        memoized[name_to_search] = new_url
                         return
             elif "place" in new_url:
                 if "data" in new_url:
-                    memoized[name_to_search] = new_url
                     return
 
 
@@ -73,7 +106,7 @@ def iter_result(url, dup_chk):
 
     result_list = []
     result_num = int(soup.find("div", {"class":"section-pagination-right"}).find("span").find("span").find_next_sibling().get_text())
-    for i in range(1,result_num+1):
+    for i in range(1, result_num+1):
         while driver.find_element_by_xpath("//div[@data-result-index='"+str(i)+"']") is None:
             print("loading")
             time.sleep(0.5)
@@ -194,52 +227,43 @@ def extract_elements():
     return element_list
 
 
-def push_to_db_and_get_current_location():
-    db_file = open("Sejong_Place.csv", "r", encoding="utf-8")
+def push_to_db():
+    db_file = open("Seoul_Place.csv", "r", encoding="utf-8")
     place_list = []
     for row in csv.reader(db_file):
         place_list.append(row[0])
     print(place_list)
     db_file.close()
-    db_file = open("Sejong_Place.csv", "a+", encoding="utf-8")
+    db_file = open("Seoul_Place.csv", "a+", encoding="utf-8")
     db = csv.writer(db_file, lineterminator='\n')
     current_location = get_location()
 
-    place_memoized = {}
+    keywords = {}
     try:
-        place_file = open("search reminder.csv", "r", encoding="utf-8")
+        place_file = open("place_list.txt", "r", encoding="utf-8")
     except FileNotFoundError:
-        print("No search keywords. Terminate program")
+        print("No search keywords. Terminate program.")
         quit()
     else:
-        for row in csv.reader(place_file):
-            if len(row) == 1:
-                place_memoized[row[0]] = ""
-            elif len(row) == 2:
-                place_memoized[row[0]] = row[1]
+        for keyword in place_file.readlines():
+            if keyword != "":
+                keywords[keyword] = ""
         place_file.close()
 
     main_url = "https://www.google.com/maps/@"+current_location[1]+","+current_location[0]+",20z"
-    for place in list(place_memoized.keys()):
+    for place in list(keywords.keys()):
         print(place)
-        url_search(place, place_memoized, main_url)
+        url_search(place, keywords, main_url)
 
-    for url in list(place_memoized.values()):
+    for url in list(keywords.values()):
         result_list = iter_result(url, place_list)
         for result in result_list:
             if result is not None:
                 db.writerow(result)
     db_file.close()
 
-    place_file = open("search reminder.csv", "w", encoding="utf-8")
-    memo = csv.writer(place_file, lineterminator='\n')
-
-    for place in place_memoized.items():
-        memo.writerow(place)
-
-    return current_location
 
 
 if __name__ == "__main__":
-    push_to_db_and_get_current_location()
+    push_to_db()
     driver.close()
