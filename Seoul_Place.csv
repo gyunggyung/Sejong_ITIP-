@@ -1,405 +1,401 @@
-Name,Function,Details,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday,Score,NumOfReviews,Indoor/Outdoors,Longitude,Latitude,Image
-Gyeongbokgung Palace,Palace,"서울특별시에 있는 조선시대의 궁궐 중 하나이며, 조선의 정궁이기도 하다. 사적 제117호로 지정되어 있다. 서울특별시 종로구 사직로 161소재. 조선의 법궁이다.",9AM–6PM,Closed,9AM–6PM,9AM–6PM,9AM–6PM,9AM–6PM,9AM–6PM,4.6,"12,779",Outdoor,126.974847,37.579617,Gyeongbokgung Palace.jpg
-Seoul Namsan Tower,Tower,"대한민국을 대표하는 명실상부한 랜드마크 중 하나. 서울의 대표적인 랜드마크 중 하나. 타워 자체의 높이는 236.7m로, 에펠탑이나 도쿄 타워 등 다른 랜드마크에 비하면 낮은 높이지만 남산의 해발고도까지 합하면 479.7m가 된다. 전망대는 CJ푸드빌에서, 지하 상업시설은 YTN에서 운영하고 있다.",10AM–11PM,10AM–11PM,10AM–11PM,10AM–11PM,10AM–11PM,10AM–12AM,10AM–11PM,4.4,"16,784",Indoor,126.9860326,37.5511694,N Seoul Tower.jpg
-Changdeokgung,Palace,서울특별시에 있는 조선 - 대한제국시대 궁궐 중 하나. 1997년 유네스코 세계유산으로 등재되었다.,Closed,9AM–5PM,9AM–5PM,9AM–5PM,9AM–5PM,9AM–5PM,9AM–5PM,4.6,"3,657",Outdoor,126.9888087,37.5792907,Changdeokgung.jpg
-Bukchon Hanok Village,Historic-Culture Area,"서울특별시 종로구 가회동, 삼청동 내의 한옥 밀집지역을 칭한다.",9AM–6PM,9AM–6PM,9AM–6PM,9AM–6PM,9AM–6PM,9AM–5PM,9AM–5PM,4.3,"4,848",Outdoor,126.9814591,37.5824075,Bukchon Hanok Village.jpg
-Lotte World,Theme Park,"서울특별시 송파구 올림픽로 240(잠실동)에 위치한 건물로, 테마파크, 백화점, 호텔, 면세점, 대형 할인점이 한 곳에 모여 있는 대단위 복합 생활공간(CLT:Complex Life Town)을 표방하고 있다.",9:30AM–10PM,9:30AM–10PM,9:30AM–10PM,9:30AM–10PM,9:30AM–11PM,9:30AM–11PM,Closed,4.2,"13,061",Indoor/Outdoors,127.0969224,37.5112808,Lotte World.jpg
-Namsan Park,Park,서울특별시 중구와 용산구 사이에 있는 서울 시립공원. 예전에는 '한양공원(漢陽公園)으로 불렀으나 뒷날 지금의 이름으로 바뀌었다. 서울 남산을 중심으로 조성된 공원이며 가장 광활한 규모와 면적이다.,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,4.5,179,Outdoor,126.9887051,37.5509895,Namsan Park.jpg
-Namdaemun Market,Market,서울특별시 중구 회현동 숭례문 앞에 위치해 있는 서울특별시 도심 최대의 전문 재래시장. ,,,,,,,,4.1,"7,997",Outdoor,126.9754752,37.5591786,Namdaemun Market.jpg
-Cheonggyecheon,Tourist Attraction,서울의 한복판인 종로구와 중구와의 경계를 흐르는 하천. 한성(서울)내의 모든 물이 여기에 모여 동쪽으로 흐르다가 왕십리 밖 살곶이다리(현 한양대 서울캠퍼스 인근) 근처에서 중랑천과 합쳐 서쪽으로 흐름을 바꾸어 한강으로 빠진다.,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,4.1,"1,301",Outdoor,127.0224388,37.5713521,Cheonggyecheon.jpg
-Deoksugung,Palace,서울특별시 중구 세종대로 99(정동 5-1) 서울특별시청 건너편에 있는 조선 시대에 지어진 궁궐.,Closed,9AM–9PM,9AM–9PM,9AM–9PM,9AM–9PM,9AM–9PM,9AM–9PM,4.4,"5,077",Outdoor,126.9701883,37.5664117,Deoksugung.jpg
-Dongdaemun Market,Market,"종로 4가와 청계 4가에서 시작하여 흥인지문 인근까지 이어져 있는 재래시장과 쇼핑센터의 복합시장단지. 다른 말로 동대문종합시장, 동대문쇼핑타운, 동대문패션타운 등으로도 불린다.",9AM–6PM,9AM–6PM,9AM–6PM,9AM–6PM,9AM–6PM,9AM–6PM,Closed,4,"1,276",Outdoor,127.0014781,37.5693936,Dongdaemun Market.jpg
-Gwanghwamun Gate,Historical Landmark,"조선 왕조의 정궁인 경복궁의 정문을 가리키는 말. 다만 일반 대중들에겐 정문을 지칭하는 것 외에도 '광화문' 자체가 세종대로, 광화문광장 등을 비롯한 일대를 통칭하는 지명으로 많이 쓰이고 있다. ",8AM–5PM,8AM–5PM,8AM–5PM,8AM–5PM,8AM–5PM,8AM–5PM,8AM–5PM,4.5,"4,012",Outdoor,126.9746217,37.5759369,Gwanghwamun Gate.jpg
-Sungnyemun Gate,Historical Landmark,600년 동안 한양을 둘러싸고 있었던 한양도성의 남쪽에 위치한 문. 현재도 서울시의 중심에 위치하고 있다. 대한민국 국보 1호. 서울의 상징이나 다름 없는 건축물이다.,Closed,9AM–6PM,9AM–6PM,9AM–6PM,9AM–6PM,9AM–6PM,9AM–6PM,4.3,"2,606",Outdoor,126.9741131,37.5600716,Sungnyemun Gate.jpg
-Changgyeonggung Palace,Palace,"조선 시대의 궁궐 중 하나. 일제강점기 및 해방 후 40여 년 동안 '창경원(昌慶苑)'이라는 이름으로 불렸으나 1986년 궁궐 복원에 따라 창경궁으로 환원되었다. 서울특별시 종로구 와룡동에 있다.
-조선 시대에는 창덕궁과 연결되어 동궐로 불리면서 실질적으로 하나의 궁궐 역할을 했다.",Closed,9AM–5:30PM,9AM–5:30PM,9AM–5:30PM,9AM–5:30PM,9AM–5:30PM,9AM–5:30PM,4.5,879,Outdoor,126.9907223,37.5791008,Changgyeonggung Palace.jpg
-Jongmyo Shrine,Historical Landmark,조선 시대 역대 왕과 왕비 및 추존된 왕과 왕비의 신주(神主)를 모신 왕실의 유교 사당.  '종묘사직'이란 말에서 알 수 있듯 전제왕조 당시 왕실과 나라를 상징하는 건물 중 하나였다. ,,,,,,,,4.5,237,Outdoor,126.991949,37.574583,Jongmyo Shrine.jpg
-The National Folk Museum of Korea,Museum,"고유한 민속 자료의 수집·보존·전시와 이와 연관된 체계적인 조사·연구를 위해 설립된 문화체육관광부 산하 국립 박물관이다. 서울특별시 종로구 삼청로 37번지에 위치한 경복궁 경내에 위치해 있다. 2017년 부터 국립 박물관 관람 규칙에 의거 1월 1일, 설 당일, 추석 당일 휴관한다. ",9AM–6:30PM,9AM–6:30PM,9AM–6:30PM,9AM–6:30PM,9AM–6:30PM,9AM–7PM,9AM–7PM,4.4,626,Indoor,126.9768008,37.5816456,The National Folk Museum of Korea.jpg
-Blue House,Government Office,서울 종로구에 있는 대한민국 대통령의 관저.,,,,,,,,3.4,455,Indoor,126.9702079,37.5816452,Blue House.jpg
-Gwanghwamun Square,Plaza,서울특별시 종로구 광화문에서 세종로사거리와 청계광장으로 이어지는 세종로 중앙에 조성된 광장.,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,4.4,"1,927",Outdoor,126.974581,37.5740339,Gwanghwamun Square.jpg
-Bukhansan National Park,National Park,서울특별시와 경기도에 걸쳐 있는 산. '북한산'이란 이름은 조선 후기에 한강 이북에 있다고 하여 붙여진 이름이다.,4AM–5PM,4AM–5PM,4AM–5PM,4AM–5PM,4AM–5PM,4AM–5PM,4AM–5PM,4.5,401,Outdoor,126.9567363,37.6693702,Bukhansan National Park.jpg
-Banpo Bridge,Bridge,"서울특별시 용산구 서빙고동과 서초구 반포동을 잇는 길이 1,490m, 너비 25m의 6차선 다리이다. 한국 최초의 2층 교량으로, 1층은 홍수가 났을 때 물에 잠기도록 설계된 잠수교이고, 2층이 반포대교이다. ",,,,,,,,4.3,346,Outdoor,126.9610508,37.5156865,Banpo Bridge.jpg
-Dongdaemun Design Plaza,Cultural Center,"끊임없이 새롭고, 쉴 새 없이 움직이는 곳 
-꿈꾸고(Dream), 만들고(Design), 누린다(Play)는 뜻을 가지고 있는 DDP(동대문 디자인 플라자)는 전시, 패션쇼, 포럼, 컨퍼런스 등 국내외 주요 행사들을 진행하고 있다. 건축물투어는 현장접수, 행사 일정, 키즈 프로그램 등은 사이트를 통해 확인하고 신청할 수 있다. ",Closed,10AM–7PM,10AM–7PM,10AM–7PM,10AM–9PM,10AM–9PM,10AM–7PM,4.3,"8,501",Indoor,127.007312,37.566725,Dongdaemun Design Plaza.jpg
-Heunginjimun,Historical Landmark,"보물 제 1호, 서울특별시 종로구 종로6가에 있는 조선시대의 성문.",,,,,,,,4.1,"1,075",Outdoor,127.0007191,37.5667246,Heunginjimun.jpg
-National Museum of Korea,Museum,"대한민국 최대 규모의 국립 박물관.
+"Name","Function","Details","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday","Score","NumOfReviews","Indoor/Outdoors","Longitude","Latitude","Image"
+"Gyeongbokgung Palace","Palace","서울특별시에 있는 조선시대의 궁궐 중 하나이며, 조선의 정궁이기도 하다. 사적 제117호로 지정되어 있다. 서울특별시 종로구 사직로 161소재. 조선의 법궁이다.","9AM–6PM","Closed","9AM–6PM","9AM–6PM","9AM–6PM","9AM–6PM","9AM–6PM",4.6,"12,779","Outdoor",126.974847,37.579617,"Gyeongbokgung Palace.jpg"
+"Seoul Namsan Tower","Tower","대한민국을 대표하는 명실상부한 랜드마크 중 하나. 서울의 대표적인 랜드마크 중 하나. 타워 자체의 높이는 236.7m로, 에펠탑이나 도쿄 타워 등 다른 랜드마크에 비하면 낮은 높이지만 남산의 해발고도까지 합하면 479.7m가 된다. 전망대는 CJ푸드빌에서, 지하 상업시설은 YTN에서 운영하고 있다.","10AM–11PM","10AM–11PM","10AM–11PM","10AM–11PM","10AM–11PM","10AM–0PM","10AM–11PM",4.4,"16,784","Indoor",126.9860326,37.5511694,"N Seoul Tower.jpg"
+"Changdeokgung","Palace","서울특별시에 있는 조선 – 대한제국시대 궁궐 중 하나. 1997년 유네스코 세계유산으로 등재되었다.","Closed","9AM–5PM","9AM–5PM","9AM–5PM","9AM–5PM","9AM–5PM","9AM–5PM",4.6,"3,657","Outdoor",126.9888087,37.5792907,"Changdeokgung.jpg"
+"Bukchon Hanok Village","Historic–Culture Area","서울특별시 종로구 가회동, 삼청동 내의 한옥 밀집지역을 칭한다.","9AM–6PM","9AM–6PM","9AM–6PM","9AM–6PM","9AM–6PM","9AM–5PM","9AM–5PM",4.3,"4,848","Outdoor",126.9814591,37.5824075,"Bukchon Hanok Village.jpg"
+"Lotte World","Theme Park","서울특별시 송파구 올림픽로 240(잠실동)에 위치한 건물로, 테마파크, 백화점, 호텔, 면세점, 대형 할인점이 한 곳에 모여 있는 대단위 복합 생활공간(CLT:Complex Life Town)을 표방하고 있다.","9:30AM–10PM","9:30AM–10PM","9:30AM–10PM","9:30AM–10PM","9:30AM–11PM","9:30AM–11PM","Closed",4.2,"13,061","Indoor/Outdoors",127.0969224,37.5112808,"Lotte World.jpg"
+"Namsan Park","Park","서울특별시 중구와 용산구 사이에 있는 서울 시립공원. 예전에는 '한양공원(漢陽公園)으로 불렀으나 뒷날 지금의 이름으로 바뀌었다. 서울 남산을 중심으로 조성된 공원이며 가장 광활한 규모와 면적이다.","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours",4.5,179,"Outdoor",126.9887051,37.5509895,"Namsan Park.jpg"
+"Namdaemun Market","Market","서울특별시 중구 회현동 숭례문 앞에 위치해 있는 서울특별시 도심 최대의 전문 재래시장. ",,,,,,,,4.1,"7,997","Outdoor",126.9754752,37.5591786,"Namdaemun Market.jpg"
+"Cheonggyecheon","Tourist Attraction","서울의 한복판인 종로구와 중구와의 경계를 흐르는 하천. 한성(서울)내의 모든 물이 여기에 모여 동쪽으로 흐르다가 왕십리 밖 살곶이다리(현 한양대 서울캠퍼스 인근) 근처에서 중랑천과 합쳐 서쪽으로 흐름을 바꾸어 한강으로 빠진다.","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours",4.1,"1,301","Outdoor",127.0224388,37.5713521,"Cheonggyecheon.jpg"
+"Deoksugung","Palace","서울특별시 중구 세종대로 99(정동 5–1) 서울특별시청 건너편에 있는 조선 시대에 지어진 궁궐.","Closed","9AM–9PM","9AM–9PM","9AM–9PM","9AM–9PM","9AM–9PM","9AM–9PM",4.4,"5,077","Outdoor",126.9701883,37.5664117,"Deoksugung.jpg"
+"Dongdaemun Market","Market","종로 4가와 청계 4가에서 시작하여 흥인지문 인근까지 이어져 있는 재래시장과 쇼핑센터의 복합시장단지. 다른 말로 동대문종합시장, 동대문쇼핑타운, 동대문패션타운 등으로도 불린다.","9AM–6PM","9AM–6PM","9AM–6PM","9AM–6PM","9AM–6PM","9AM–6PM","Closed",4,"1,276","Outdoor",127.0014781,37.5693936,"Dongdaemun Market.jpg"
+"Gwanghwamun Gate","Historical Landmark","조선 왕조의 정궁인 경복궁의 정문을 가리키는 말. 다만 일반 대중들에겐 정문을 지칭하는 것 외에도 '광화문' 자체가 세종대로, 광화문광장 등을 비롯한 일대를 통칭하는 지명으로 많이 쓰이고 있다. ","8AM–5PM","8AM–5PM","8AM–5PM","8AM–5PM","8AM–5PM","8AM–5PM","8AM–5PM",4.5,"4,012","Outdoor",126.9746217,37.5759369,"Gwanghwamun Gate.jpg"
+"Sungnyemun Gate","Historical Landmark","600년 동안 한양을 둘러싸고 있었던 한양도성의 남쪽에 위치한 문. 현재도 서울시의 중심에 위치하고 있다. 대한민국 국보 1호. 서울의 상징이나 다름 없는 건축물이다.","Closed","9AM–6PM","9AM–6PM","9AM–6PM","9AM–6PM","9AM–6PM","9AM–6PM",4.3,"2,606","Outdoor",126.9741131,37.5600716,"Sungnyemun Gate.jpg"
+"Changgyeonggung Palace","Palace","조선 시대의 궁궐 중 하나. 일제강점기 및 해방 후 40여 년 동안 '창경원(昌慶苑)'이라는 이름으로 불렸으나 1986년 궁궐 복원에 따라 창경궁으로 환원되었다. 서울특별시 종로구 와룡동에 있다.
+조선 시대에는 창덕궁과 연결되어 동궐로 불리면서 실질적으로 하나의 궁궐 역할을 했다.","Closed","9AM–5:30PM","9AM–5:30PM","9AM–5:30PM","9AM–5:30PM","9AM–5:30PM","9AM–5:30PM",4.5,879,"Outdoor",126.9907223,37.5791008,"Changgyeonggung Palace.jpg"
+"Jongmyo Shrine","Historical Landmark","조선 시대 역대 왕과 왕비 및 추존된 왕과 왕비의 신주(神主)를 모신 왕실의 유교 사당.  '종묘사직'이란 말에서 알 수 있듯 전제왕조 당시 왕실과 나라를 상징하는 건물 중 하나였다. ",,,,,,,,4.5,237,"Outdoor",126.991949,37.574583,"Jongmyo Shrine.jpg"
+"The National Folk Museum of Korea","Museum","고유한 민속 자료의 수집·보존·전시와 이와 연관된 체계적인 조사·연구를 위해 설립된 문화체육관광부 산하 국립 박물관이다. 서울특별시 종로구 삼청로 37번지에 위치한 경복궁 경내에 위치해 있다. 2017년 부터 국립 박물관 관람 규칙에 의거 1월 1일, 설 당일, 추석 당일 휴관한다. ","9AM–6:30PM","9AM–6:30PM","9AM–6:30PM","9AM–6:30PM","9AM–6:30PM","9AM–7PM","9AM–7PM",4.4,626,"Indoor",126.9768008,37.5816456,"The National Folk Museum of Korea.jpg"
+"Blue House","Government Office","서울 종로구에 있는 대한민국 대통령의 관저.",,,,,,,,3.4,455,"Indoor",126.9702079,37.5816452,"Blue House.jpg"
+"Gwanghwamun Square","Plaza","서울특별시 종로구 광화문에서 세종로사거리와 청계광장으로 이어지는 세종로 중앙에 조성된 광장.","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours",4.4,"1,927","Outdoor",126.974581,37.5740339,"Gwanghwamun Square.jpg"
+"Bukhansan National Park","National Park","서울특별시와 경기도에 걸쳐 있는 산. '북한산'이란 이름은 조선 후기에 한강 이북에 있다고 하여 붙여진 이름이다.","4AM–5PM","4AM–5PM","4AM–5PM","4AM–5PM","4AM–5PM","4AM–5PM","4AM–5PM",4.5,401,"Outdoor",126.9567363,37.6693702,"Bukhansan National Park.jpg"
+"Banpo Bridge","Bridge","서울특별시 용산구 서빙고동과 서초구 반포동을 잇는 길이 1,490m, 너비 25m의 6차선 다리이다. 한국 최초의 2층 교량으로, 1층은 홍수가 났을 때 물에 잠기도록 설계된 잠수교이고, 2층이 반포대교이다. ",,,,,,,,4.3,346,"Outdoor",126.9610508,37.5156865,"Banpo Bridge.jpg"
+"Dongdaemun Design Plaza","Cultural Center","끊임없이 새롭고, 쉴 새 없이 움직이는 곳 
+꿈꾸고(Dream), 만들고(Design), 누린다(Play)는 뜻을 가지고 있는 DDP(동대문 디자인 플라자)는 전시, 패션쇼, 포럼, 컨퍼런스 등 국내외 주요 행사들을 진행하고 있다. 건축물투어는 현장접수, 행사 일정, 키즈 프로그램 등은 사이트를 통해 확인하고 신청할 수 있다. ","Closed","10AM–7PM","10AM–7PM","10AM–7PM","10AM–9PM","10AM–9PM","10AM–7PM",4.3,"8,501","Indoor",127.007312,37.566725,"Dongdaemun Design Plaza.jpg"
+"Heunginjimun","Historical Landmark","보물 제 1호, 서울특별시 종로구 종로6가에 있는 조선시대의 성문.",,,,,,,,4.1,"1,075","Outdoor",127.0007191,37.5667246,"Heunginjimun.jpg"
+"National Museum of Korea","Museum","대한민국 최대 규모의 국립 박물관.
 국립중앙박물관은 박물관 일반의 사업 외에 다음 각 호의 업무를 수행한다
-- 국내외 문화재의 보존·관리
-- 국내외 박물관자료의 체계적인 보존·관리
-- 국내 다른 박물관에 대한 지도·지원 및 업무 협조
-- 국내 박물관 협력망의 구성 및 운영
-- 그 밖에 국가를 대표하는 박물관으로서의 기능 수행에 필요한 업무",10AM–6PM,10AM–6PM,10AM–9PM,10AM–6PM,10AM–6PM,10AM–9PM,10AM–7PM,4.6,"5,788",Indoor,126.9782762,37.5238506,National Museum of Korea.jpg
-63 Building,Tower,"현대식 63 층 타워. IMAX 영화관, 수족관 및 서울 도시 전경을 볼 수 있는하늘 갑판 등이있다.",,,,,,,,4.1,"2,605",Indoor,126.9380163,37.5193776,63 Building.jpg
-Seoul Grand Park,Theme Park,"미술관 및 테마파크로 1995년 현재 동물원에는 총 366종 3,048수의 동물이 세계지도 모형으로 배치된 아프리카관 ·유라시아관 ·남북미관 ·호주관 등 75개 사육사에서 사육되고 있다. 
+– 국내외 문화재의 보존·관리
+– 국내외 박물관자료의 체계적인 보존·관리
+– 국내 다른 박물관에 대한 지도·지원 및 업무 협조
+– 국내 박물관 협력망의 구성 및 운영
+– 그 밖에 국가를 대표하는 박물관으로서의 기능 수행에 필요한 업무","10AM–6PM","10AM–6PM","10AM–9PM","10AM–6PM","10AM–6PM","10AM–9PM","10AM–7PM",4.6,"5,788","Indoor",126.9782762,37.5238506,"National Museum of Korea.jpg"
+"63 Building","Tower","현대식 63 층 타워. IMAX 영화관, 수족관 및 서울 도시 전경을 볼 수 있는하늘 갑판 등이있다.",,,,,,,,4.1,"2,605","Indoor",126.9380163,37.5193776,"63 Building.jpg"
+"Seoul Grand Park","Theme Park","미술관 및 테마파크로 1995년 현재 동물원에는 총 366종 3,048수의 동물이 세계지도 모형으로 배치된 아프리카관 ·유라시아관 ·남북미관 ·호주관 등 75개 사육사에서 사육되고 있다. 
 식물원에는 총 1,144종 3만 6610본의 열대 ·아열대식물이 2,825㎡ 넓이의 열대 ·아열대관, 선인장 및 다육식물관, 난 ·양치류관 등에 수집되어 있다.
-부대시설로는 청소년 문화시설 ·시민이용 위락시설 ·자연공원 ·호수 ·관리시설 등이 있고, 그 밖에도 민속놀이터 ·잔디운동장 ·전망대 ·어린이놀이터 ·음악당 등과 동물 ·식물연구소가 있다. 이 가운데 동 ·식물원과 부대시설은 시비로, 문화시설 및 위락시설은 민자를 유치해서 운영하고 있다. 이 밖에도 호수변을 순회하는 무궤도열차가 운행되고 있다.",,,,,,,,4.3,"3,958",Outdoor,127.0029734,37.431624,Seoul Grand Park.jpg
-War Memorial of Korea,Museum,"전쟁에 관한 사적과 사건을 기념하기 위해 1991년에 착공하여 1994년 6월 개관한 기념관. 연건평 2만 5천 평에 지하 2층, 지상 4층 규모이며, 호국추모실·전쟁역사실·한국전쟁실·해외파병실·국군발전실·대형장비실 등 6개 전시실로 구분되어 있다.",,,,,,,,4.5,"6,163",Indoor,126.9749457,37.5366059,War Memorial of Korea.jpg
-Seoul Forest,Park,뉴욕의 센트럴 파크나 런던의 하이드 파크 등을 본따 조성한 서울 도심 속의 녹지. 약 35만 평의 부지에 약 2352억 원의 사업비를 들여 테마공원 다섯 곳과 기타 시설들을 만들고 2005년 6월에 개장하였다.,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,4.5,"1,814",Outdoor,127.0362841,37.5450111,Seoul Forest.jpg
-Bongeunsa,Religious Building,"서울특별시 강남구 삼성동 봉은사로에 위치한 도심 속의 고찰(古刹). 대한불교 조계종 종파의 사찰이며, 신라 원성왕 때인 서기 794년에 창건되었다.",,,,,,,,4.6,367,Outdoor,127.0551826,37.514852,Bongeunsa.jpg
-Jogyesa,Religious Building,"서울특별시 종로구에 위치한 사찰. 대한민국 불교의 1번지이자 대한불교 조계종의 총본산(總本山). 사찰 규모는 아담하지만, 한국불교 최대 종단의 본사(本寺)답게 경복궁 근정전에 맞먹는다는 크고 아름다운 대웅전이 있고, 입구에는 '大韓佛敎總本山曹溪寺(대한불교 총본산 조계사)' 현판이 걸린 거대한 일주문이 정문 역할을 한다. 경내에는 천연기념물 제9호인 백송(Pinus bungeana)이 자라고 있다. ",,,,,,,,4.3,319,Outdoor,126.9804558,37.5743716,Jogyesa.jpg
-Olympic Park,Park,"올림픽 공원은 체육공간, 문화예술공간, 역사와 교육의 장소, 휴식공간 등 다양한 용도를 갖춘 만능공원으로 자리매김하고 있다. 또한 백제 초기의 유적인 몽촌토성과 몽촌해자(인공호수)를 중심으로 43만평의 대지 위에 조성되어 있고, 세계적인 조각작품들, 기념조형물, 88놀이마당, 산책로, 올림픽스포츠센터 등이 들어서 있다. 이 외에도 각종 유료, 무료 공연이 수시 개최되고 있어 시민들을 위한 다목적 휴식공간의 역할을 담당하고 있다. 서울올림픽을 치른 수영장, 체조경기장, SK핸드볼경기장, 우리금융아트홀, 테니스장을 비롯, 벨로드롬등이 있다.",,,,,,,,4.6,854,Indoor/Outdoors,127.1193001,37.5206868,Olympic Park.jpg
-Namhansanseong World Heritage Centre,Tourist Attraction,"경기도 광주시 남한산성면 산성리에 있는 북한산성과 함께 수도 한양을 지키던 조선시대의 산성. 사적 제57호. 현재 남아있는 시설은 동·서·남문루와 장대·돈대·보 등의 방어시설과 비밀통로인 암문, 우물, 관아, 군사훈련시설 등이 있다.",9AM–5PM,9AM–5PM,9AM–5PM,9AM–5PM,9AM–5PM,9AM–5PM,9AM–5PM,4.2,298,Outdoor,127.1843729,37.4790366,Namhansanseong World Heritage Centre.jpg
-Seoul Land,Theme Park,경기도 과천시 서울대공원 안에 있는 대단위 위락공간이다. 놀이·교양·편익·조경·휴양·운동·교통·관리시설 등 8개 부문에 걸쳐 250여 가지의 각종 시설을 갖추고 있다.,9:30AM–10PM,9:30AM–10PM,9:30AM–10PM,9:30AM–10PM,9:30AM–10PM,9:30AM–10PM,9:30AM–10PM,4.2,"3,128",Outdoor,127.0179327,37.4341563,Seoul Land.jpg
-Seoul Children's Grand Park,Theme Park,"서울 광진구에 있는 어린이공원. 가족 단위 휴식공간으로, 공원 출입문은 정문, 동문, 서문, 남문, 북문, 후문, 능동문, 회관문, 구의문 등 9개가 있으며, 주요 시설로 동물나라, 놀이동산, 자연나라 등이 있다. ",5AM–10PM,5AM–10PM,5AM–10PM,5AM–10PM,5AM–10PM,5AM–10PM,5AM–10PM,4.4,"2,973",Outdoor,127.0699623,37.5483014,Seoul Children's Grand Park.jpg
-Inwangsan,Mountain,서울 종로구와 서대문구 홍제동(弘濟洞) 경계에 있는 산.,,,,,,,,4.4,54,Outdoor,126.9417517,37.5849471,Inwangsan.jpg
-Gyeonghuigung,Palace,조선 후기 동안 정궁인 창덕궁에 이은 제2의 궁궐(이궁)로 양대 궁궐 체제의 한 축을 담당했다. 많은 왕들이 경희궁에서 적지 않은 시간 동안 거처하면서 창덕궁이 지닌 정궁으로서의 기능을 일정 부분 나눠서 수행했다. 조선시대에는 주로 창덕궁+창경궁을 지칭하는 '동궐'에 대비되는 이름인 '서궐'로 불리웠다.,Closed,9AM–6PM,9AM–6PM,9AM–6PM,9AM–6PM,9AM–6PM,9AM–6PM,4.2,274,Outdoor,126.9659748,37.5712378,Gyeonghuigung.jpg
-World Cup Park (월드컵공원),Park,"서울특별시 마포구 상암동과 성산동 일원에 2002 FIFA 월드컵 한국/일본을 기념하여 조성된 공원이다. 1978년부터 1993년까지 한강변의 쓰레기 매립장이었던 난지도 쓰레기 매집장이 폐쇄된 자리와 그 주변에 조성하였으며, 평화의 공원, 하늘공원, 노을공원, 난지천공원, 난지한강공원등 5개의 공원으로 이루어져 있다.",8:30AM–6PM,8:30AM–6PM,8:30AM–6PM,8:30AM–6PM,8:30AM–6PM,Closed,Closed,4.3,236,Outdoor,126.8951226,37.5639074,World Cup Park (월드컵공원).jpg
-Trickeye Museum Seoul,Museum,"트릭아이뮤지엄은 관람객이 주인공이 되는 신개념의 문화,엔터테인먼트 공간으로 미술작품 전시관으로는 세계 최초로 작품에 AR(증강현실)기술을 적용해 관람객에게 더욱 놀라운 경험을제공하고 있습니다.  Trickeye 앱을 설치한 뒤, 작품과 적당한 거리를 두고 정해진 위치에서 찍으면 놀라운 AR효과가 나타나며, 사진뿐만 아니면, 동영상에도 효과적용이 가능합니다. 작품을 영상으로 찍으면 더 실감나고 놀라운 증강현실을 즐길 수 있습니다.",9AM–9PM,9AM–9PM,9AM–9PM,9AM–9PM,9AM–9PM,9AM–9PM,9AM–9PM,4.2,"1,967",Indoor,126.9195323,37.5535655,Trickeye Museum Seoul.jpg
-National Palace Museum of Korea,Museum,"조선왕실의 문화재 및 궁중 유물을 전시·관리하고 있으며 궁중유물의 홍보 및 사회교육, 학술도서와 자료의 수집, 출판, 관리 업무도 담당한다.
+부대시설로는 청소년 문화시설 ·시민이용 위락시설 ·자연공원 ·호수 ·관리시설 등이 있고, 그 밖에도 민속놀이터 ·잔디운동장 ·전망대 ·어린이놀이터 ·음악당 등과 동물 ·식물연구소가 있다. 이 가운데 동 ·식물원과 부대시설은 시비로, 문화시설 및 위락시설은 민자를 유치해서 운영하고 있다. 이 밖에도 호수변을 순회하는 무궤도열차가 운행되고 있다.",,,,,,,,4.3,"3,958","Outdoor",127.0029734,37.431624,"Seoul Grand Park.jpg"
+"War Memorial of Korea","Museum","전쟁에 관한 사적과 사건을 기념하기 위해 1991년에 착공하여 1994년 6월 개관한 기념관. 연건평 2만 5천 평에 지하 2층, 지상 4층 규모이며, 호국추모실·전쟁역사실·한국전쟁실·해외파병실·국군발전실·대형장비실 등 6개 전시실로 구분되어 있다.",,,,,,,,4.5,"6,163","Indoor",126.9749457,37.5366059,"War Memorial of Korea.jpg"
+"Seoul Forest","Park","뉴욕의 센트럴 파크나 런던의 하이드 파크 등을 본따 조성한 서울 도심 속의 녹지. 약 35만 평의 부지에 약 2352억 원의 사업비를 들여 테마공원 다섯 곳과 기타 시설들을 만들고 2005년 6월에 개장하였다.","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours",4.5,"1,814","Outdoor",127.0362841,37.5450111,"Seoul Forest.jpg"
+"Bongeunsa","Religious Building","서울특별시 강남구 삼성동 봉은사로에 위치한 도심 속의 고찰(古刹). 대한불교 조계종 종파의 사찰이며, 신라 원성왕 때인 서기 794년에 창건되었다.",,,,,,,,4.6,367,"Outdoor",127.0551826,37.514852,"Bongeunsa.jpg"
+"Jogyesa","Religious Building","서울특별시 종로구에 위치한 사찰. 대한민국 불교의 1번지이자 대한불교 조계종의 총본산(總本山). 사찰 규모는 아담하지만, 한국불교 최대 종단의 본사(本寺)답게 경복궁 근정전에 맞먹는다는 크고 아름다운 대웅전이 있고, 입구에는 '大韓佛敎總本山曹溪寺(대한불교 총본산 조계사)' 현판이 걸린 거대한 일주문이 정문 역할을 한다. 경내에는 천연기념물 제9호인 백송(Pinus bungeana)이 자라고 있다. ",,,,,,,,4.3,319,"Outdoor",126.9804558,37.5743716,"Jogyesa.jpg"
+"Olympic Park","Park","올림픽 공원은 체육공간, 문화예술공간, 역사와 교육의 장소, 휴식공간 등 다양한 용도를 갖춘 만능공원으로 자리매김하고 있다. 또한 백제 초기의 유적인 몽촌토성과 몽촌해자(인공호수)를 중심으로 43만평의 대지 위에 조성되어 있고, 세계적인 조각작품들, 기념조형물, 88놀이마당, 산책로, 올림픽스포츠센터 등이 들어서 있다. 이 외에도 각종 유료, 무료 공연이 수시 개최되고 있어 시민들을 위한 다목적 휴식공간의 역할을 담당하고 있다. 서울올림픽을 치른 수영장, 체조경기장, SK핸드볼경기장, 우리금융아트홀, 테니스장을 비롯, 벨로드롬등이 있다.",,,,,,,,4.6,854,"Indoor/Outdoors",127.1193001,37.5206868,"Olympic Park.jpg"
+"Namhansanseong World Heritage Centre","Tourist Attraction","경기도 광주시 남한산성면 산성리에 있는 북한산성과 함께 수도 한양을 지키던 조선시대의 산성. 사적 제57호. 현재 남아있는 시설은 동·서·남문루와 장대·돈대·보 등의 방어시설과 비밀통로인 암문, 우물, 관아, 군사훈련시설 등이 있다.","9AM–5PM","9AM–5PM","9AM–5PM","9AM–5PM","9AM–5PM","9AM–5PM","9AM–5PM",4.2,298,"Outdoor",127.1843729,37.4790366,"Namhansanseong World Heritage Centre.jpg"
+"Seoul Land","Theme Park","경기도 과천시 서울대공원 안에 있는 대단위 위락공간이다. 놀이·교양·편익·조경·휴양·운동·교통·관리시설 등 8개 부문에 걸쳐 250여 가지의 각종 시설을 갖추고 있다.","9:30AM–10PM","9:30AM–10PM","9:30AM–10PM","9:30AM–10PM","9:30AM–10PM","9:30AM–10PM","9:30AM–10PM",4.2,"3,128","Outdoor",127.0179327,37.4341563,"Seoul Land.jpg"
+"Seoul Children's Grand Park","Theme Park","서울 광진구에 있는 어린이공원. 가족 단위 휴식공간으로, 공원 출입문은 정문, 동문, 서문, 남문, 북문, 후문, 능동문, 회관문, 구의문 등 9개가 있으며, 주요 시설로 동물나라, 놀이동산, 자연나라 등이 있다. ","5AM–10PM","5AM–10PM","5AM–10PM","5AM–10PM","5AM–10PM","5AM–10PM","5AM–10PM",4.4,"2,973","Outdoor",127.0699623,37.5483014,"Seoul Children's Grand Park.jpg"
+"Inwangsan","Mountain","서울 종로구와 서대문구 홍제동(弘濟洞) 경계에 있는 산.",,,,,,,,4.4,54,"Outdoor",126.9417517,37.5849471,"Inwangsan.jpg"
+"Gyeonghuigung","Palace","조선 후기 동안 정궁인 창덕궁에 이은 제2의 궁궐(이궁)로 양대 궁궐 체제의 한 축을 담당했다. 많은 왕들이 경희궁에서 적지 않은 시간 동안 거처하면서 창덕궁이 지닌 정궁으로서의 기능을 일정 부분 나눠서 수행했다. 조선시대에는 주로 창덕궁+창경궁을 지칭하는 '동궐'에 대비되는 이름인 '서궐'로 불리웠다.","Closed","9AM–6PM","9AM–6PM","9AM–6PM","9AM–6PM","9AM–6PM","9AM–6PM",4.2,274,"Outdoor",126.9659748,37.5712378,"Gyeonghuigung.jpg"
+"World Cup Park (월드컵공원)","Park","서울특별시 마포구 상암동과 성산동 일원에 2002 FIFA 월드컵 한국/일본을 기념하여 조성된 공원이다. 1978년부터 1993년까지 한강변의 쓰레기 매립장이었던 난지도 쓰레기 매집장이 폐쇄된 자리와 그 주변에 조성하였으며, 평화의 공원, 하늘공원, 노을공원, 난지천공원, 난지한강공원등 5개의 공원으로 이루어져 있다.","8:30AM–6PM","8:30AM–6PM","8:30AM–6PM","8:30AM–6PM","8:30AM–6PM","Closed","Closed",4.3,236,"Outdoor",126.8951226,37.5639074,"World Cup Park (월드컵공원).jpg"
+"Trickeye Museum Seoul","Museum","트릭아이뮤지엄은 관람객이 주인공이 되는 신개념의 문화,엔터테인먼트 공간으로 미술작품 전시관으로는 세계 최초로 작품에 AR(증강현실)기술을 적용해 관람객에게 더욱 놀라운 경험을제공하고 있습니다.  Trickeye 앱을 설치한 뒤, 작품과 적당한 거리를 두고 정해진 위치에서 찍으면 놀라운 AR효과가 나타나며, 사진뿐만 아니면, 동영상에도 효과적용이 가능합니다. 작품을 영상으로 찍으면 더 실감나고 놀라운 증강현실을 즐길 수 있습니다.","9AM–9PM","9AM–9PM","9AM–9PM","9AM–9PM","9AM–9PM","9AM–9PM","9AM–9PM",4.2,"1,967","Indoor",126.9195323,37.5535655,"Trickeye Museum Seoul.jpg"
+"National Palace Museum of Korea","Museum","조선왕실의 문화재 및 궁중 유물을 전시·관리하고 있으며 궁중유물의 홍보 및 사회교육, 학술도서와 자료의 수집, 출판, 관리 업무도 담당한다.
 박물관은 지상2층, 지하1층의 규모(연면적 18,284 ㎡)로 전시실(15개실), 수장고, 보존과학실 등의 시설이 있다.
-전시실은 제왕기록실, 국가의례실, 궁궐건축실, 과학문화실, 왕실생활실, 탄생교육실, 왕실문예실, 대한제국실, 궁중회화실, 궁중음악실, 어가의장실, 자격루실 등으로 구성되어 궁중 유물을 전시하고 있다.",9AM–6PM,9AM–6PM,9AM–6PM,9AM–6PM,9AM–6PM,9AM–7PM,9AM–7PM,4.4,"1,510",Indoor,126.9729025,37.5765793,National Palace Museum of Korea.jpg
-Seoul Museum of History,Museum,"서울역사박물관은 조선시대부터 현재에 이르기까지의 서울의 역사와 문화를 정리하여 보여주는 서울도시역사박물관입니다.(개관 2002.5.21)
-도시 서울의 역사를 담은 세계에서 유일한 박물관으로 상설전시실, 기획전시실, 기증유물전시실, 교육실, 강당, 뮤지엄샵이 있으며 전통문화체험교실, 아이좋은 박물관 등 대상별 맞춤 교육프로그램과 음악회 등 다양한 문화프로그램을 운영하고 있습니다.",Closed,9AM–8PM,9AM–8PM,9AM–8PM,9AM–8PM,9AM–7PM,9AM–7PM,4.4,"1,376",Indoor,126.9683159,37.5705077,Seoul Museum of History.jpg
-"Leeum, Samsung Museum of Art",Art Museum,1965년 삼성문화재단 설립 이후 소중한 문화 유산을 보전하고 대중에게 알리고자 노력해온 삼성미술관은 2004년 서울 한남동에 미술관 건물을 신축하면서 삼성미술관 Leeum을 개관했습니다. 수준 높은 소장품 전시 및 기획전시 개최 등 그간의 괄목할만한 활동과 성과로 지금 리움은 명실공히 한국을 대표하는 미술관으로 성장하였습니다.,Closed,10:30AM–6PM,10:30AM–6PM,10:30AM–6PM,10:30AM–6PM,10:30AM–6PM,10:30AM–6PM,4.4,849,Indoor,126.996385,37.538122,"Leeum, Samsung Museum of Art.jpg"
-Dobongsan,Mountain,"서울특별시 도봉구와 경기도 의정부시, 양주시 장흥면에 걸쳐 있는 해발 740m의 산.",,,,,,,,4.5,92,Outdoor,126.9981318,37.7004617,Dobongsan.jpg
-Unhyeongung,Palace,"서울특별시 종로구에 있는 조선 후기 흥선대원군의 사가.  1977년 11월 22일 사적 제257호로 지정되었다. 흥선대원군의 둘째 아들인 고종(高宗:재위 1863∼1907)이 출생하여 12세에 왕위에 오르기 전까지 성장한 잠저(潛邸)이다. 철종(哲宗:재위 1849∼1863)의 뒤를 이어 고종이 즉위하자 생부(生父) 이하응(李昰應)은 흥선대원군이 되었고, 생모 민씨는 여흥부대부인(驪興府大夫人)의 봉작을 받았다. ",Closed,9AM–7PM,9AM–7PM,9AM–7PM,9AM–7PM,9AM–7PM,9AM–7PM,4.2,614,Outdoor,126.9852092,37.5760774,Unhyeongung.jpg
-Tapgol Park,Park,사적 제354호로 지정되어 있는 탑골공원은 우리나라 최초의 도심 내 공원으로 1919년 3·1운동이 일어났던 곳이다. 고려시대 흥복사가 있던 자리에 1465년(세조 11년)에 원각사라는 절이 세워졌으나 연산군 때 폐사되었고 고종 34년에 영국인 브라운의 설계에 의해 공원으로 조성되었다.,,,,,,,,3.6,710,Outdoor,126.986191,37.5715621,Tapgol Park.jpg
-Yeouido Hangang Park,Park,"여의도한강공원은 정치, 금융, 언론의 중심지인 여의도에 자리하고 지하철, 버스 등 대중교통으로 접근성이 좋아 직장인과 일반시민들이 즐겨찾는 명소이자 봄꽃축제, 세계불꽃축제, 각종 공연 및 마라톤행사 등 다양한 행사가 이어져 볼거리와 즐길거리가 풍부한 휴식공간입니다. 
-또한 밤섬, 여의도 샛강 등이 비교적 자연그대로 보존되어 있어 생태학습장 및 자연친화형 공원으로 조성되어 있습니다",Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,4.5,"2,691",Outdoor,126.9321072,37.5284017,Yeouido Hangang Park.jpg
-Myeongdong Cathedral,Cathedral,명동성당은 천주교 서울대교구의 주교좌 성당으로 한국 최초의 본당이자 한국 천주교를 대변하는 대성당이다. ,,,,,,,,4.5,624,Indoor,126.9842134,37.5630609,Myeongdong Cathedral.jpg
-Namsangol Hanok Village,Cultural Preservation Area,"서울특별시 중구 필동 일대의 한옥이 보존되어 있는 마을.  1989년 남산골의 제모습 찾기 사업에 의해 조성한 마을로 수도방위사령부 부지를 인수하여, 서울특별시 지정 민속자료 한옥 5개 동을 이전 복원하고 전통정원으로 꾸몄다. 1998년 4월 18일에 개관하였다.",Closed,9AM–9PM,9AM–9PM,9AM–9PM,9AM–9PM,9AM–9PM,9AM–9PM,4.2,"3,127",Outdoor,126.992283,37.559315,Namsangol Hanok Village.jpg
-Gwanaksan,Mountain,"서울특별시 관악구 신림동과 동작구 사당동, 경기도 안양시, 과천시의 경계에 있는 산이다. 높이는 632 m.",,,,,,,,4.5,117,Outdoor,126.9434499,37.4429367,Gwanaksan.jpg
-Gyeongui Line Forest Park,Park,서울특별시 마포구 연남동에서 용산구 효창동까지 이어진 6.3km 길이의 공원. 옛 경의선(용산선) 폐철길을 공원으로 탈바꿈시킨 서울의 도시재생 프로젝트의 일환이다. 일부 구간에는 경의선 시절의 레일 및 건널목을 재현해 놓았다. 옛 폐차량을 체험 목적으로 전시한 곳도 있다.,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,4.3,118,Outdoor,126.9233815,37.5584769,Gyeongui Line Forest Park.jpg
-Coffee Smith Gyeongnidan-gil,Coffee Store,"푸드플라이, 넓은공간, 한가한, 쾌적한분위기, 분위기좋은, 데이트하기좋은, 점심",10AM–11PM,10AM–11PM,10AM–11PM,10AM–11PM,10AM–1AM,10AM–1AM,10AM–11PM,3.8,37,Indoor,126.9878375,37.5393308,Coffee Smith Gyeongnidan-gil.jpg
-Times Square Mall,Mall,"새로운 도시형 엔터테인먼트 문화공간(UELC-Urban Entertailing Lifestyle Center)인 영등포 타임스퀘어는 100년의 역사를 가지고 있는 주식회사 경방에서 2006년부터 총 공사비 6,000억 원을 투자해 건설한 국내 최대 규모의 복합쇼핑몰입니다.",10:30AM–10PM,10:30AM–10PM,10:30AM–10PM,10:30AM–10PM,10:30AM–10PM,10:30AM–10PM,10:30AM–10PM,4.2,"5,284",Indoor,126.9009818,37.5171639,Times Square Mall.jpg
-Seoul Art Space Mullae,NPO,"서울특별시 영등포구에 위치한 예술관으로, 문래동 예술촌을 방문하면
-예술인들의 갤러리와  작업실 및 다양한 벽화와 조형물들 뿐 아니라 철공소에서 열심히 작업하시는 분들도 볼 수 있다.",,,,,,,,4.1,19,Indoor,126.897949,37.5131769,Seoul Art Space Mullae.jpg
-Banpo Hangang Park,Park,"반포대교(잠수교)를 중심으로 상류는 한남대교, 하류는 동작대교 사이 강변 남단에 위치해 있고, 길이는 7.2㎞로 서초구 반포동, 동작구 흑석동에 인접해 있습니다. 물을 뿜을 때마다 아름다운 풍경을 연출하여 일곱빛깔 무지개처럼 다양한 볼거리와 즐길거리를 제공합니다. 또한 물방울놀이터, 인라인허브, 축구장, 농구장 등 체육시설이 있습니다. 동작대교 남단에는 전망대가 설치되어 탁 트인 한강수면 위로 펼쳐진 넓은 하늘과 강변 빌딩숲을 감상할 수 있습니다. 서래섬은 계절에 따라 유채, 메밀 등의 작물을 식재하여 꽃이 피는 시기에는 서래섬을 일주하는 산책코스로 인기가 높습니다. 여의도와 잠원한강공원으로 연결되는 7.2㎞의 자전거도로, 산책로가 분리되어 시원한 강바람을 맞으며 자전거타기, 조깅, 산책을 즐기면서 반포한강공원에서 오감만족 시간을 누려보세요.",Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,4.2,"2,042",Outdoor,126.9961397,37.5110052,Banpo Hangang Park.jpg
-Seolleung and Jeongneung Royal Tombs,Cultural Preservation Area,서울특별시 강남구 삼성동에 있는 조선시대 선릉과 정릉을 합한 능호.,Closed,6AM–9PM,6AM–9PM,6AM–9PM,6AM–9PM,6AM–9PM,6AM–9PM,4.3,363,Outdoor,127.0467917,37.5067588,Seolleung and Jeongneung Royal Tombs.jpg
-Jamsil Han River Park,Park,"잠실철교에서 영동대교 사이 강변 남단에 위치해 있으며, 잠실종합운동장, 롯데월드, 올림픽공원이 인접해 있어 어느 지역보다 생활체육시설 및 문화시설을 함께 이용하기 편리합니다. 자연학습장은 각종 꽃,야생화,농작물 등이 잘 조성되어 어린이들의 자연학습과 가족단위의 소풍장소로 인기가 높습니다. 또한 잠실 수중보의 물고기길(어도)은 남녀노소 할 것 없이 살아있는 한강을 직접 느낄수 있고, 생태프로그램도 운영되고 있는 또 하나의 자랑거리이다.",Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,4.3,"1,009",Outdoor,127.081523,37.5179526,Jamsil Han River Park.jpg
-Yangjae Citizens' Forest,Park,"1980년대 개포지구 토지구획 정리사업의 일환으로 1983년에 착공하고 1986년 11월에 완공하여 문을 열었다. 1986년의 서울아시아경기대회와 1988년의 제24회 올림픽경기대회를 위해 서울특별시의 관문인 양재 톨게이트 주변에 조성한 공원으로, 다양한 수종의 숲이 볼만하다. 면적은 총 25만 8,992㎡이며 그 중 녹지대가 20만 5872㎡, 주차장이 5,972㎡, 광장이 7,211㎡, 기타 시설이 3만 9937㎡를 차지한다. 주요 시설물로는 조경시설로 잔디광장과 파고라(그늘막) 등이 있고 운동시설로 배구장·배드민턴장·테니스장이 있다.",Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,4.4,486,Outdoor,127.0333837,37.4706864,Yangjae Citizens' Forest.jpg
-Olympic Stadium,Stadium,"면적 54만 5000m2. 수용능력 20만 명. 동대문운동장과 장충체육관 등 기존시설만으로는 국내외의 스포츠 수요에 대응하기 어려움을 감안하여 서울시가 1976년 10월 건설기본계획을 수립하였다. 대한탁구협회가 건설할 계획이었던 사라예보 세계탁구제패 기념관을 흡수하여 이를 종합운동장 내의 실내체육관으로 확장 건설할 것을 결정했다. 실내체육관(7,000평 : 수용능력 2만 명)은 1979년 4월에 준공 ·개관하였고, 실내수영장(6000평 : 4,500명 수용)도 1980년 12월에 완공하였다. 1982년 6월 야구장(1만 8000평 : 5만 명 수용능력)이 준공되었고, 시설면적 4만 평에 수용인원 10만 명, 2층 구조 관람석을 갖춘 주경기장도 1984년 9월에 개장하였다. 이 밖에 보조경기장(2만 명 수용능력) ·데크플라자 ·주차장 ·녹지 등이 조성되었다. 지하철 2호선의 운동장 앞 경유, 입체교차로, 지하보도 등의 설치로 교통 소통을 원활히 하고 단지내에 기념탑과 기타 각종 편의시설을 갖추었다",,,,,,,,4.2,909,Outdoor,127.0707589,37.5153144,Olympic Stadium.jpg
-Songpa Naru Park (Seokchon Lake Park),Park,"서울특별시 송파구 잠실동에 있는 호수로, 한강매립사업을 통해 형성되었다. 호수의 면적은 21만 7,850㎡이며 담수량은 636만t, 평균수심은 4.5m이다. 호수 조성 후 송파대로(서울 송파구의 남북을 가로지르는 간선도로)가 호수를 가로질러 가게 되면서부터 동호(東湖, 10만 5,785㎡)와 서호(西湖, 11만 2,065㎡)로 구분됐다.",Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,4.4,510,Outdoor,127.1008244,37.5097431,Songpa Naru Park (Seokchon Lake Park).jpg
-Garak Market,Market,"시장은 청과시장, 채소시장, 건고추매장, 마늘매장, 수산시장, 건어물경매장, 축산시장, 직판시장, 청과관련시장, 건어물관련시장, 건어물창고 및 가공처리장, 냉동창고, 서비스동, 축산물직판장, 주유소, 주차장, 관리금융동으로 구분되어 있다. 청과시장은 462개의 점포, 수산시장은 206개의 점포, 축산시장은 육가공실·저장고, 주차장은 동시주차능력 4,850대를 갖추었다. 이밖의 시설로는 도축장, 소매시장, 수산관련 상품시장, 트럭단위 판매장 등이 있다. 편의시설로는 은행·우체국·관리사무실·유통정보실 등이 수용된 관리금융동과 휴게실·목욕탕·식당·이발관·매점 등의 휴식시설동이 있으며, 출하자와 반입차량의 운전 기사를 위한 무료휴게실이 마련되어 있다.",Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,4,"1,171",indoor,127.1126744,37.4928569,Garak Market.jpg
-Ttukseom Han River Park,Park,"한강공원이 조성되기 이전부터 강변유원지로 유명했던 곳입니다. 수상에서는 시원한 바람을 맞으며 낭만과 젊음을 만끽할 수 있는 윈드서핑, 수상스키, 모터보트 등 수상스포츠가 활발하게 이루어지고 있습니다.",Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,4.3,"1,009",Outdoor,127.0678368,37.5291052,Ttukseom Han River Park.jpg
-Seoul City Hall,City or Town Hall,서울특별시의 자치행정을 총괄하는 행정기관.,9AM–6PM,9AM–6PM,9AM–6PM,9AM–6PM,9AM–6PM,Closed,Closed,4,195,Indoor,126.9732605,37.5615506,Seoul City Hall.jpg
-Seoul Station,Subway Station,"대한민국 철도교통의 심장.
-서울특별시의 중앙역. 간선철도 경부선, 경의선과 인천국제공항철도의 기점이자 수도권 전철 1호선 경부선 구간과 수도권 전철 경의·중앙선의 기점이며 수도권 전철 4호선이 지나간다. 경부선이 철도의 대동맥이라면 이 곳은 대한민국 철도의 시점 겸 종점.",,,,,,,,4.2,198,Indoor/Outdoors,126.9608648,37.5536067,Seoul Station.jpg
-North Seoul Dream Forest,Park,"다른 지역에 비해 공원이 부족한 서울 동북부 지역의 시민들에게 도심 속에서 자연을 느낄 수 있는 휴식 공간을 제공하는 데 목적이 있다. 숲의 형태는 친환경적 요소를 강조해 공원 전체에 걸쳐 지름 30-40㎝에 높이 20m의 나무 104종 42만 그루를 옮겨 심는다. 대표적인 나무 종은 참나무·서어나무·산벚나무 등이며, 한국 고유종이 대부분을 차지한다. 5개의 테마로 조성되는데, 제1테마는 뚝섬 문화예술공원으로, 광장·야외무대·아틀리에·게이트볼장·인공연못 등 시민들이 다양한 여가 활동을 즐길 수 있는 곳이다. 제2테마는 뚝섬 생태숲으로, 야생동물이 서식할 수 있도록 자연 그대로의 숲을 재현한 곳이다. 꽃사슴·고라니·다람쥐·다마사슴 등을 풀어 놓은 곳으로 가이드 동반하여 출입도 가능하다. 472m의 보행다리는 한강 선착장과 연결된다.",Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,4.4,945,Outdoor,127.0384306,37.6214313,North Seoul Dream Forest.jpg
-Noryangjin Fisheries Wholesale Market,Market,"서울특별시가 개설한 도매시장으로, 주력 사업은 생산자와 소비자의 이익을 보호하기 위해 전국에서 위탁된 대량·다종의 수산물을 공개경쟁매매 또는 정가·수의매매 등으로 판매하는 수탁판매(경매) 사업이다. 그밖에 주력사업의 효율적인 운영을 위해 부대시설 임대, 얼음 제조 및 판매, 냉동창고 운영, 주차장 운영 사업 등 부대사업을 수행한다. 주요 시설은 활어·선어·패류 등의 경매장(2,106평), 건어·젓갈 판매장(2,564평), 활어보관장, 중도매인사무실(2,308평), 출하주 휴게실, 간이 냉장고, 주차장(9,387평), 식당·약국·커피숍 같은 편의시설(712평) 등이다.",Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,3.8,"7,033",Indoor/Outdoors,126.9386684,37.5152131,Noryangjin Fisheries Wholesale Market.jpg
-Boramae Park,Park,"면적 40만 7529m2. 공군사관학교로 쓰여오다가 1985년 12월 서울시에서 인수, 1986년 5월에 복지시설 위주의 시립공원으로 개원하였다. 주요 시설물로는 대운동장을 비롯하여 잔디광장, 독서실, 청소년수련장, 소동물원, 체육관, 수영장, 장애자복지관, 남부노인종합복지관 등이 있으며, 그 밖에 연못, 녹지, 산책로, 조깅코스 등이 마련되어 있다. ",Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,4.3,"1,824",Outdoor,126.9057464,37.5152079,보라매공원.jpg
-Lotte World Tower,Tourist Attraction,"대한민국에서 가장 높은 마천루
-서울특별시 송파구 신천동 롯데월드몰에 있는 초고층 빌딩으로 국내 최초로 100층을 넘긴 최고층(지상 123층) 건물이자 새로운 랜드마크다.",10AM–10PM,10AM–10PM,10AM–10PM,10AM–10PM,10AM–10PM,10AM–10PM,10AM–10PM,4.3,"13,492",Indoor/Outdoors,127.1013039,37.5131507,Lotte World Tower.jpg
-Starfield Coex Mall,Mall,서울 강남구 삼성동에 위치한 대형 쇼핑몰&복합문화공간. 국내에 거의 최초로 들어선 복합쇼핑몰로 2000년 5월 코엑스몰이란 명칭으로 개장한 이후 명성을 떨치다 2016년 스타필드가 들어서며 스타필드 코엑스몰로 명칭이 변경되었다.,10:30AM–10PM,10:30AM–10PM,10:30AM–10PM,10:30AM–10PM,10:30AM–10PM,10:30AM–10PM,10:30AM–10PM,4.2,"8,899",Indoor,127.056914,37.5116833,Starfield Coex Mall.jpg
-Seodaemun Independence Park,Park,"일제강점기에 의병투쟁, 3·1독립만세운동, 항일투쟁 등으로 투옥되어 옥고를 치르다 순국한 선열들을 기리기 위하여 조성되었다. 이곳의 옥사는 1908년 일제가 침략을 본격화하기 위하여 지은 근대식 감옥으로, 경성감옥이라는 명칭으로 문을 열었는데 항일투사들이 늘어나자 일제가 마포구 공덕동에 새로 감옥을 지어 1912년에 서대문감옥으로 명칭을 바꾸었다. 그후 1923년에는 서대문형무소로, 1946년에는 경성형무소로, 1950년에는 서울형무소로 바뀌었고 1961년에는 서울교도소로 개칭되었다가 1967년 7월에 서울구치소로 바뀌는 등 여러 차례 그 명칭이 바뀌었다.",Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,4.5,53,Outdoor,126.9541663,37.5740613,서대문독립공원.jpg
-Seodaemun Museum of Natural History,Natural History Museum,"대지면적 1만 174㎡, 연면적 6,959㎡에 지하 1층 지상 3층 규모로, 3개 주제관 및 부속시설로 이루어지며 수장고·교육실·연구실·표본제작실·훈증실·항온항습기실 등 부대시설이 있다. 1층에는 인간과 자연관·기획전시실·카페테리아·뮤지엄숍·시청각실·가상체험실이 자리잡고 있고, 2층에는 생명진화관·자료실, 3층에는 지구환경관·돌마당·나무마당이 있다. 전시물은 역사적인 흐름에 맞추어 시간적·공간적 순서에 따라 입체적인 디오라마(diorama) 형식으로 전시하며, 전시물 외에 동영상을 제공하고 여러 체험프로그램을 개발·운영한다. ",Closed,10AM–6PM,10AM–6PM,10AM–6PM,10AM–6PM,10AM–7PM,10AM–7PM,4.2,883,Indoor,126.9344615,37.5759115,Seodaemun Museum of Natural History.jpg
+전시실은 제왕기록실, 국가의례실, 궁궐건축실, 과학문화실, 왕실생활실, 탄생교육실, 왕실문예실, 대한제국실, 궁중회화실, 궁중음악실, 어가의장실, 자격루실 등으로 구성되어 궁중 유물을 전시하고 있다.","9AM–6PM","9AM–6PM","9AM–6PM","9AM–6PM","9AM–6PM","9AM–7PM","9AM–7PM",4.4,"1,510","Indoor",126.9729025,37.5765793,"National Palace Museum of Korea.jpg"
+"Seoul Museum of History","Museum","서울역사박물관은 조선시대부터 현재에 이르기까지의 서울의 역사와 문화를 정리하여 보여주는 서울도시역사박물관입니다.(개관 2002.5.21)
+도시 서울의 역사를 담은 세계에서 유일한 박물관으로 상설전시실, 기획전시실, 기증유물전시실, 교육실, 강당, 뮤지엄샵이 있으며 전통문화체험교실, 아이좋은 박물관 등 대상별 맞춤 교육프로그램과 음악회 등 다양한 문화프로그램을 운영하고 있습니다.","Closed","9AM–8PM","9AM–8PM","9AM–8PM","9AM–8PM","9AM–7PM","9AM–7PM",4.4,"1,376","Indoor",126.9683159,37.5705077,"Seoul Museum of History.jpg"
+"Leeum, Samsung Museum of Art","Art Museum","1965년 삼성문화재단 설립 이후 소중한 문화 유산을 보전하고 대중에게 알리고자 노력해온 삼성미술관은 2004년 서울 한남동에 미술관 건물을 신축하면서 삼성미술관 Leeum을 개관했습니다. 수준 높은 소장품 전시 및 기획전시 개최 등 그간의 괄목할만한 활동과 성과로 지금 리움은 명실공히 한국을 대표하는 미술관으로 성장하였습니다.","Closed","10:30AM–6PM","10:30AM–6PM","10:30AM–6PM","10:30AM–6PM","10:30AM–6PM","10:30AM–6PM",4.4,849,"Indoor",126.996385,37.538122,"Leeum, Samsung Museum of Art.jpg"
+"Dobongsan","Mountain","서울특별시 도봉구와 경기도 의정부시, 양주시 장흥면에 걸쳐 있는 해발 740m의 산.",,,,,,,,4.5,92,"Outdoor",126.9981318,37.7004617,"Dobongsan.jpg"
+"Unhyeongung","Palace","서울특별시 종로구에 있는 조선 후기 흥선대원군의 사가.  1977년 11월 22일 사적 제257호로 지정되었다. 흥선대원군의 둘째 아들인 고종(高宗:재위 1863∼1907)이 출생하여 12세에 왕위에 오르기 전까지 성장한 잠저(潛邸)이다. 철종(哲宗:재위 1849∼1863)의 뒤를 이어 고종이 즉위하자 생부(生父) 이하응(李昰應)은 흥선대원군이 되었고, 생모 민씨는 여흥부대부인(驪興府大夫人)의 봉작을 받았다. ","Closed","9AM–7PM","9AM–7PM","9AM–7PM","9AM–7PM","9AM–7PM","9AM–7PM",4.2,614,"Outdoor",126.9852092,37.5760774,"Unhyeongung.jpg"
+"Tapgol Park","Park","사적 제354호로 지정되어 있는 탑골공원은 우리나라 최초의 도심 내 공원으로 1919년 3·1운동이 일어났던 곳이다. 고려시대 흥복사가 있던 자리에 1465년(세조 11년)에 원각사라는 절이 세워졌으나 연산군 때 폐사되었고 고종 34년에 영국인 브라운의 설계에 의해 공원으로 조성되었다.",,,,,,,,3.6,710,"Outdoor",126.986191,37.5715621,"Tapgol Park.jpg"
+"Yeouido Hangang Park","Park","여의도한강공원은 정치, 금융, 언론의 중심지인 여의도에 자리하고 지하철, 버스 등 대중교통으로 접근성이 좋아 직장인과 일반시민들이 즐겨찾는 명소이자 봄꽃축제, 세계불꽃축제, 각종 공연 및 마라톤행사 등 다양한 행사가 이어져 볼거리와 즐길거리가 풍부한 휴식공간입니다. 
+또한 밤섬, 여의도 샛강 등이 비교적 자연그대로 보존되어 있어 생태학습장 및 자연친화형 공원으로 조성되어 있습니다","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours",4.5,"2,691","Outdoor",126.9321072,37.5284017,"Yeouido Hangang Park.jpg"
+"Myeongdong Cathedral","Cathedral","명동성당은 천주교 서울대교구의 주교좌 성당으로 한국 최초의 본당이자 한국 천주교를 대변하는 대성당이다. ",,,,,,,,4.5,624,"Indoor",126.9842134,37.5630609,"Myeongdong Cathedral.jpg"
+"Namsangol Hanok Village","Cultural Preservation Area","서울특별시 중구 필동 일대의 한옥이 보존되어 있는 마을.  1989년 남산골의 제모습 찾기 사업에 의해 조성한 마을로 수도방위사령부 부지를 인수하여, 서울특별시 지정 민속자료 한옥 5개 동을 이전 복원하고 전통정원으로 꾸몄다. 1998년 4월 18일에 개관하였다.","Closed","9AM–9PM","9AM–9PM","9AM–9PM","9AM–9PM","9AM–9PM","9AM–9PM",4.2,"3,127","Outdoor",126.992283,37.559315,"Namsangol Hanok Village.jpg"
+"Gwanaksan","Mountain","서울특별시 관악구 신림동과 동작구 사당동, 경기도 안양시, 과천시의 경계에 있는 산이다. 높이는 632 m.",,,,,,,,4.5,117,"Outdoor",126.9434499,37.4429367,"Gwanaksan.jpg"
+"Gyeongui Line Forest Park","Park","서울특별시 마포구 연남동에서 용산구 효창동까지 이어진 6.3km 길이의 공원. 옛 경의선(용산선) 폐철길을 공원으로 탈바꿈시킨 서울의 도시재생 프로젝트의 일환이다. 일부 구간에는 경의선 시절의 레일 및 건널목을 재현해 놓았다. 옛 폐차량을 체험 목적으로 전시한 곳도 있다.","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours",4.3,118,"Outdoor",126.9233815,37.5584769,"Gyeongui Line Forest Park.jpg"
+"Coffee Smith Gyeongnidan–gil","Coffee Store","푸드플라이, 넓은공간, 한가한, 쾌적한분위기, 분위기좋은, 데이트하기좋은, 점심","10AM–11PM","10AM–11PM","10AM–11PM","10AM–11PM","10AM–1PM","10AM–1PM","10AM–11PM",3.8,37,"Indoor",126.9878375,37.5393308,"Coffee Smith Gyeongnidan–gil.jpg"
+"Times Square Mall","Mall","새로운 도시형 엔터테인먼트 문화공간(UELC–Urban Entertailing Lifestyle Center)인 영등포 타임스퀘어는 100년의 역사를 가지고 있는 주식회사 경방에서 2006년부터 총 공사비 6,000억 원을 투자해 건설한 국내 최대 규모의 복합쇼핑몰입니다.","10:30AM–10PM","10:30AM–10PM","10:30AM–10PM","10:30AM–10PM","10:30AM–10PM","10:30AM–10PM","10:30AM–10PM",4.2,"5,284","Indoor",126.9009818,37.5171639,"Times Square Mall.jpg"
+"Seoul Art Space Mullae","NPO","서울특별시 영등포구에 위치한 예술관으로, 문래동 예술촌을 방문하면
+예술인들의 갤러리와  작업실 및 다양한 벽화와 조형물들 뿐 아니라 철공소에서 열심히 작업하시는 분들도 볼 수 있다.",,,,,,,,4.1,19,"Indoor",126.897949,37.5131769,"Seoul Art Space Mullae.jpg"
+"Banpo Hangang Park","Park","반포대교(잠수교)를 중심으로 상류는 한남대교, 하류는 동작대교 사이 강변 남단에 위치해 있고, 길이는 7.2㎞로 서초구 반포동, 동작구 흑석동에 인접해 있습니다. 물을 뿜을 때마다 아름다운 풍경을 연출하여 일곱빛깔 무지개처럼 다양한 볼거리와 즐길거리를 제공합니다. 또한 물방울놀이터, 인라인허브, 축구장, 농구장 등 체육시설이 있습니다. 동작대교 남단에는 전망대가 설치되어 탁 트인 한강수면 위로 펼쳐진 넓은 하늘과 강변 빌딩숲을 감상할 수 있습니다. 서래섬은 계절에 따라 유채, 메밀 등의 작물을 식재하여 꽃이 피는 시기에는 서래섬을 일주하는 산책코스로 인기가 높습니다. 여의도와 잠원한강공원으로 연결되는 7.2㎞의 자전거도로, 산책로가 분리되어 시원한 강바람을 맞으며 자전거타기, 조깅, 산책을 즐기면서 반포한강공원에서 오감만족 시간을 누려보세요.","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours",4.2,"2,042","Outdoor",126.9961397,37.5110052,"Banpo Hangang Park.jpg"
+"Seolleung and Jeongneung Royal Tombs","Cultural Preservation Area","서울특별시 강남구 삼성동에 있는 조선시대 선릉과 정릉을 합한 능호.","Closed","6AM–9PM","6AM–9PM","6AM–9PM","6AM–9PM","6AM–9PM","6AM–9PM",4.3,363,"Outdoor",127.0467917,37.5067588,"Seolleung and Jeongneung Royal Tombs.jpg"
+"Jamsil Han River Park","Park","잠실철교에서 영동대교 사이 강변 남단에 위치해 있으며, 잠실종합운동장, 롯데월드, 올림픽공원이 인접해 있어 어느 지역보다 생활체육시설 및 문화시설을 함께 이용하기 편리합니다. 자연학습장은 각종 꽃,야생화,농작물 등이 잘 조성되어 어린이들의 자연학습과 가족단위의 소풍장소로 인기가 높습니다. 또한 잠실 수중보의 물고기길(어도)은 남녀노소 할 것 없이 살아있는 한강을 직접 느낄수 있고, 생태프로그램도 운영되고 있는 또 하나의 자랑거리이다.","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours",4.3,"1,009","Outdoor",127.081523,37.5179526,"Jamsil Han River Park.jpg"
+"Yangjae Citizens' Forest","Park","1980년대 개포지구 토지구획 정리사업의 일환으로 1983년에 착공하고 1986년 11월에 완공하여 문을 열었다. 1986년의 서울아시아경기대회와 1988년의 제24회 올림픽경기대회를 위해 서울특별시의 관문인 양재 톨게이트 주변에 조성한 공원으로, 다양한 수종의 숲이 볼만하다. 면적은 총 25만 8,992㎡이며 그 중 녹지대가 20만 5872㎡, 주차장이 5,972㎡, 광장이 7,211㎡, 기타 시설이 3만 9937㎡를 차지한다. 주요 시설물로는 조경시설로 잔디광장과 파고라(그늘막) 등이 있고 운동시설로 배구장·배드민턴장·테니스장이 있다.","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours",4.4,486,"Outdoor",127.0333837,37.4706864,"Yangjae Citizens' Forest.jpg"
+"Olympic Stadium","Stadium","면적 54만 5000m2. 수용능력 20만 명. 동대문운동장과 장충체육관 등 기존시설만으로는 국내외의 스포츠 수요에 대응하기 어려움을 감안하여 서울시가 1976년 10월 건설기본계획을 수립하였다. 대한탁구협회가 건설할 계획이었던 사라예보 세계탁구제패 기념관을 흡수하여 이를 종합운동장 내의 실내체육관으로 확장 건설할 것을 결정했다. 실내체육관(7,000평 : 수용능력 2만 명)은 1979년 4월에 준공 ·개관하였고, 실내수영장(6000평 : 4,500명 수용)도 1980년 12월에 완공하였다. 1982년 6월 야구장(1만 8000평 : 5만 명 수용능력)이 준공되었고, 시설면적 4만 평에 수용인원 10만 명, 2층 구조 관람석을 갖춘 주경기장도 1984년 9월에 개장하였다. 이 밖에 보조경기장(2만 명 수용능력) ·데크플라자 ·주차장 ·녹지 등이 조성되었다. 지하철 2호선의 운동장 앞 경유, 입체교차로, 지하보도 등의 설치로 교통 소통을 원활히 하고 단지내에 기념탑과 기타 각종 편의시설을 갖추었다",,,,,,,,4.2,909,"Outdoor",127.0707589,37.5153144,"Olympic Stadium.jpg"
+"Songpa Naru Park (Seokchon Lake Park)","Park","서울특별시 송파구 잠실동에 있는 호수로, 한강매립사업을 통해 형성되었다. 호수의 면적은 21만 7,850㎡이며 담수량은 636만t, 평균수심은 4.5m이다. 호수 조성 후 송파대로(서울 송파구의 남북을 가로지르는 간선도로)가 호수를 가로질러 가게 되면서부터 동호(東湖, 10만 5,785㎡)와 서호(西湖, 11만 2,065㎡)로 구분됐다.","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours",4.4,510,"Outdoor",127.1008244,37.5097431,"Songpa Naru Park (Seokchon Lake Park).jpg"
+"Garak Market","Market","시장은 청과시장, 채소시장, 건고추매장, 마늘매장, 수산시장, 건어물경매장, 축산시장, 직판시장, 청과관련시장, 건어물관련시장, 건어물창고 및 가공처리장, 냉동창고, 서비스동, 축산물직판장, 주유소, 주차장, 관리금융동으로 구분되어 있다. 청과시장은 462개의 점포, 수산시장은 206개의 점포, 축산시장은 육가공실·저장고, 주차장은 동시주차능력 4,850대를 갖추었다. 이밖의 시설로는 도축장, 소매시장, 수산관련 상품시장, 트럭단위 판매장 등이 있다. 편의시설로는 은행·우체국·관리사무실·유통정보실 등이 수용된 관리금융동과 휴게실·목욕탕·식당·이발관·매점 등의 휴식시설동이 있으며, 출하자와 반입차량의 운전 기사를 위한 무료휴게실이 마련되어 있다.","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours",4,"1,171","indoor",127.1126744,37.4928569,"Garak Market.jpg"
+"Ttukseom Han River Park","Park","한강공원이 조성되기 이전부터 강변유원지로 유명했던 곳입니다. 수상에서는 시원한 바람을 맞으며 낭만과 젊음을 만끽할 수 있는 윈드서핑, 수상스키, 모터보트 등 수상스포츠가 활발하게 이루어지고 있습니다.","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours",4.3,"1,009","Outdoor",127.0678368,37.5291052,"Ttukseom Han River Park.jpg"
+"Seoul City Hall","City or Town Hall","서울특별시의 자치행정을 총괄하는 행정기관.","9AM–6PM","9AM–6PM","9AM–6PM","9AM–6PM","9AM–6PM","Closed","Closed",4,195,"Indoor",126.9732605,37.5615506,"Seoul City Hall.jpg"
+"Seoul Station","Subway Station","대한민국 철도교통의 심장.
+서울특별시의 중앙역. 간선철도 경부선, 경의선과 인천국제공항철도의 기점이자 수도권 전철 1호선 경부선 구간과 수도권 전철 경의·중앙선의 기점이며 수도권 전철 4호선이 지나간다. 경부선이 철도의 대동맥이라면 이 곳은 대한민국 철도의 시점 겸 종점.",,,,,,,,4.2,198,"Indoor/Outdoors",126.9608648,37.5536067,"Seoul Station.jpg"
+"North Seoul Dream Forest","Park","다른 지역에 비해 공원이 부족한 서울 동북부 지역의 시민들에게 도심 속에서 자연을 느낄 수 있는 휴식 공간을 제공하는 데 목적이 있다. 숲의 형태는 친환경적 요소를 강조해 공원 전체에 걸쳐 지름 30–40㎝에 높이 20m의 나무 104종 42만 그루를 옮겨 심는다. 대표적인 나무 종은 참나무·서어나무·산벚나무 등이며, 한국 고유종이 대부분을 차지한다. 5개의 테마로 조성되는데, 제1테마는 뚝섬 문화예술공원으로, 광장·야외무대·아틀리에·게이트볼장·인공연못 등 시민들이 다양한 여가 활동을 즐길 수 있는 곳이다. 제2테마는 뚝섬 생태숲으로, 야생동물이 서식할 수 있도록 자연 그대로의 숲을 재현한 곳이다. 꽃사슴·고라니·다람쥐·다마사슴 등을 풀어 놓은 곳으로 가이드 동반하여 출입도 가능하다. 472m의 보행다리는 한강 선착장과 연결된다.","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours",4.4,945,"Outdoor",127.0384306,37.6214313,"North Seoul Dream Forest.jpg"
+"Noryangjin Fisheries Wholesale Market","Market","서울특별시가 개설한 도매시장으로, 주력 사업은 생산자와 소비자의 이익을 보호하기 위해 전국에서 위탁된 대량·다종의 수산물을 공개경쟁매매 또는 정가·수의매매 등으로 판매하는 수탁판매(경매) 사업이다. 그밖에 주력사업의 효율적인 운영을 위해 부대시설 임대, 얼음 제조 및 판매, 냉동창고 운영, 주차장 운영 사업 등 부대사업을 수행한다. 주요 시설은 활어·선어·패류 등의 경매장(2,106평), 건어·젓갈 판매장(2,564평), 활어보관장, 중도매인사무실(2,308평), 출하주 휴게실, 간이 냉장고, 주차장(9,387평), 식당·약국·커피숍 같은 편의시설(712평) 등이다.","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours",3.8,"7,033","Indoor/Outdoors",126.9386684,37.5152131,"Noryangjin Fisheries Wholesale Market.jpg"
+"Boramae Park","Park","면적 40만 7529m2. 공군사관학교로 쓰여오다가 1985년 12월 서울시에서 인수, 1986년 5월에 복지시설 위주의 시립공원으로 개원하였다. 주요 시설물로는 대운동장을 비롯하여 잔디광장, 독서실, 청소년수련장, 소동물원, 체육관, 수영장, 장애자복지관, 남부노인종합복지관 등이 있으며, 그 밖에 연못, 녹지, 산책로, 조깅코스 등이 마련되어 있다. ","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours",4.3,"1,824","Outdoor",126.9057464,37.5152079,"보라매공원.jpg"
+"Lotte World Tower","Tourist Attraction","대한민국에서 가장 높은 마천루
+서울특별시 송파구 신천동 롯데월드몰에 있는 초고층 빌딩으로 국내 최초로 100층을 넘긴 최고층(지상 123층) 건물이자 새로운 랜드마크다.","10AM–10PM","10AM–10PM","10AM–10PM","10AM–10PM","10AM–10PM","10AM–10PM","10AM–10PM",4.3,"13,492","Indoor/Outdoors",127.1013039,37.5131507,"Lotte World Tower.jpg"
+"Starfield Coex Mall","Mall","서울 강남구 삼성동에 위치한 대형 쇼핑몰&복합문화공간. 국내에 거의 최초로 들어선 복합쇼핑몰로 2000년 5월 코엑스몰이란 명칭으로 개장한 이후 명성을 떨치다 2016년 스타필드가 들어서며 스타필드 코엑스몰로 명칭이 변경되었다.","10:30AM–10PM","10:30AM–10PM","10:30AM–10PM","10:30AM–10PM","10:30AM–10PM","10:30AM–10PM","10:30AM–10PM",4.2,"8,899","Indoor",127.056914,37.5116833,"Starfield Coex Mall.jpg"
+"Seodaemun Independence Park","Park","일제강점기에 의병투쟁, 3·1독립만세운동, 항일투쟁 등으로 투옥되어 옥고를 치르다 순국한 선열들을 기리기 위하여 조성되었다. 이곳의 옥사는 1908년 일제가 침략을 본격화하기 위하여 지은 근대식 감옥으로, 경성감옥이라는 명칭으로 문을 열었는데 항일투사들이 늘어나자 일제가 마포구 공덕동에 새로 감옥을 지어 1912년에 서대문감옥으로 명칭을 바꾸었다. 그후 1923년에는 서대문형무소로, 1946년에는 경성형무소로, 1950년에는 서울형무소로 바뀌었고 1961년에는 서울교도소로 개칭되었다가 1967년 7월에 서울구치소로 바뀌는 등 여러 차례 그 명칭이 바뀌었다.","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours",4.5,53,"Outdoor",126.9541663,37.5740613,"서대문독립공원.jpg"
+"Seodaemun Museum of Natural History","Natural History Museum","대지면적 1만 174㎡, 연면적 6,959㎡에 지하 1층 지상 3층 규모로, 3개 주제관 및 부속시설로 이루어지며 수장고·교육실·연구실·표본제작실·훈증실·항온항습기실 등 부대시설이 있다. 1층에는 인간과 자연관·기획전시실·카페테리아·뮤지엄숍·시청각실·가상체험실이 자리잡고 있고, 2층에는 생명진화관·자료실, 3층에는 지구환경관·돌마당·나무마당이 있다. 전시물은 역사적인 흐름에 맞추어 시간적·공간적 순서에 따라 입체적인 디오라마(diorama) 형식으로 전시하며, 전시물 외에 동영상을 제공하고 여러 체험프로그램을 개발·운영한다. ","Closed","10AM–6PM","10AM–6PM","10AM–6PM","10AM–6PM","10AM–7PM","10AM–7PM",4.2,883,"Indoor",126.9344615,37.5759115,"Seodaemun Museum of Natural History.jpg"
 ,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
-화양동 느티나무 공원,공원,"서울특별시 기념물 제 2호 화양동 느티나무가 모여있는 공원이며, 총 7그루가 한 곳에 모여 자라고 있다. 나이는 700년 정도로 추정된다. 높이는 약28m이며, 7그루 총 둘레는 7.5m이다. 이곳처럼 7그루가 한 곳에 모여있는 광경음 보기 드물어 기념물로 지정하여 보호하고 있다.",Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,4.4,5,,127.072134,37.5505389,화양동 느티나무 공원.jpg
-광진광장공원,공원,"세종대 옆 사거리에 위치한 넓은 시민공원이다.  오밀조밀하고 복잡한 대학가 주변에 넓은 광장이 있어 좋은면은 있으나, 공간 활용도가 조금 떨어지는 면이 있다.",Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,4,54,,127.072134,37.5505389,광진광장공원.jpg
-아남공원,공원,서울 성동구 성수동2가에 위치한 공원,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,3,7,,127.0472021,37.5468721,아남공원.jpg
-한마음공원,공원,서울 광진구 중곡동에 위치한 공원.,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,3.9,28,,127.072134,37.5505389,한마음공원.jpg
-살곶이체육공원,공원,서울 성동구 사근동에 위치한 공원,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,3.9,305,,127.0319534,37.5541209,살곶이체육공원.jpg
-해오름공원,공원,서울 광진구 중곡동에 위치한 공원,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,3.1,25,,127.072134,37.5505389,해오름공원.jpg
-간데메공원,공원,"서울특별시가 '공원녹지확충 5개년계획'의 일환으로 공원녹지가 부족한 동대문구 주택밀집 지역의 전매청 창고 자리에 조성한 공원으로, 1997년 12월 19일 착공하여 1998년 7월 18일 완공하고 문을 열었다. 공원 명칭은 옛날 답십리 일대에 있던 간데메(중산) 자연부락에서 따온 것이다.
-면적은 총 1만 5,180㎡이다. 주요 시설물은 관리시설로 관리사무소와 나무다리 1개소가 있고 조경시설로 연못, 팔각정, 장미그늘시렁, 음수전, 사각정자 5개소가 있다. 운동시설로는 평행봉·게이트볼장·농구장·배드민턴장이 있이 있으며, 그밖에 편의시설로 안내판 5개소, 자전거 보관대 2개소, 의자 46개가 있다.",Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,4,115,,127.0311752,37.5733686,간데메공원.jpg
-구의공원,공원,서울 광진구 구의동에 위치한 공원,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,4.3,57,,127.072134,37.5505389,구의공원.jpg
-용마폭포공원,공원,"면목동 산 1-4번지에 위치하는 용마폭포는 골재 채취장으로 사용하였던 용마산 암절벽을 이용하여 당시 동양 최대의 인공폭포와 공원을 조성하였다. 인공폭포는 총 세갈래의 폭포 줄기로 이루어져 있으며, 중앙의 폭포는 용마폭포, 좌측이 청룡폭포, 우측이 백마폭포이다. 용마폭포는 폭 3-10m, 2단으로 이루어진 51.4m의 높이를 자랑하고 있으며, 청룡폭포는 21m, 백마폭포는 21.4m로 이루어져 있다.",Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,4.3,314,,127.072134,37.5505389,용마폭포공원.jpg
-아차산배수지체육공원,공원,서울 광진구 구의동에 위치한 체육공원,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,4.1,85,,127.072134,37.5505389,아차산배수지체육공원.jpg
-답십리공원,공원,서울 동대문구 답십리동에 위차한 공원,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,4.7,9,,127.0458959,37.5743965,답십리공원.jpg
-정말어린이공원,공원,서울특별시 광진구 자양동에 위치한 공원,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,3.9,23,,127.072134,37.5505389,정말어린이공원.jpg
-아차산생태공원,생태 공원,서울특별시 광진구 광장동 아차산 기슭에 조성한 생태공원이다. 서울을 환경도시로 탈바꿈시키겠다는 목표로 1996년부터 진행된 서울특별시 공원녹지확충 5개년 계획의 일환으로 조성되었다.,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,4.1,436,,127.072134,37.5505389,아차산생태공원.jpg
-용두근린공원,공원,서울시 동대문구 용두동에 위치한 공원,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,4.1,37,,127.0217594,37.5732295,용두근린공원.jpg
-장독골공원,공원,서울 광진구 자양동에 위치한 공원,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,4,9,,127.072134,37.5505389,장독골공원.jpg
-향림근린공원,공원,서울 은평구 불광동에 위치한 공원,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,2.3,3,,127.0359255,37.546733,향림공원.jpg
-왕십리문화공원,공원,서울 성동구 도선동에 위치한 공원,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,4.4,18,,127.0177601,37.5617309,왕십리문화공원.jpg
-성수근린공원,공원,서울 성동구 성수동2가에 위치한 공원,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,3.5,27,,127.0348978,37.5447332,성수근린공원.jpg
-풀잎문화센터,문화센터,"풀잎문화센터는 일반 학원과 복지관, 백화점문화센터와 차별화하여 가족적ㅇ니 분위기 속에서 아침 10시부터 저녁 9시 사이에 본인이 편한 시간을 이용 자유로이 선택 수강할 수 있으며, 또한 각 강좌 사범코스를 수료한 회원은 자격증 시험ㅇ르 시행 취득 후 강사활동을 할 수 있으며, 홈클래스 및 공방운영도 가능합니다.",AM10-9PM,AM10-9PM,AM10-9PM,AM10-9PM,AM10-9PM,no data,no data,4,2,,127.049844,37.539321,풀잎문화센터.jpg
-광진문화예술회관,문화센터,"광진문화예술회관 은 700 여석의 고급공연장과 전용 전시실을 비롯한 문화교실, 수영장, 인터넷정보검색실을 갖춘 종합 문화·여가공간으로 2005년 5월 그 첫 번째 마당을 열게 되었습니다.
+"화양동 느티나무 공원","공원","서울특별시 기념물 제 2호 화양동 느티나무가 모여있는 공원이며, 총 7그루가 한 곳에 모여 자라고 있다. 나이는 700년 정도로 추정된다. 높이는 약28m이며, 7그루 총 둘레는 7.5m이다. 이곳처럼 7그루가 한 곳에 모여있는 광경음 보기 드물어 기념물로 지정하여 보호하고 있다.","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours",4.4,5,,127.072134,37.5505389,"화양동 느티나무 공원.jpg"
+"광진광장공원","공원","세종대 옆 사거리에 위치한 넓은 시민공원이다.  오밀조밀하고 복잡한 대학가 주변에 넓은 광장이 있어 좋은면은 있으나, 공간 활용도가 조금 떨어지는 면이 있다.","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours",4,54,,127.072134,37.5505389,"광진광장공원.jpg"
+"아남공원","공원","서울 성동구 성수동2가에 위치한 공원","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours",3,7,,127.0472021,37.5468721,"아남공원.jpg"
+"한마음공원","공원","서울 광진구 중곡동에 위치한 공원.","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours",3.9,28,,127.072134,37.5505389,"한마음공원.jpg"
+"살곶이체육공원","공원","서울 성동구 사근동에 위치한 공원","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours",3.9,305,,127.0319534,37.5541209,"살곶이체육공원.jpg"
+"해오름공원","공원","서울 광진구 중곡동에 위치한 공원","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours",3.1,25,,127.072134,37.5505389,"해오름공원.jpg"
+"간데메공원","공원","서울특별시가 '공원녹지확충 5개년계획'의 일환으로 공원녹지가 부족한 동대문구 주택밀집 지역의 전매청 창고 자리에 조성한 공원으로, 1997년 12월 19일 착공하여 1998년 7월 18일 완공하고 문을 열었다. 공원 명칭은 옛날 답십리 일대에 있던 간데메(중산) 자연부락에서 따온 것이다.
+면적은 총 1만 5,180㎡이다. 주요 시설물은 관리시설로 관리사무소와 나무다리 1개소가 있고 조경시설로 연못, 팔각정, 장미그늘시렁, 음수전, 사각정자 5개소가 있다. 운동시설로는 평행봉·게이트볼장·농구장·배드민턴장이 있이 있으며, 그밖에 편의시설로 안내판 5개소, 자전거 보관대 2개소, 의자 46개가 있다.","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours",4,115,,127.0311752,37.5733686,"간데메공원.jpg"
+"구의공원","공원","서울 광진구 구의동에 위치한 공원","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours",4.3,57,,127.072134,37.5505389,"구의공원.jpg"
+"용마폭포공원","공원","면목동 산 1–4번지에 위치하는 용마폭포는 골재 채취장으로 사용하였던 용마산 암절벽을 이용하여 당시 동양 최대의 인공폭포와 공원을 조성하였다. 인공폭포는 총 세갈래의 폭포 줄기로 이루어져 있으며, 중앙의 폭포는 용마폭포, 좌측이 청룡폭포, 우측이 백마폭포이다. 용마폭포는 폭 3–10m, 2단으로 이루어진 51.4m의 높이를 자랑하고 있으며, 청룡폭포는 21m, 백마폭포는 21.4m로 이루어져 있다.","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours",4.3,314,,127.072134,37.5505389,"용마폭포공원.jpg"
+"아차산배수지체육공원","공원","서울 광진구 구의동에 위치한 체육공원","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours",4.1,85,,127.072134,37.5505389,"아차산배수지체육공원.jpg"
+"답십리공원","공원","서울 동대문구 답십리동에 위차한 공원","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours",4.7,9,,127.0458959,37.5743965,"답십리공원.jpg"
+"정말어린이공원","공원","서울특별시 광진구 자양동에 위치한 공원","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours",3.9,23,,127.072134,37.5505389,"정말어린이공원.jpg"
+"아차산생태공원","생태 공원","서울특별시 광진구 광장동 아차산 기슭에 조성한 생태공원이다. 서울을 환경도시로 탈바꿈시키겠다는 목표로 1996년부터 진행된 서울특별시 공원녹지확충 5개년 계획의 일환으로 조성되었다.","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours",4.1,436,,127.072134,37.5505389,"아차산생태공원.jpg"
+"용두근린공원","공원","서울시 동대문구 용두동에 위치한 공원","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours",4.1,37,,127.0217594,37.5732295,"용두근린공원.jpg"
+"장독골공원","공원","서울 광진구 자양동에 위치한 공원","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours",4,9,,127.072134,37.5505389,"장독골공원.jpg"
+"향림근린공원","공원","서울 은평구 불광동에 위치한 공원","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours",2.3,3,,127.0359255,37.546733,"향림공원.jpg"
+"왕십리문화공원","공원","서울 성동구 도선동에 위치한 공원","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours",4.4,18,,127.0177601,37.5617309,"왕십리문화공원.jpg"
+"성수근린공원","공원","서울 성동구 성수동2가에 위치한 공원","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours",3.5,27,,127.0348978,37.5447332,"성수근린공원.jpg"
+"풀잎문화센터","문화센터","풀잎문화센터는 일반 학원과 복지관, 백화점문화센터와 차별화하여 가족적ㅇ니 분위기 속에서 아침 10시부터 저녁 9시 사이에 본인이 편한 시간을 이용 자유로이 선택 수강할 수 있으며, 또한 각 강좌 사범코스를 수료한 회원은 자격증 시험ㅇ르 시행 취득 후 강사활동을 할 수 있으며, 홈클래스 및 공방운영도 가능합니다.","AM10–9PM","AM10–9PM","AM10–9PM","AM10–9PM","AM10–9PM","no data","no data",4,2,,127.049844,37.539321,"풀잎문화센터.jpg"
+"광진문화예술회관","문화센터","광진문화예술회관 은 700 여석의 고급공연장과 전용 전시실을 비롯한 문화교실, 수영장, 인터넷정보검색실을 갖춘 종합 문화·여가공간으로 2005년 5월 그 첫 번째 마당을 열게 되었습니다.
 특히 광진문화예술회관 내 나루아트센터는 고전음악은 물론 대중음악을 만족시키는 첨단 무대, 음향, 조명시설을 갖추고 1년 내내 끊이지 않는 공연 예술의 박동소리를 들을 수 있는 풍성한 공연 예술의 장이 되고, 100여 평 규모의 전용전시실에서는 미술, 사진전 등 수준 높은 전시회를 지속적으로 개최하여 구민 여러분들의 문화적 갈증을 해소시켜 드리고자 합니다.
-이 곳의 정보를 고쳐주고최대 1,000 포인트 받아가세요",6AM-10PM,6AM-10PM,6AM-10PM,6AM-10PM,6AM-10PM,6AM-10PM,6AM-10PM,4.1,82,,127.072134,37.5505389,광진문화예술회관.jpg
-서울교육문화센터,문화센터,"예술교육정보자료관은 문화예술 교육활동을 지원하는 교육자료 및 다양한 예술 장르의 도서, 연구자료, 정기간행물, 영상자료 등 2만여 점이 넘는 자료를 소장하고 있는 예술교육전문자료관으로 문화예술교육정보의 허브 역할을 수행하며, 문화예술교육관련 네트워크를 위한 열린공간을 지향합니다. 2,4주 일요일, 법정 공휴일 휴관.",6AM-10PM,6AM-10PM,6AM-10PM,6AM-10PM,6AM-10PM,6AM-10PM,Closed,3.9,44,,127.0390355,37.561926,서울교육문화센터.jpg
-청담문화센타,문화센터,"청담문화센터는 다양한 프로그램과 전문적인 강사진으로 운영되며 최고의 강좌를 개설운영하고 있으며, 주민의 말씀에 귀 기울여 불편사항 수시로 보완 개선하는데 최선을 다하고 있습니다. 
-강좌명 : 아침요가, 힐링요가, 필라테스, 단전, 방송댄스, 댄스스포츠, 챠밍댄스, 한국무용, 민요소리&장구, 유아&초등미술, 유아발레, 키즈잉글리쉬, 플루트, 어린이레고, 수리셈 등 강습 운영 됩니다.",,,,,,,,4,2,,127.0317745,37.5250521,청담문화센타.jpg
-광진구정보화교육센터,문화센터,서울특별시 광진구 화양동에 위치한 교육 문화센터이다. 어르신들이 이용하기에 적합하다.,,,,,,,,4.4,5,,127.072134,37.5505389,광진구정보화교육센터.jpg
-한국문화센터 건대지부,문화센터,서울 광진구 뚝섬로에 위치한 문화센터,AM6:00-PM10,AM6:00-PM10,AM6:00-PM10,AM6:00-PM10,AM6:00-PM10,AM6:00-PM10,Closed,,,,127.0496743,37.5412895,한국문화센터 건대지부.jpg
-중곡문화체육센터,스포츠 단지,"중곡동을 상징하는 미래지향적인 친환경 빌딩으로, 역동적 디자인으로 주민들에거 열린 커뮤니티 광장을 조성하여 문화를 즐기며 삶을 건강하게 향유할 수 있는, 문화와 스포츠가 접목된 주민화합공간을 제공 합니다.",,,,,,,,4.3,120,,127.072134,37.5505389,중곡문화체육센터.jpg
-장안1동문화센터,문화센터,서울시 동대문구 장안동에 위치한 문화센터,,,,,,,,3.3,3,,127.072134,37.5505389,장안1동문화센터.jpg
-압구정평생학습관,문화센터,"압구정로데오 거리에 위치한 지상 2-6층의 쾌적한 시설이다. 압구정 유일하게 마련되어 있는 요리교실이 있으며 그 밖에도, 헬스, 에어로빅, 요가, 탁구 등 다양한 건강, 체육 강좌 운영하고 있다. 또한 영어, 일본어, 중국어 등 부담 없이 배울 수 있는 어학 강좌도 운영하고 있다. 지역주민이 편리하고 저렴하게 이용가능한 종합 문화, 체육시설이다.",,,,,,,,4,8,,127.0182323,37.5272625,압구정평생학습관.jpg
-광진문화원,문화센터,"광진문화원은 향토사료조사, 문화탐방, 우리문화체험교실, 어르신 문화프로그램, 전통성년례, 청소년 문예대제전 등의 문화예술행사를 기획 및 개최하고 있습니다.
-또한, 나이와 계층을 초월하고, 문화가족들간의 만남과 소통을 원할하게 하기 위하여 300여개의 문화예술강좌를 운영하고, 다양한 동아리 활동을 지원하고 있습니다.",,,,,,,,3.9,24,,127.072134,37.5505389,광진문화원.jpg
-언더스탠드에비뉴,문화센터,"언더스탠드에비뉴는 신한은행의 디지털 인프라를 결합하여 청년창업가들의 꿈을 키우고 실현시키는 혁신적인 창업 ∙ 창직 플랫폼입니다.
+이 곳의 정보를 고쳐주고최대 1,000 포인트 받아가세요","6AM–10PM","6AM–10PM","6AM–10PM","6AM–10PM","6AM–10PM","6AM–10PM","6AM–10PM",4.1,82,,127.072134,37.5505389,"광진문화예술회관.jpg"
+"서울교육문화센터","문화센터","예술교육정보자료관은 문화예술 교육활동을 지원하는 교육자료 및 다양한 예술 장르의 도서, 연구자료, 정기간행물, 영상자료 등 2만여 점이 넘는 자료를 소장하고 있는 예술교육전문자료관으로 문화예술교육정보의 허브 역할을 수행하며, 문화예술교육관련 네트워크를 위한 열린공간을 지향합니다. 2,4주 일요일, 법정 공휴일 휴관.","6AM–10PM","6AM–10PM","6AM–10PM","6AM–10PM","6AM–10PM","6AM–10PM","Closed",3.9,44,,127.0390355,37.561926,"서울교육문화센터.jpg"
+"청담문화센타","문화센터","청담문화센터는 다양한 프로그램과 전문적인 강사진으로 운영되며 최고의 강좌를 개설운영하고 있으며, 주민의 말씀에 귀 기울여 불편사항 수시로 보완 개선하는데 최선을 다하고 있습니다. 
+강좌명 : 아침요가, 힐링요가, 필라테스, 단전, 방송댄스, 댄스스포츠, 챠밍댄스, 한국무용, 민요소리&장구, 유아&초등미술, 유아발레, 키즈잉글리쉬, 플루트, 어린이레고, 수리셈 등 강습 운영 됩니다.",,,,,,,,4,2,,127.0317745,37.5250521,"청담문화센타.jpg"
+"광진구정보화교육센터","문화센터","서울특별시 광진구 화양동에 위치한 교육 문화센터이다. 어르신들이 이용하기에 적합하다.",,,,,,,,4.4,5,,127.072134,37.5505389,"광진구정보화교육센터.jpg"
+"한국문화센터 건대지부","문화센터","서울 광진구 뚝섬로에 위치한 문화센터","AM6:00–PM10","AM6:00–PM10","AM6:00–PM10","AM6:00–PM10","AM6:00–PM10","AM6:00–PM10","Closed",,,,127.0496743,37.5412895,"한국문화센터 건대지부.jpg"
+"중곡문화체육센터","스포츠 단지","중곡동을 상징하는 미래지향적인 친환경 빌딩으로, 역동적 디자인으로 주민들에거 열린 커뮤니티 광장을 조성하여 문화를 즐기며 삶을 건강하게 향유할 수 있는, 문화와 스포츠가 접목된 주민화합공간을 제공 합니다.",,,,,,,,4.3,120,,127.072134,37.5505389,"중곡문화체육센터.jpg"
+"장안1동문화센터","문화센터","서울시 동대문구 장안동에 위치한 문화센터",,,,,,,,3.3,3,,127.072134,37.5505389,"장안1동문화센터.jpg"
+"압구정평생학습관","문화센터","압구정로데오 거리에 위치한 지상 2–6층의 쾌적한 시설이다. 압구정 유일하게 마련되어 있는 요리교실이 있으며 그 밖에도, 헬스, 에어로빅, 요가, 탁구 등 다양한 건강, 체육 강좌 운영하고 있다. 또한 영어, 일본어, 중국어 등 부담 없이 배울 수 있는 어학 강좌도 운영하고 있다. 지역주민이 편리하고 저렴하게 이용가능한 종합 문화, 체육시설이다.",,,,,,,,4,8,,127.0182323,37.5272625,"압구정평생학습관.jpg"
+"광진문화원","문화센터","광진문화원은 향토사료조사, 문화탐방, 우리문화체험교실, 어르신 문화프로그램, 전통성년례, 청소년 문예대제전 등의 문화예술행사를 기획 및 개최하고 있습니다.
+또한, 나이와 계층을 초월하고, 문화가족들간의 만남과 소통을 원할하게 하기 위하여 300여개의 문화예술강좌를 운영하고, 다양한 동아리 활동을 지원하고 있습니다.",,,,,,,,3.9,24,,127.072134,37.5505389,"광진문화원.jpg"
+"언더스탠드에비뉴","문화센터","언더스탠드에비뉴는 신한은행의 디지털 인프라를 결합하여 청년창업가들의 꿈을 키우고 실현시키는 혁신적인 창업 ∙ 창직 플랫폼입니다.
 자신이 좋아하고 잘하는 일을 하며, 사회에 기여하는 미래 인재를 키우기위해 창업 ∙ 창직 교육부터 시장 테스트, 금융 및 투자 지원, 판매 유통 지원까지 원스톱 통합 솔루션을 제공합니다.
-또한 취업 교육 및 유망 스타트업 구인 구직 매칭 등을 통해 취업을 희망하는 청년을 응원합니다.",,,,,,,,4,53,,127.0270002,37.5434438,언더스탠드에비뉴.jpg
-성동구건강가정지원센터,건강 센터,,,,,,,,,4.3,4,,127.0136123,37.5654117,성동구건강가정지원센터.jpg
-광진문화재단 나루아트센터,재단,,8AM–9PM,8AM–9PM,8AM–9PM,8AM–9PM,8AM–9PM,8AM–9PM,8AM–9PM,3.9,110,,127.072134,37.5505389,광진문화재단 나루아트센터.jpg
-청담동문화센터,문화센터,,,,,,,,,,,,127.0317876,37.5250412,청담동문화센터.jpg
-알렌센터,문화센터,,8:30AM–9PM,8:30AM–9PM,8:30AM–9PM,8:30AM–9PM,8:30AM–9PM,8:30AM–9PM,Closed,,,,127.0304705,37.525177,알렌센터.jpg
-성동문화회관,문화센터,,,,,,,,,,,,127.0193874,37.5716772,성동문화회관.jpg
-에이트 인스티튜트,교육 컨설턴트,,AM9-PM7,AM9-PM7,AM9-PM7,AM9-PM7,AM9-PM7,Closed,Closed,,,,127.0294445,37.5261291,에이트 인스티튜트.jpg
-삼성2동문화센터,문화센터,,,,,,,,,4.1,17,,127.0284827,37.5111817,삼성2동문화센터.jpg
-CGV 강변,영화관,,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,4,986,,127.072134,37.5505389,CGV 강변.jpg
-CGV 왕십리,영화관,,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,4.2,"1,262",,127.020582,37.5620999,CGV 왕십리.jpg
-롯데시네마 건대입구,영화관,,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,4.1,703,,127.072134,37.5505389,롯데시네마 건대입구.jpg
-롯데시네마 장안,영화관,,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,3.8,132,,127.072134,37.5505389,롯데시네마 장안.jpg
-CGV 압구정 본관,영화관,,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,3.8,463,,127.0113564,37.5244988,CGV 압구정 본관.jpg
-KU씨네마테크,영화관,,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,4.3,85,,127.072134,37.5505389,KU씨네마테크.jpg
-잠실자동차극장,자동차극장,,,,,,,,,3.5,46,,127.05122,37.5172454,잠실자동차극장.jpg
-CGV 청담 씨네시티,영화관,,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,4.2,676,,127.0195115,37.5228508,CGV 청담 씨네시티.jpg
-무지개극장,예술,,,,,,,,,,,,127.072134,37.5505389,무지개극장.jpg
-혜화동돈가스극장,극장,,,,,,,,,,,,127.072134,37.5505389,혜화동돈가스극장.jpg
-롯데시네마 청량리,영화관,,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,4.1,843,,127.0304806,37.5805621,롯데시네마 청량리.jpg
-대한극장,영화관,,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,4,967,,126.9778196,37.5610636,대한극장.jpg
-군자동극장,극장,,,,,,,,,,,,127.072134,37.5505389,군자동극장.jpg
-서울극장,영화관,,,,,,,,,4.3,92,,126.974182,37.5697471,서울극장.jpg
-롯데시네마 황학,영화관,,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,3.8,12,,127.0041318,37.5712514,롯데시네마 황학.jpg
-롯데시네마 강동점,영화관,,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,3.8,590,,127.1080164,37.5366748,롯데시네마 강동점.jpg
-대한극장 청담,한식 고기구이 레스토랑,,,,,,,,,4.6,7,,127.0340902,37.525324,대한극장 청담.jpg
-화양극장,음식점,,AM11:30-AM2,AM11:30-AM2,AM11:30-AM2,AM11:30-AM2,AM11:30-AM2,AM11:30-AM2,AM11:30-AM2,3.9,17,,127.0300478,37.5248923,화양극장.jpg
-청춘극장,극장,,,,,,,,,,,,127.072134,37.5505389,청춘극장.jpg
-CGV 건대입구,영화관,,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,3.7,20,,127.0494215,37.5397613,CGV 건대입구.jpg
-롯데시네마 월드타워,영화관,,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,4.4,"1,993",,127.0875412,37.5140711,롯데시네마 월드타워.jpg
-CGV 압구정 신관,영화관,,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,3.5,4,,127.0118728,37.5242861,CGV 압구정 신관.jpg
-메가박스 코엑스,영화관,,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,4.4,"1,805",,127.041281,37.5124447,메가박스 코엑스.jpg
-메가박스 상봉,영화관,,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,3.8,692,,127.0571721,37.5931722,메가박스 상봉.jpg
-롯데시네마 브로드웨이(신사),영화관,,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,3.4,332,,127.004235,37.5165695,롯데시네마 브로드웨이(신사).jpg
-메가박스 동대문,영화관,,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,4.2,904,,126.9900682,37.5668686,메가박스 동대문.jpg
-CGV 상봉,영화관,,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,4,798,,127.0748089,37.5975887,CGV 상봉.jpg
-메가박스 EOE4,영화관,,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,3.9,12,,126.9849303,37.5512593,메가박스 EOE4.jpg
-돈호야군자점,일본 음식점,,,,,,,,,3.6,5,,127.072134,37.5505389,돈호야군자점.jpg
-한솥세종대점,음식점,,,,,,,,,3,1,,127.072134,37.5505389,한솥세종대점.jpg
-조씨네 고기국수,음식점,,AM11:30-PM 3,AM11:30-PM 3,AM11:30-PM 3,AM11:30-PM 3,AM11:30-PM 3,AM11:30-PM 3,AM11:30-PM 3,4.1,101,,127.072134,37.5505389,조씨네 고기국수.jpg
-하이난,중국 음식점,,AM10-PM9,AM10-PM9,AM10-PM9,AM10-PM9,AM10-PM9,AM10-PM9,AM10-PM9,3.8,173,,127.072134,37.5505389,하이난.jpg
-Tokyo420,일본 음식점,,AM11:30-PM9,AM11:30-PM9,AM11:30-PM9,AM11:30-PM9,AM11:30-PM9,AM11:30-PM9,AM11:30-PM9,3.6,83,,127.072134,37.5505389,Tokyo420.jpg
-대명소곱창,음식점,,,,,,,,,4.1,70,,127.072134,37.5505389,대명소곱창.jpg
-소문난 성수 감자탕,음식점,,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,2,2,,127.0368908,37.5428492,소문난 성수 감자탕.jpg
-건국갈비,음식점,,AM10-PM10,AM10-PM10,AM10-PM10,AM10-PM10,AM10-PM10,AM10-PM10,Closed,3.7,18,,127.072134,37.5505389,건국갈비.jpg
-명문한우가,한국식 소고기 전문 음식점,,,,,,,,,3,5,,127.072134,37.5505389,명문한우가.jpg
-벨피아또,이탈리아 음식점,,AM11:30-PM3:32,AM11:30-PM3:33,AM11:30-PM3:34,AM11:30-PM3:35,AM11:30-PM3:36,AM11:30-PM3:30,AM11:30-PM3:31,4,133,,127.072134,37.5505389,벨피아또.jpg
-매드포갈릭 건대스타시티점,이탈리아 음식점,,AM11:30-PM10:02,AM11:30-PM10:03,AM11:30-PM10:04,AM11:30-PM10:05,AM11:30-PM10:06,AM11:30-PM10:00,AM11:30-PM10:01,3.7,76,,127.072134,37.5505389,매드포갈릭 건대스타시티점.jpg
-페스타마레,이탈리아 음식점,,AM11:30-PM10:02,AM11:30-PM10:03,AM11:30-PM10:04,AM11:30-PM10:05,AM11:30-PM10:06,AM11:30-PM10:00,AM11:30-PM10:01,3.7,32,,127.072134,37.5505389,페스타마레.jpg
-개미집,음식점,,AM10:00-AM12:02,AM10:00-AM12:03,AM10:00-AM12:04,AM10:00-AM12:05,AM10:00-AM12:06,AM10:00-AM12:00,AM10:00-AM12:01,3.8,84,,127.072134,37.5505389,개미집.jpg
-바베양장,음식점,,AM11:00-PM11:30,AM11:00-PM11:30,AM11:00-PM11:30,AM11:00-PM11:30,AM11:00-PM11:30,AM11:00-PM11:30,AM11:00-PM11:30,3.7,58,,127.0359435,37.542462,바베양장.jpg
-소세지연구소 부대전골,음식점,,AM10:00-PM10:00,AM10:00-PM10:00,AM10:00-PM10:00,AM10:00-PM10:00,AM10:00-PM10:00,AM10:00-PM10:00,Closed,4.9,8,,127.0352974,37.5484923,소세지연구소 부대전골.jpg
-빠오즈푸,딤섬 전문 레스토랑,,AM11:30-PM8:30,AM11:30-PM8:30,Closed,AM11:30-PM8:30,AM11:30-PM8:30,AM11:30-PM8:30,AM11:30-PM8:30,4.1,220,,127.072134,37.5505389,빠오즈푸.jpg
-엉뚱식당 한우전문점,음식점,,,,,,,,,4.9,9,,127.0497051,37.5649299,엉뚱식당 한우전문점.jpg
-샹그라,음식점,,AM11-PM10,AM11-PM10,AM11-PM10,AM11-PM10,AM11-PM10,AM11-PM10,AM11-PM10,4,1,,127.072134,37.5505389,샹그라.jpg
-매화반점,중국 음식점,,PM12-AM1,PM12-AM1,PM12-AM1,PM12-AM1,PM12-AM1,PM12-AM1,PM12-AM1,3.7,606,,127.072134,37.5505389,매화반점.jpg
-투썸플레이스 어린이대공원역점,카페,,AM8-PM11:30,AM8-PM11:30,AM8-PM11:30,AM8-PM11:30,AM8-PM11:30,AM8-PM11:30,AM8-PM11:30,3.9,47,,127.072134,37.5505389,투썸플레이스 어린이대공원역점.jpg
-벨롱에스프레소,카페,,AM11-PM10:30,AM11-PM10:30,AM11-PM10:30,AM11-PM10:30,AM11-PM10:30,AM11-PM10:30,AM11-PM10:30,4.1,21,,127.072134,37.5505389,벨롱에스프레소.jpg
-롬곡,카페,,,,,,,,,4.4,23,,127.072134,37.5505389,롬곡.jpg
-카페레가토(CAFFE' LEGATO),카페,,AM11:30-PM11,Closed,AM11:30-PM11,AM11:30-PM11,AM11:30-PM11,AM11:30-PM11,AM11:30-PM11,,,,127.0500747,37.5463294,카페레가토(CAFFE' LEGATO).jpg
-카페 호이,카페,,,,,,,,,4.3,9,,127.072134,37.5505389,카페 호이.jpg
-(주)바나나토크,카페,,AM11-PM11,AM11-PM11,AM11-PM11,AM11-PM11,AM11-PM11,AM11-PM11,AM11-PM11,3.5,56,,127.072134,37.5505389,(주)바나나토크.jpg
-카페데코믹스 건대점,카페,,,,,,,,,4.1,25,,127.072134,37.5505389,카페데코믹스 건대점.jpg
-감성다방,카페,,AM11:30-PM11,Closed,AM11:30-PM11,AM11:30-PM11,AM11:30-PM11,AM11:30-PM11,AM11:30-PM11,4.5,23,,127.072134,37.5505389,감성다방.jpg
-투썸플레이스 아차산역,카페,,AM8-PM11:30,AM8-PM11:30,AM8-PM11:30,AM8-PM11:30,AM8-PM11:30,AM8-PM11:30,AM8-PM11:30,4.1,56,,127.072134,37.5505389,투썸플레이스 아차산역.jpg
-투썸플레이스군자역점,카페,,,,,,,,,3.6,30,,127.072134,37.5505389,투썸플레이스군자역점.jpg
-투썸플레이스 성수역,카페,,AM8-PM11,AM8-PM11,AM8-PM11,AM8-PM11,AM8-PM11,AM9-PM10,AM9-PM11,4,6,,127.0365232,37.5449238,투썸플레이스 성수역.jpg
-탐앤탐스군자역점,카페,,PM7-AM2,PM7-AM2,PM7-AM2,PM7-AM2,PM7-AM2,PM7-AM2,PM7-AM2,3.8,30,,127.072134,37.5505389,탐앤탐스군자역점.jpg
-케이이스케이프,카페,,AM10-PM11:15,AM10-PM11:15,AM10-PM11:15,AM10-PM11:15,AM10-PM11:15,AM10-PM11:15,AM10-PM11:15,3.8,4,,127.072134,37.5505389,케이이스케이프.jpg
-와플그란데,카페,,AM8-PM10,AM8-PM10,AM8-PM10,AM8-PM10,AM8-PM10,AM11-PM7,AM11-PM7,4.3,13,,127.072134,37.5505389,와플그란데.jpg
-더착한커피세종대점,카페,,,,,,,,,3.5,2,,127.072134,37.5505389,더착한커피세종대점.jpg
-이디야 성수우리W타워점,카페,,AM8-PM10,AM8-PM10,AM8-PM10,AM8-PM10,AM8-PM10,AM8-PM10,Closed,3.3,20,,127.0447038,37.5448163,이디야 성수우리W타워점.jpg
-샹그리라,카페,,PM12-PM10,PM12-PM10,PM12-PM10,PM12-PM10,PM12-PM10,PM12-PM10,PM12-PM10,4.2,25,,127.072134,37.5505389,샹그리라.jpg
-Cafe Mummy,카페,,PM12-PM10,PM12-PM10,PM12-PM10,PM12-PM10,PM12-PM10,PM12-PM10,PM12-PM10,3,1,,127.072134,37.5505389,Cafe Mummy.jpg
-마우스래빗,카페,,AM10-PM11:30,AM10-PM11:30,AM10-PM11:30,AM10-PM11:30,AM10-PM11:30,AM10-PM11:30,AM10-PM11:30,4.6,252,,127.072134,37.5505389,마우스래빗.jpg
-어니언,카페,,AM8-PM10,AM8-PM10,AM8-PM10,AM8-PM10,AM8-PM10,AM8-PM10,AM8-PM10,4.1,165,,127.0407063,37.5446969,어니언.jpg
-이디야,커피숍/커피 전문점,,,,,,,,,3.8,6,,127.072134,37.5505389,이디야.jpg
-그라지에,커피숍/커피 전문점,,,,,,,,,,,,127.072134,37.5505389,그라지에.jpg
-최가커피,커피숍/커피 전문점,,AM11:30-PM11:50,AM11:30-PM11:50,AM11:30-PM11:50,AM11:30-PM11:50,AM11:30-PM11:50,AM11:30-PM11:50,AM12-PM11,4.5,81,,127.072134,37.5505389,최가커피.jpg
-엔제리너스 건대역점,커피숍/커피 전문점,,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,3.9,175,,127.072134,37.5505389,엔제리너스 건대역점.jpg
-헨델과그레텔,커피숍/커피 전문점,,,,,,,,,4.1,10,,127.072134,37.5505389,헨델과그레텔.jpg
-아리스타,커피숍/커피 전문점,,,,,,,,,3.5,4,,127.0457856,37.5467332,아리스타.jpg
-투썸플레이스 건대입구점,커피숍/커피 전문점,,AM8:30-AM1,AM8:30-AM1,AM8:30-AM1,AM8:30-AM1,AM8:30-AM1,AM8:30-AM1,AM8:30-AM1,,,,127.072134,37.5505389,투썸플레이스 건대입구점.jpg
-커피빈코리아 건대스타시티점,커피숍/커피 전문점,,,,,,,,,4.2,12,,127.072134,37.5505389,커피빈코리아 건대스타시티점.jpg
-이디야커피,커피숍/커피 전문점,,,,,,,,,3,2,,127.0487379,37.5609017,이디야커피.jpg
-엔젤리너스 건대스타시티점,커피숍/커피 전문점,,AM8-PM11,AM8-PM11,AM8-PM11,AM8-PM11,AM8-PM11,AM7-PM11,AM7-PM11,3.6,5,,127.072134,37.5505389,엔젤리너스 건대스타시티점.jpg
-커피마켓,커피숍/커피 전문점,,AM9-AM3,AM9-AM3,AM9-AM3,AM9-AM3,AM9-AM3,AM9-AM3,AM9-AM312,3.7,73,,127.072134,37.5505389,커피마켓.jpg
-스타벅스 장한평역점,커피숍/커피 전문점,,AM7-PM11,AM7-PM11,AM7-PM11,AM7-PM11,AM7-PM11,AM7-PM11,AM8-PM11,4.1,113,,127.0480034,37.5622228,스타벅스 장한평역점.jpg
-할리스커피 테크노마트점,커피숍/커피 전문점,,AM9:15-PM10,AM9:15-PM10,AM9:15-PM10,AM9:15-PM10,AM9:15-PM10:30,AM9:15-PM10:30,AM9:15-PM10:30,4.3,3,,127.072134,37.5505389,할리스커피 테크노마트점.jpg
-스타벅스 건대입구점,커피숍/커피 전문점,,AM7-PM11,AM7-PM11,AM7-PM11,AM7-PM11,AM7-PM11,AM8-PM11,AM8-PM11,3.7,190,,127.072134,37.5505389,스타벅스 건대입구점.jpg
-스타벅스 군자역점,커피숍/커피 전문점,,AM7-PM11,AM7-PM11,AM7-PM11,AM7-PM11,AM7-PM11,AM7-PM11:30,AM7-PM11:30,3.9,122,,127.072134,37.5505389,스타벅스 군자역점.jpg
-카페베네 장안점,커피숍/커피 전문점,,AM8-AM12,AM8-AM12,AM8-AM12,AM8-AM12,AM8-AM12,AM8-AM12,AM8-AM12,3.6,40,,127.0432299,37.5623146,카페베네 장안점.jpg
-엔제리너스 건대병원,커피숍/커피 전문점,,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,3.3,74,,127.072134,37.5505389,엔제리너스 건대병원.jpg
-모카하마,커피숍/커피 전문점,,AM9-PM9,AM9-PM9,AM9-PM9,AM9-PM9,AM9-PM9,Closed,Closed,3.9,7,,127.072134,37.5505389,모카하마.jpg
-벨라빈스커피,커피숍/커피 전문점,,,,,,,,,3.3,4,,127.0467855,37.5478164,벨라빈스커피.jpg
-투썸플레이스 장안점,커피숍/커피 전문점,,AM11-PM12,AM11-PM12,AM11-PM12,AM11-PM12,AM11-PM12,AM11-PM12,AM11-PM12,3.4,20,,127.072134,37.5505389,투썸플레이스 장안점.jpg
-몽골 울란바타르 문화진흥원,문화센터,,,,,,,,,3.5,4,,127.072134,37.5505389,몽골 울란바타르 문화진흥원.jpg
-성수아트홀,공연예술 극장,,,,,,,,,4.3,96,,127.0294472,37.5454017,성수아트홀.jpg
-홍대돈부리 건대점,음식점,,,,,,,,,4,1,,127.072134,37.5505389,홍대돈부리 건대점.jpg
-전주명가콩나물국밥,음식점,,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,3.9,94,,127.072134,37.5505389,전주명가콩나물국밥.jpg
-차이나플레인,중국 음식점,,AM11:30-PM10,AM11:30-PM10,AM11:30-PM10,AM11:30-PM10,AM11:30-PM10,AM11:30-PM10,AM11:30-PM10,3.6,70,,127.0394529,37.5445945,차이나플레인.jpg
-비스트로 드 욘트빌 BISTROT de YOUNTVILLE (Restaurant français),프랑스 음식점,,PM12-AM3,PM12-AM3,PM12-AM3,PM12-AM3,PM12-AM3,PM12-AM3,PM12-AM3,4.3,67,,127.0237136,37.526034,비스트로 드 욘트빌 BISTROT de YOUNTVILLE (Restaurant français).jpg
-꼬메노,카페,,,,,,,,,4.4,10,,127.072134,37.5505389,꼬메노.jpg
-김종욱커피,커피숍/커피 전문점,,AM9-PM10,AM9-PM10,AM9-PM10,AM9-PM10,AM9-PM10,AM9-PM10,AM9-PM10,4.4,44,,127.0320031,37.5495606,김종욱커피.jpg
-바곱창,술집,,,,,,,,,4.3,10,,127.019475,37.5504806,바곱창.jpg
-피에스타 2 스윙댄스 바 Fiesta 2 Swing Dance Bar,술집,,,,,,,,,4.6,16,,127.019475,37.5504806,피에스타 2 스윙댄스 바 Fiesta 2 Swing Dance Bar.jpg
-positive zero lounge,재즈바,,Closed,PM6-AM2,PM6-AM2,PM6-AM2,PM6-AM2,PM6-AM2,PM6-AM2,4.4,51,,127.019475,37.5504806,positive zero lounge.jpg
-바 델마,바 & 그릴,,PM7:30-AM2,PM7:30-AM2,PM7:30-AM2,PM7:30-AM2,PM7:30-AM2,PM7:30-AM2,Closed,4.6,12,,127.019475,37.5504806,바 델마.jpg
-믹솔로지 MIXOLOGY,칵테일바,,PM8-AM2,PM8-AM2,PM8-AM2,PM8-AM2,PM8-AM3,PM8-AM3,Closed,4.9,30,,127.019475,37.5504806,믹솔로지 MIXOLOGY.jpg
-정식바,와인 바,,PM6-AM2,PM6-AM2,PM6-AM2,PM6-AM2,PM6-AM2,PM6-AM2,PM12-AM3,4.5,24,,127.019475,37.5504806,정식바.jpg
-오아시스 LP 뮤직바,술집,,,,,,,,,4.8,17,,127.019475,37.5504806,오아시스 LP 뮤직바.jpg
-White Bar (화이트 바),칵테일바,,PM7-AM3,PM7-AM3,PM7-AM3,PM7-AM3,PM7-AM3,PM7-AM3,PM7-AM32,4.3,24,,127.019475,37.5504806,White Bar (화이트 바).jpg
-볼트82,칵테일바,,PM7-AM3,PM9-AM3,PM9-AM3,PM9-AM4,PM9-AM4,PM9-AM4,PM9-AM2,4.4,79,,127.019475,37.5504806,볼트82.jpg
-바코난,칵테일바,,PM7-AM3,PM7-AM3,PM7-AM3,PM7-AM3,PM7-AM3,PM7-AM3,PM7-AM3,4.3,6,,127.019475,37.5504806,바코난.jpg
-칵테일바 카페루이 본점 (Cafe Louis HQ),칵테일바,,PM6-AM2,PM6-AM2,PM6-AM2,PM6-AM2,PM6-AM2,PM6-AM2,Closed,4.2,19,,127.019475,37.5504806,칵테일바 카페루이 본점 (Cafe Louis HQ).jpg
-레드모델바 잠실신천점,술집,,PM8-AM7,PM8-AM7,PM8-AM7,PM8-AM7,PM8-AM7,PM8-AM7,Closed,4.2,5,,127.019475,37.5504806,레드모델바 잠실신천점.jpg
-한남동 와이낫 (WHY NOT),칵테일바,,PM7-AM4,PM7-AM4,PM7-AM4,PM7-AM4,PM7-AM5,PM7-AM5,PM7-AM4,4.4,54,,127.019475,37.5504806,한남동 와이낫 (WHY NOT).jpg
-미식바,와인 바,,,,,,,,,5,1,,127.019475,37.5504806,미식바.jpg
-원스인어블루문,재즈바,,PM6-AM1,PM6-AM1,PM6-AM2,PM6-AM2,PM6-AM2,PM6-AM2,PM6-AM12,4.4,238,,127.019475,37.5504806,원스인어블루문.jpg
-Bar Musk - 바 머스크,술집,,PM7-AM2,PM6-AM2,PM6-AM2,PM6-AM2,PM6-AM2,PM6-AM2,Closed,4.6,15,,127.019475,37.5504806,Bar Musk - 바 머스크.jpg
-1971바,술집,,,,,,,,,3,1,,127.019475,37.5504806,1971바.jpg
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-여기서부터 승찬이,,,,,,,,,,,,,,,
-먼데이블루스 와인바,술집,,,,,,,,,4.4,28,,127.019475,37.5504806,먼데이블루스 와인바.jpg
-사이드웨이 와인,와인 바,,PM6-AM2,PM6-AM2,PM6-AM2,PM6-AM2,PM6-AM2,PM5-AM2,PM5-AM12,4.3,46,,127.019475,37.5504806,사이드웨이 와인.jpg
-신시어,바 & 그릴,,,,,,,,,4.7,7,,127.019475,37.5504806,신시어.jpg
-세종문화회관,문화센터,,,,,,,,,4.3,"1,620",,126.9668882,37.5725254,세종문화회관.jpg
-대치2문화센타,문화센터,,,,,,,,,3.7,28,,127.0556294,37.5022996,대치2문화센타.jpg
-롯데MBC문화센터 강남점,문화센터,,,,,,,,,4.5,12,,127.0460367,37.4976341,롯데MBC문화센터 강남점.jpg
-역삼2동문화센터,문화센터,,,,,,,,,5,1,,127.0380157,37.4959613,역삼2동문화센터.jpg
-대치4문화복지회관,문화센터,,,,,,,,,3.9,23,,127.0491358,37.4997536,대치4문화복지회관.jpg
-동부여성문화센터,문화센터,,,,,,,,,5,3,,127.0012392,37.5772007,동부여성문화센터.jpg
-송파여성문화회관,문화센터,,AM9-PM10,AM9-PM10,AM9-PM10,AM9-PM10,AM9-PM10,AM9-PM10,Closed,3.8,146,,127.1010648,37.5058779,송파여성문화회관.jpg
-허리우드극장,영화관,,,,,,,,,4,37,,126.9793248,37.5727009,허리우드극장.jpg
-CGV 천호,영화관,,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,4.2,941,,127.1334892,37.5456582,CGV 천호.jpg
-합동영화(주),영화관,,,,,,,,,4,300,,126.9828812,37.5696522,합동영화(주).jpg
-CGV 강남,영화관,,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,3.7,"1,640",,127.0175587,37.5015645,CGV 강남.jpg
-민속극장풍류,공연예술 극장,,,,,,,,,4.6,28,,127.0358766,37.5101818,민속극장풍류.jpg
-CGV 피카디리1958,영화관,,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,3.9,849,,126.9883196,37.5495559,CGV 피카디리1958.jpg
-CGV 강남,영화관,,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,9:30AM–11PM,3.7,"1,640",,126.9883196,37.5495559,CGV 강남.jpg
-홍콩반점0410 어린이대공원점,중국 음식점,,,,,,,,,,,,127.0702833,37.5505439,홍콩반점0410 어린이대공원점.jpg
-페리카나 화양리점,음식점,,,,,,,,,,,,127.0671614,37.544678,페리카나 화양리점.jpg
-미다래,일본 음식점,,,,,,,,,3,2,,127.0692446,37.5422339,미다래.jpg
-아이점프 군자점,카페,,AM10-PM8,AM10-PM8,AM10-PM8,AM10-PM8,AM10-PM8,AM10-PM8,AM10-PM8,4.1,13,,127.0702833,37.5505439,아이점프 군자점.jpg
-단지커피,카페,,AM11-PM9,AM11-PM9,AM11-PM9,AM11-PM9,AM11-PM9,AM12-PM9,Closed,4.6,11,,127.0702833,37.5505439,단지커피.jpg
-옥루몽어린이대공원점,카페,,AM8-PM11,AM8-PM11,AM8-PM11,AM8-PM11,AM8-PM11,AM8-PM11,AM8-PM11,4,21,,127.0702833,37.5505439,옥루몽어린이대공원점.jpg
-모서리에커피집,카페,,AM11:30-PM10,AM11:30-PM10,AM11:30-PM10,AM11:30-PM10,AM11:30-PM10,AM11:30-PM10,AM11:30-PM10,4.6,13,,127.0708259,37.5460009,모서리에커피집.jpg
-Comeno,카페,,PM1-PM11,Closed,PM1-PM11,PM1-PM11,PM1-PM11,PM12-AM12,PM12-AM12,4.3,11,,127.0668841,37.5455626,Comeno.jpg
-까페에이치투,커피숍/커피 전문점,,,,,,,,,1.5,2,,127.0745234,37.5551566,까페에이치투.jpg
-영화커피호프,커피숍/커피 전문점,,,,,,,,,5,2,,127.06948,37.5583645,영화커피호프.jpg
-Bar Twelve @Cheongdam,바 & 그릴,,PM7:30-AM3,PM7:30-AM3,PM7:30-AM3,PM7:30-AM3,PM8-AM4,PM8-AM4,PM7:30-AM3,4.5,34,,127.0097459,37.5511748,Bar Twelve @Cheongdam.jpg
-몰트바 오프 삼성동 (Malt Bar OFF),술집,,PM7-AM2,PM7-AM2,PM7-AM2,PM7-AM2,PM7-AM2,PM7-AM2,Closed,4.7,23,,127.0097459,37.5511748,몰트바 오프 삼성동 (Malt Bar OFF).jpg
-뱅가,와인 바,,PM6-AM2,PM6-AM2,PM6-AM2,PM6-AM2,PM6-AM2,PM6-AM2,Closed,4.4,47,,127.0097459,37.5511748,뱅가.jpg
-스쿠로,와인 바,,PM6-AM12,PM6-AM2,PM6:00-AM2:00,PM6:00-AM2:00,PM6:00-AM2:00,PM6:00-AM2:00,PM6:00-AM12:00,4.5,42,,127.0097459,37.5511748,스쿠로.jpg
-최고노래방,노래방,,,,,,,,,,,,127.0640981,37.5464572,최고노래방.jpg
-락휴노래연습장,노래방,,,,,,,,,4,2,,127.0668893,37.5419839,락휴노래연습장.jpg
-SBS노래방,노래방,,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,3,2,,127.0549302,37.5505426,SBS노래방.jpg
-로또노래방,노래방,,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,3,1,,127.0652925,37.5443194,로또노래방.jpg
-알쏭노래방,노래방,,PM1-AM6,PM1-AM6,PM1-AM6,PM1-AM6,PM1-AM6,PM1-AM6,PM1-AM6,5,1,,127.0633786,37.541621,알쏭노래방.jpg
-불티나노래방,노래방,,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,,,,127.0468055,37.5434902,불티나노래방.jpg
-DC노래방,노래방,,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,,,,127.0662243,37.5421885,DC노래방.jpg
-칸노래방,노래방,,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,,,,127.0636446,37.5415222,칸노래방.jpg
-팡팡노래방,노래방,,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,,,,127.0658338,37.5412618,팡팡노래방.jpg
-포그니노래방,노래방,,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,,,,127.0549302,37.5505426,포그니노래방.jpg
-사이버노래방,노래방,,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,,,,127.0621953,37.5418172,사이버노래방.jpg
-웰빙노래방,노래방,,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,,,,127.0642229,37.5416506,웰빙노래방.jpg
-대한민국노래방,노래방,,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,,,,127.0650006,37.5409007,대한민국노래방.jpg
-쟁반노래방,노래방,,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,,,,127.0606076,37.5395204,쟁반노래방.jpg
-뉴월드노래방,노래방,,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,,,,127.0611954,37.5421227,뉴월드노래방.jpg
-쟁반노래방,노래방,,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,,,,127.065841,37.5413467,쟁반노래방.jpg
-삼바노래방,노래방,,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,,,,127.0549302,37.5505426,삼바노래방.jpg
-쌍둥이노래방,노래방,,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,,,,127.0639174,37.541595,쌍둥이노래방.jpg
-NEW쟁반노래방,노래방,,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,3.7,3,,127.0631845,37.5620182,NEW쟁반노래방.jpg
-악어떼노래방,노래방,,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,,,,127.0654632,37.540911,악어떼노래방.jpg
-초밥짓는원숭이,일본 음식점,,AM11:30-PM3:30,AM11:30-PM3:30,AM11:30-PM3:30,AM11:30-PM3:30,AM11:30-PM3:30,AM11:30-PM3:30,AM11:30-PM3:30,3.2,21,,127.0695066,37.5431033,초밥짓는원숭이.jpg
-와하카,음식점,,,,,,,,,4.2,73,,127.0368305,37.5478922,와하카.jpg
-카페오롯,카페,,AM10-PM11,AM10-PM11,AM10-PM11,AM10-PM11,AM10-PM11,AM10-PM11,AM10-PM11,4.2,34,,127.0484837,37.54845,카페오롯.jpg
-카페우유니,카페,,AM10-PM11,AM10-PM11,AM10-PM11,AM10-PM11,AM10-PM11,AM10-PM11,Closed,4.5,26,,127.0299956,37.5610174,카페우유니.jpg
-오르에르(OrEr),카페,,AM11-PM11,AM11-PM11,AM11-PM11,AM11-PM11,AM11-PM11,AM11-PM11,AM11-PM11,4,124,,127.0337885,37.543431,오르에르(OrEr).jpg
-카페나루,카페,,AM8-PM8,AM8:00-PM8:00,AM8:00-PM8:00,AM8:00-PM8:00,AM8:00-PM8:00,AM8:00-PM6:00,Closed,4.1,15,,127.072134,37.5505389,카페나루.jpg
-타로카페드뷔시산장,카페,,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,4.4,18,,127.0229545,37.558454,타로카페드뷔시산장.jpg
-카페보니또 성수점,카페,,AM8-PM12,AM8-PM12,AM8-PM12,AM8-PM12,AM8-PM12,AM8-PM12,AM8-PM12,4,12,,127.0384367,37.5413172,카페보니또 성수점.jpg
-카페시벳,카페,,,,,,,,,4.5,18,,127.0220009,37.5616654,카페시벳.jpg
-에잇디 카페,카페,,,,,,,,,4.5,4,,127.0188619,37.5244898,에잇디 카페.jpg
-담쟁이북카페,카페,,,,,,,,,4.8,5,,127.072134,37.5505389,담쟁이북카페.jpg
-MILD,카페,,AM12-PM8:30,AM12-PM8:30,AM12-PM8:30,AM12-PM8:30,AM12-PM8:30,AM11-PM9:30,AM11-PM9:30,4.4,19,,127.0459459,37.5354365,MILD.jpg
-카페 마리,커피숍/커피 전문점,,AM7-PM9,AM7-PM9,AM7-PM9,AM7-PM9,AM7-PM9,AM12-PM9,AM7-PM9,4.4,5,,127.0131429,37.5250603,카페 마리.jpg
-카페 레지던스,카페,,AM12-PM9,AM12-PM9,AM12-PM9,AM12-PM9,AM12-PM9,AM12-PM9,AM12-PM9,3.5,2,,127.072134,37.5505389,카페 레지던스.jpg
-원풀키즈카페,카페,,AM10-PM10,AM10-PM10,AM10-PM10,AM10-PM10,AM10-PM10,AM10-PM10,AM10-PM10,3.3,8,,127.072134,37.5505389,원풀키즈카페.jpg
-카페 피아트,카페,,AM9-PM11,AM9-PM11,AM9-PM11,AM9-PM11,AM9-PM11,AM9-PM11,AM9-PM11,3.9,18,,127.072134,37.5505389,카페 피아트.jpg
-Camel Café,카페,,AM11:30-PM10,AM11:30-PM10,AM11:30-PM10,AM11:30-PM10,AM11:30-PM10,AM11:30-PM10,AM11:30-PM10,3.9,55,,127.0383868,37.5371956,Camel Café.jpg
-카페드유라,커피용품 판매점,,AM9-PM6,AM9-PM6,AM9-PM6,AM9-PM6,AM9-PM6,AM9-PM4,Closed,5,1,,127.0285199,37.5273389,카페드유라.jpg
-소코 바 BAR SOKO,칵테일바,,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Closed,4.4,26,,127.0051026,37.534872,소코 바 BAR SOKO.jpg
-더블유바,와인 바,,,,,,,,,4.3,4,,127.019475,37.5504806,더블유바.jpg
-불러노래방,노래방,,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,5,1,,127.0873258,37.5560008,불러노래방.jpg
-엘리스노래방,노래방,,,,,,,,,2,1,,127.072134,37.5505389,엘리스노래방.jpg
-NBA노래방,노래방,,,,,,,,,2.3,3,,127.072134,37.5505389,NBA노래방.jpg
-성수문화복지회관,사회 복지 센터,,,,,,,,,4.4,13,,127.0425457,37.5454251,성수문화복지회관.jpg
-한국문화센터,문화센터,,,,,,,,,,,,127.0630416,37.5388782,한국문화센터.jpg
-메가박스 군자,영화관,,,,,,,,,4,1,,127.0739777,37.5557163,메가박스 군자.jpg
-가람성,중국 음식점,,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,3.8,21,,127.0752829,37.5452336,가람성.jpg
-빕스 어린이대공원점,패밀리 레스토랑,,AM11:30-PM10:00,AM11:30-PM10:00,AM11:30-PM10:00,AM11:30-PM10:00,AM11:30-PM10:00,AM11:30-PM10:00,AM11:30-PM10:00,3.7,382,,127.0751642,37.5516355,빕스 어린이대공원점.jpg
-하남돼지집 세종대점,한식 고기구이 레스토랑,,AM12:00-PM12:00,AM12:00-PM12:00,AM12:00-PM12:00,AM12:00-PM12:00,AM12:00-PM12:00,AM12:00-PM12:00,AM12:00-PM12:00,4.2,38,,127.0714333,37.5469414,하남돼지집 세종대점.jpg
-카페 어드벤처 스튜디오,카페,,,,,,,,,3,2,,127.0681101,37.5505436,카페 어드벤처 스튜디오.jpg
-언커먼그라운드,커피숍/커피 전문점,,AM8:00-PM10:00,AM8:00-PM10:00,AM8:00-PM10:00,AM8:00-PM10:00,AM8:00-PM10:00,PM12:00-7:00,PM12:00-7:00,3.9,35,,127.0552083,37.543451,언커먼그라운드.jpg
-kingdombar Sm Bar,칵테일바,,PM8:00-AM2:00,PM8:00-AM2:00,PM8:00-AM2:00,PM8:00-AM2:00,PM8:00-AM2:00,PM8:00-AM2:00,PM8:00-AM2:00,4.3,3,,127.0796402,37.5375863,kingdombar Sm Bar.jpg
-Bar Lupin,바 & 그릴,,,,,,,,,4,22,,127.036382,37.5263762,Bar Lupin.jpg
-바푸리 성수역점,음식점,,AM7:30-PM9:30,AM7:30-PM9:30,AM7:30-PM9:30,AM7:30-PM9:30,AM7:30-PM9:30,AM7:30-PM9:30,Closed,4.2,6,,127.0530532,37.5459424,바푸리 성수역점.jpg
-레솔베르시가바,시가 전문점,,Open 24 hours,Open 24 hours,PM12:00-AM3:00,Open 24 hours,Open 24 hours,Open 24 hours,PM12:00-AM12:00,4.6,40,,127.0366052,37.5246742,레솔베르시가바.jpg
-몽크투바흐,재즈바,,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,4.5,35,,127.0228984,37.5211724,몽크투바흐.jpg
-부킹노래방,노래방,,,,,,,,,,,,127.0661451,37.5391509,부킹노래방.jpg
-국립현대미술관 서울관,미술관,,AM10-PM6,AM10-PM6,AM10-PM6,AM10-PM6,AM10:00-PM9:00,AM10:00-PM9:00,AM10-PM6,4.4,"1,375",,126.9628596,37.5794091,국립현대미술관 서울관.jpg
-대림미술관,미술관,,Closed,AM10-PM6,AM10-PM6,AM10:00-PM8:00,AM10-PM6,AM10:00-PM8:00,AM10-PM6,4.2,876,,126.9558315,37.577459,대림미술관.jpg
-삼성리움미술관,미술관,,Closed,AM10:30-PM6:00,AM10:30-PM6:00,AM10:30-PM6:00,AM10:30-PM6:00,AM10:30-PM6:00,AM10:30-PM6:00,4.4,862,,126.9810695,37.538122,삼성리움미술관.jpg
-D Museum,미술관,,Closed,AM10-PM6,AM10-PM6,AM10-PM6,AM10:00-PM8:00,AM10:00-PM8:00,AM10-PM6,4.1,"1,086",,126.9939275,37.5371914,D Museum.jpg
-소마미술관,미술관,,Closed,AM10-PM6,AM10-PM6,AM10-PM6,AM10-PM6,AM10-PM6,AM10-PM6,4,285,,127.1007442,37.5166362,소마미술관.jpg
-국립현대미술관 덕수궁관,현대미술관,,Closed,AM10:00-PM7:00,AM10:00-PM9:00,AM10:00-PM7:00,AM10:00-PM7:00,AM10:00-PM9:00,AM10:00-PM7:00,4.4,259,,126.9561827,37.5658959,국립현대미술관 덕수궁관.jpg
-서울시립미술관 서소문본관,미술관,,Closed,AM10:00-PM7:00,AM10:00-PM7:00,AM10:00-PM7:00,AM10:00-PM7:00,AM10-PM6,AM10-PM6,4.3,832,,126.9562698,37.5640253,서울시립미술관 서소문본관.jpg
-아르코미술관,미술관,,Closed,AM11:00-PM6:00,AM11:00-PM6:00,AM11:00-PM6:00,AM11:00-PM6:00,AM11:00-PM6:00,AM11:00-PM6:00,4.4,44,,126.9856794,37.5804502,아르코미술관.jpg
-서울시립미술관 경희궁미술관,미술관,,AM10:00-PM8:00,AM10:00-PM8:00,AM10:00-PM8:00,AM10:00-PM8:00,AM10:00-PM8:00,AM10:00-PM8:00,AM10:00-PM8:00,3,4,,126.9512047,37.5700964,서울시립미술관 경희궁미술관.jpg
-포스코미술관,미술관,,,,,,,,,3.9,61,,127.0386377,37.5058037,포스코미술관.jpg
-K현대미술관,미술관,,Closed,AM10:00-PM8:00,AM10:00-PM8:00,AM10:00-PM8:00,AM10:00-PM8:00,AM10:00-PM8:00,AM10:00-PM6:30,3.9,151,,127.0215448,37.5242737,K현대미술관.jpg
-간송미술관,미술관,,AM10-PM6,AM10-PM6,AM10-PM6,AM10-PM6,AM10-PM6,AM10-PM6,AM10-PM6,4,25,,126.9793463,37.5936152,간송미술관.jpg
-서울미술관,미술관,,Closed,AM10-PM6,AM10-PM6,AM10-PM6,AM10-PM6,AM10-PM6,AM10-PM6,4.1,798,,126.9457404,37.5948345,서울미술관.jpg
-국립현대미술관,미술관,,Closed,AM10-PM6,AM10-PM6,AM10-PM6,AM10-PM6,AM10:00-PM9:00,AM10-PM6,4.3,762,,127.0020942,37.4303743,국립현대미술관.jpg
-일민미술관,미술관,,Closed,AM11:00-PM7:00,AM11:00-PM7:00,AM11:00-PM7:00,AM11:00-PM7:00,AM11:00-PM7:00,AM11:00-PM7:00,3.9,95,,126.9601545,37.569784,일민미술관.jpg
-국립현대미술관 창동레지던시,미술관,,AM10-PM6,AM10-PM6,AM10-PM6,AM10-PM6,AM10-PM6,AM10-PM6,AM10-PM6,4,9,,127.0218964,37.6406935,국립현대미술관 창동레지던시.jpg
-한미사진미술관,미술관,,AM10-PM7,AM10-PM7,AM10-PM7,AM10-PM7,AM10-PM7,AM10-PM7,Closed,4.2,22,,127.0964485,37.516571,한미사진미술관.jpg
-성곡미술관,미술관,,Closed,AM10-PM6,AM10-PM6,AM10-PM6,AM10-PM6,AM10-PM6,AM10-PM6,4.1,79,,126.9522548,37.5731157,성곡미술관.jpg
-성북구립미술관,미술관,,,,,,,,,,,,127.0324413,37.603604,성북구립미술관.jpg
-예술의전당 한가람미술관,미술관,,AM11:00-PM8:00,AM11:00-PM8:00,AM11:00-PM8:00,AM11:00-PM8:00,AM11:00-PM8:00,AM11:00-PM8:00,AM11:00-PM8:00,4.3,"1,422",,126.9967367,37.4803793,예술의전당 한가람미술관.jpg
-에어텔24 여행사,여행사,,AM12:00-PM11:30,AM12:00-PM11:30,AM12:00-PM11:30,AM12:00-PM11:30,AM12:00-PM11:30,AM12:00-PM11:30,AM12:00-PM11:30,5,1,,126.992038,37.5036322,에어텔24 여행사.jpg
-유강원(순명효황후의 릉)문화유적,역사적 명소,,,,,,,,,2,1,,127.0643031,37.549363,유강원(순명효황후의 릉)문화유적.jpg
-살곶이다리,역사적 명소,,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,4,118,,127.0214313,37.5360063,살곶이다리.jpg
-아차산성,역사적 명소,,,,,,,,,4.2,86,,127.0854302,37.5544541,아차산성.jpg
-광화문,역사적 명소,,AM8:00-PM5:00,AM8:00-PM5:00,AM8:00-PM5:00,AM8:00-PM5:00,AM8:00-PM5:00,AM8:00-PM5:00,AM8:00-PM5:00,4.5,"4,150",,126.9593062,37.5759369,광화문.jpg
-풍납토성,역사적 명소,,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,3.8,30,,127.1034372,37.5390793,풍납토성.jpg
-장충단비,역사적 명소,,,,,,,,,,,,126.9866244,37.5575642,장충단비.jpg
-숭례문,역사적 명소,,Closed,AM9:00-PM6:00,AM9:00-PM6:00,AM9:00-PM6:00,AM9:00-PM6:00,AM9:00-PM6:00,AM9:00-PM6:00,4.3,"2,661",,126.9577925,37.5599526,숭례문.jpg
-남한산성 북문,역사적 명소,,,,,,,,,4.1,276,,127.1672906,37.481568,남한산성 북문.jpg
-광평대군묘,역사적 명소,,,,,,,,,3.4,9,,127.0746175,37.486769,광평대군묘.jpg
-아차산4보루,역사적 명소,,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,3,3,,127.0867368,37.5711395,아차산4보루.jpg
-서울문묘,역사적 명소,,,,,,,,,4.8,4,,126.9785776,37.5858494,서울문묘.jpg
-동대문,역사적 명소,,,,,,,,,4.1,"1,080",,126.9920357,37.5711389,동대문.jpg
-우정총국,역사적 명소,,AM9:00-PM5:00,AM9:00-PM5:00,AM9:00-PM5:00,AM9:00-PM5:00,AM9:00-PM5:00,AM9:00-PM5:00,AM9:00-PM5:00,4,8,,126.9651532,37.5743555,우정총국.jpg
-압구정터,역사적 명소,,,,,,,,,,,,127.0214313,37.5360063,압구정터.jpg
-청풍김씨 대종회,역사적 명소,,,,,,,,,,,,127.0139346,37.5748283,청풍김씨 대종회.jpg
-동구릉 재실,역사적 명소,,,,,,,,,4.4,15,,127.11688,37.6186227,동구릉 재실.jpg
-광통교,역사적 명소,,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,4.6,13,,126.963655,37.5691135,광통교.jpg
-월계동각심재,역사적 명소,,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,3,3,,127.0332285,37.633944,월계동각심재.jpg
-목릉,역사적 명소,,,,,,,,,4,10,,127.1156626,37.6256571,목릉.jpg
-서울어린이대공원놀이동산,테마파크,,AM10-PM7,AM10-PM7,AM10-PM7,AM10-PM7,AM10-PM7,AM10-PM9,AM10-PM7,4.3,950,,127.0488321,37.5506984,서울어린이대공원놀이동산.jpg
-서울랜드,놀이공원,,AM9:30-PM10:00,AM9:30-PM10:00,AM9:30-PM10:00,AM9:30-PM10:00,AM9:30-PM10:00,AM9:30-PM10:00,AM9:30-PM10:00,4.2,"3,186",,126.9851078,37.4341563,서울랜드.jpg
-어린이대공원,테마파크,,AM5:00-PM10:00,AM5:00-PM10:00,AM5:00-PM10:00,AM5:00-PM10:00,AM5:00-PM10:00,AM5:00-PM10:00,AM5:00-PM10:00,4.4,"3,034",,127.0458185,37.5482248,어린이대공원.jpg
-삼성에버랜드(주),놀이공원,,,,,,,,,4.4,7,,126.9947057,37.4923535,삼성에버랜드(주).jpg
-롯데월드 매직아일랜드,놀이공원,,AM9:30-PM10:00,AM9:30-PM10:00,AM9:30-PM10:00,AM9:30-PM10:00,AM9:30-PM10:00,AM9:30-PM10:00,AM9:30-PM10:00,4.3,"2,709",,127.064939,37.5088728,롯데월드 매직아일랜드.jpg
-두리랜드,놀이공원,,Closed,AM10:00-PM5:00,AM10:00-PM5:00,AM10:00-PM5:00,AM10:00-PM5:00,AM10:00-PM7:00,AM10:00-PM7:00,3.9,71,,126.91541,37.7246681,두리랜드.jpg
-문래공원관리사무소,놀이공원,,AM9:00-PM6:00,AM9:00-PM6:00,AM9:00-PM6:00,AM9:00-PM6:00,AM9:00-PM6:00,Closed,Closed,,,,126.8602701,37.5176033,문래공원관리사무소.jpg
-국립공원관리공단빨래골,놀이공원,,,,,,,,,3,2,,126.9675451,37.6792182,국립공원관리공단빨래골.jpg
-Running Man Ep 1,놀이공원,,,,,,,,,5,2,,126.9550913,37.5782,Running Man Ep 1.jpg
-월미테마파크,놀이공원, 중구 월미도에 위치한 놀이공원으로 1992년에 설립된 마이랜드에 이어서 2009년 11월 즈음에 개장한 놀이공원이다. 규모가 놀이공원에 비해 작고 주변에 울타리가 없어 기존의 건물들과 경계가 없는 편이지만 사람들이 많이 찾는 장소이다. 20가지가 넘는 놀이기구 시설들이 있다.,AM10:00-PM10:00,AM10:00-PM10:00,AM10:00-PM10:00,AM10:00-PM10:00,AM10:00-PM10:00,AM10:00-PM10:30,AM10:00-PM10:30,3.8,"1,113",,126.5612681,37.471318,월미테마파크.jpg
-원더존,놀이공원,"부천시 원미구 춘의동에 위치한 원더존은 보다 이색적이고 신레포츠형 놀이동산으로 가족 나들이나, 단체 활동을 수용할 수 있는 넓은 잔디운동장과 안락한 휴식처들이 준비되어 있다. 20종이 넘는 놀이기구가 설치되어 있고, 3개의 박물관이 전시하고 있어 아이들과 시간을 보내기 좋은 장소이다.",,,,,,,,3,6,,126.7673075,37.5038035,원더존.jpg
-남한산성유원지관리사무실,놀이공원,"성남시 중원구 은행2동에 위치해 있는 남한산성 인근에 위치한 시민공원이다. 계곡과 분수, 작은 연못으로 되어 있는 생태학습장이 있어, 아이들과 동행하기 용이하다. 공원로를 따라 산책을 할 수도 있으며, 양궁장과 같은 시설들로 여러 체험이 가능하다.",,,,,,,,4.3,16,,127.1442749,37.4729638,남한산성유원지관리사무실.jpg
-테지움 서울,테마파크,"종로구 창신 1동에 위치한 테지움 서울은 테디베어 테마파크로 테디베어를 직접 만지고 안아보는 오픈형 이색체험전시 공간이다. 이곳에서 테디베어의 어원과 유래, 역사를 알 수 있다. 서울 테마 존에서는 옛 시절 서울부터 현재 서울까지를 테디베어로 소개하고 있다.",AM8:30-PM6:00,AM8:30-PM6:00,AM8:30-PM6:00,AM8:30-PM6:00,AM8:30-PM6:00,AM8:30-PM6:00,AM8:30-PM6:00,4.1,214,,126.9550913,37.5782,테지움 서울.jpg
-롯데월드 언더씨킹덤,놀이공원,은평구 진관동에 위치한 은평 롯데몰 3~4층에 오픈한 실내 키즈파크다. 바닷속 왕국을 테마로 하고 있으며 어린이 위주 어트랙션이 주를 이룬다.,AM10:00-PM9:00,AM10:00-PM9:00,AM10:00-PM9:00,AM10:00-PM9:00,AM10:00-PM9:00,AM10:00-PM9:00,AM10:00-PM9:00,3.8,103,,126.8830636,37.6376234,롯데월드 언더씨킹덤.jpg
-풍무동 중앙공원 공룡놀이터,놀이공원,"김포시 풍무동에 위치한 중앙공원 내부의 공룡 놀이터로, 어린이들의 취향에 맞도록 공룡 형상을 띄는 놀이기구들이 있으며, 공룡 조형물도 있다.",Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,1,1,,126.6909869,37.6036421,풍무동 중앙공원 공룡놀이터.jpg
-하니랜드,놀이공원,파주시 조리읍에 위치한 캠핑장으로 야외 어린이용 놀이공원과 식당가가 있어 아동과 시간을 보낼 수 있는 시설물들이 있다.,AM10:00-PM5:30,AM10:00-PM5:30,AM10:00-PM5:30,AM10:00-PM5:30,AM10:00-PM5:30,AM10:00-PM5:30,AM10:00-PM5:30,3.7,153,,126.7981818,37.749982,하니랜드.jpg
-물동네,놀이공원,남양주시 수동면에 위치한 캠핑장으로 야외수영장과 계곡변의 캠핑시설과 실내 숙박시설이 있어 숙식이 가능하다.,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,2.3,4,,127.2777366,37.719324,물동네.jpg
-롯데월드,테마파크,"송파구 잠실동에 위치한 놀이공원으로 석촌호수 위에 있는 야외 매직아일렌드와 실내의 롯데월드 어드벤처로 이루어져 있다. 실내는 언더랜드인 지하 1층부터 지상 4층까지 시설물들이 자리잡고 있으며, 총 23가지의 놀이시설들이 자리해 있다. 야외의 매직아일렌드에는 17가지의 놀이기구가 있다. 잠실역으로도 입장이 가능하여 접근성이 뛰어나다는 장점이 있다.",AM9:30-PM10:00,AM9:30-PM10:00,AM9:30-PM10:00,AM9:30-PM10:00,AM9:30-PM11:00,AM9:30-PM11:00,Closed,4.2,"13,355",,127.0631481,37.5111158,롯데월드.jpg
-에버랜드,놀이공원,"용인시 포곡읍에 위치한 테마파크로 대한민국의 테마파크중 가장 크다. 넓은 부지를 바탕으로 글로벌 페어, 아메리칸 어드벤처, 매직랜드, 유러피언 어드벤처, 주토피아의 5개의 구역으로 구성되어 있으며 여러 놀이기구와 동물원, 식당과 상점들이 있다. 이색적인 공연과 퍼레이드, 전시시설들이 많으며, 시즌별로 바뀌기 때문에 여러 종류별로 운영되고 있다. 자체적으로 리조트를 운영함으로 숙박 및 모든 여가생활이 가능하다.",AM10:00-PM9:00,AM10:00-PM9:00,AM10:00-PM9:00,AM10:00-PM9:00,AM10:00-PM10:00,AM10:00-PM10:00,AM10:00-PM9:00,4.4,"16,677",,127.1675475,37.2939104,에버랜드.jpg
-일신놀이공원,놀이공원,"부평구 일신동에 위치한 공원으로 시민들을 위한 산책로와 휴계시설등이 있다.
-",Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,5,1,,126.7073008,37.482593,일신놀이공원.jpg
-성삼공원,공원,성동구 성수1동에 위치한 공원으로 건물 사이에 있는 작은 공원이다.,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,3.9,7,,127.0590901,37.5420115,성삼공원.jpg
-서남환경공원,공원,강서구 방화동에 위치한 수목공원으로 시민들을 위하여 잡풀로 우거진 초지나 다름없던 곳을 새롭게 만든 공원이다. 평탄한 언덕길에 나무들을 많이 심어 산책하기에 좋고 산책로 끄트머리에 메타세쿼이아 나무가 숲을 이뤄 이곳의 메타세쿼이야 길이 인상적이다. 습지로를 따라 산책을 즐길수도 있으며 풋살장등의 편의시설도 있다.,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,,,,127.0802988,37.5519278,환경공원.jpg
-맨발공원,공원,"광진구 능동에 위치한 어린이대공원 내의 맨발공원으로 음악분수 광장 세갈래길 중 정면으로가면 도착할 수 있다. 넓은 풀밭과 흙길, 지압을 할 수 있는 타일들이 이색적이다.",Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,,,,127.0810532,37.5508016,맨발공원.jpg
-뚝섬유수지체육공원,공원,서울숲 공원 북쪽 끝에 자리잡고 있는 시민공원으로 성동구에서 시민들의 스포츠 활동 공간 확충과 체육활성화 토대를 마련하기 위해 뚝섬유원지에 체육공원을 만들었다. 서울숲과 붙어있기 때문에 한강변과 가깝다는 장점이 있다.,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,3.8,24,,127.0405181,37.5496009,뚝섬체육공원.jpg
-미나리공원,공원,동대문구 장안동에 위치한 공원으로 장한평역 4번출구에서 도보 15분 내외로 갈 수 있다.,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,3.6,5,,127.068102,37.563681,미나리공원.jpg
-상원어린이공원,공원,성동구 성수동 1가에 위치한 공원으로 어린이를 위한 놀이 시설물 등이 있다.,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,4,2,,127.046119,37.5475661,상원어린이공원.jpg
-열린무대,공원,광진구 능동에 위치한 어린이대공원 내의 야외 시설물로 정문 음악분수 광장에 자리한다. 부채꼴 모양의 야외 무대이며 여러 공연등이 상영되기도 한다.,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,,,,127.0768934,37.5488553,열린무대.jpg
-마장상상어린이공원,공원,도봉구에 위치한 공원으로 지역 주민과 어린이들의 의견을 반영해 낡은 놀이터를 상상력과 창의력의 공원으로 리모델링하였다.,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,Open 24 hours,2.7,3,,127.0402858,37.5621198,마장상상어린이공원.jpg
+또한 취업 교육 및 유망 스타트업 구인 구직 매칭 등을 통해 취업을 희망하는 청년을 응원합니다.",,,,,,,,4,53,,127.0270002,37.5434438,"언더스탠드에비뉴.jpg"
+"성동구건강가정지원센터","건강 센터",,,,,,,,,4.3,4,,127.0136123,37.5654117,"성동구건강가정지원센터.jpg"
+"광진문화재단 나루아트센터","재단",,"8AM–9PM","8AM–9PM","8AM–9PM","8AM–9PM","8AM–9PM","8AM–9PM","8AM–9PM",3.9,110,,127.072134,37.5505389,"광진문화재단 나루아트센터.jpg"
+"청담동문화센터","문화센터",,,,,,,,,,,,127.0317876,37.5250412,"청담동문화센터.jpg"
+"알렌센터","문화센터",,"8:30AM–9PM","8:30AM–9PM","8:30AM–9PM","8:30AM–9PM","8:30AM–9PM","8:30AM–9PM","Closed",,,,127.0304705,37.525177,"알렌센터.jpg"
+"성동문화회관","문화센터",,,,,,,,,,,,127.0193874,37.5716772,"성동문화회관.jpg"
+"에이트 인스티튜트","교육 컨설턴트",,"AM9–PM7","AM9–PM7","AM9–PM7","AM9–PM7","AM9–PM7","Closed","Closed",,,,127.0294445,37.5261291,"에이트 인스티튜트.jpg"
+"삼성2동문화센터","문화센터",,,,,,,,,4.1,17,,127.0284827,37.5111817,"삼성2동문화센터.jpg"
+"CGV 강변","영화관",,"9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM",4,986,,127.072134,37.5505389,"CGV 강변.jpg"
+"CGV 왕십리","영화관",,"9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM",4.2,"1,262",,127.020582,37.5620999,"CGV 왕십리.jpg"
+"롯데시네마 건대입구","영화관",,"9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM",4.1,703,,127.072134,37.5505389,"롯데시네마 건대입구.jpg"
+"롯데시네마 장안","영화관",,"9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM",3.8,132,,127.072134,37.5505389,"롯데시네마 장안.jpg"
+"CGV 압구정 본관","영화관",,"9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM",3.8,463,,127.0113564,37.5244988,"CGV 압구정 본관.jpg"
+"KU씨네마테크","영화관",,"9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM",4.3,85,,127.072134,37.5505389,"KU씨네마테크.jpg"
+"잠실자동차극장","자동차극장",,,,,,,,,3.5,46,,127.05122,37.5172454,"잠실자동차극장.jpg"
+"CGV 청담 씨네시티","영화관",,"9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM",4.2,676,,127.0195115,37.5228508,"CGV 청담 씨네시티.jpg"
+"무지개극장","예술",,,,,,,,,,,,127.072134,37.5505389,"무지개극장.jpg"
+"혜화동돈가스극장","극장",,,,,,,,,,,,127.072134,37.5505389,"혜화동돈가스극장.jpg"
+"롯데시네마 청량리","영화관",,"9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM",4.1,843,,127.0304806,37.5805621,"롯데시네마 청량리.jpg"
+"대한극장","영화관",,"9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM",4,967,,126.9778196,37.5610636,"대한극장.jpg"
+"군자동극장","극장",,,,,,,,,,,,127.072134,37.5505389,"군자동극장.jpg"
+"서울극장","영화관",,,,,,,,,4.3,92,,126.974182,37.5697471,"서울극장.jpg"
+"롯데시네마 황학","영화관",,"9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM",3.8,12,,127.0041318,37.5712514,"롯데시네마 황학.jpg"
+"롯데시네마 강동점","영화관",,"9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM",3.8,590,,127.1080164,37.5366748,"롯데시네마 강동점.jpg"
+"대한극장 청담","한식 고기구이 레스토랑",,,,,,,,,4.6,7,,127.0340902,37.525324,"대한극장 청담.jpg"
+"화양극장","음식점",,"AM11:30–AM2","AM11:30–AM2","AM11:30–AM2","AM11:30–AM2","AM11:30–AM2","AM11:30–AM2","AM11:30–AM2",3.9,17,,127.0300478,37.5248923,"화양극장.jpg"
+"청춘극장","극장",,,,,,,,,,,,127.072134,37.5505389,"청춘극장.jpg"
+"CGV 건대입구","영화관",,"9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM",3.7,20,,127.0494215,37.5397613,"CGV 건대입구.jpg"
+"롯데시네마 월드타워","영화관",,"9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM",4.4,"1,993",,127.0875412,37.5140711,"롯데시네마 월드타워.jpg"
+"CGV 압구정 신관","영화관",,"9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM",3.5,4,,127.0118728,37.5242861,"CGV 압구정 신관.jpg"
+"메가박스 코엑스","영화관",,"9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM",4.4,"1,805",,127.041281,37.5124447,"메가박스 코엑스.jpg"
+"메가박스 상봉","영화관",,"9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM",3.8,692,,127.0571721,37.5931722,"메가박스 상봉.jpg"
+"롯데시네마 브로드웨이(신사)","영화관",,"9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM",3.4,332,,127.004235,37.5165695,"롯데시네마 브로드웨이(신사).jpg"
+"메가박스 동대문","영화관",,"9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM",4.2,904,,126.9900682,37.5668686,"메가박스 동대문.jpg"
+"CGV 상봉","영화관",,"9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM",4,798,,127.0748089,37.5975887,"CGV 상봉.jpg"
+"메가박스 EOE4","영화관",,"9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM",3.9,12,,126.9849303,37.5512593,"메가박스 EOE4.jpg"
+"돈호야군자점","일본 음식점",,,,,,,,,3.6,5,,127.072134,37.5505389,"돈호야군자점.jpg"
+"한솥세종대점","음식점",,,,,,,,,3,1,,127.072134,37.5505389,"한솥세종대점.jpg"
+"조씨네 고기국수","음식점",,"AM11:30–PM 3","AM11:30–PM 3","AM11:30–PM 3","AM11:30–PM 3","AM11:30–PM 3","AM11:30–PM 3","AM11:30–PM 3",4.1,101,,127.072134,37.5505389,"조씨네 고기국수.jpg"
+"하이난","중국 음식점",,"AM10–PM9","AM10–PM9","AM10–PM9","AM10–PM9","AM10–PM9","AM10–PM9","AM10–PM9",3.8,173,,127.072134,37.5505389,"하이난.jpg"
+"Tokyo420","일본 음식점",,"AM11:30–PM9","AM11:30–PM9","AM11:30–PM9","AM11:30–PM9","AM11:30–PM9","AM11:30–PM9","AM11:30–PM9",3.6,83,,127.072134,37.5505389,"Tokyo420.jpg"
+"대명소곱창","음식점",,,,,,,,,4.1,70,,127.072134,37.5505389,"대명소곱창.jpg"
+"소문난 성수 감자탕","음식점",,"Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours",2,2,,127.0368908,37.5428492,"소문난 성수 감자탕.jpg"
+"건국갈비","음식점",,"AM10–PM10","AM10–PM10","AM10–PM10","AM10–PM10","AM10–PM10","AM10–PM10","Closed",3.7,18,,127.072134,37.5505389,"건국갈비.jpg"
+"명문한우가","한국식 소고기 전문 음식점",,,,,,,,,3,5,,127.072134,37.5505389,"명문한우가.jpg"
+"벨피아또","이탈리아 음식점",,"AM11:30–PM3:32","AM11:30–PM3:33","AM11:30–PM3:34","AM11:30–PM3:35","AM11:30–PM3:36","AM11:30–PM3:30","AM11:30–PM3:31",4,133,,127.072134,37.5505389,"벨피아또.jpg"
+"매드포갈릭 건대스타시티점","이탈리아 음식점",,"AM11:30–PM10:02","AM11:30–PM10:03","AM11:30–PM10:04","AM11:30–PM10:05","AM11:30–PM10:06","AM11:30–PM10:00","AM11:30–PM10:01",3.7,76,,127.072134,37.5505389,"매드포갈릭 건대스타시티점.jpg"
+"페스타마레","이탈리아 음식점",,"AM11:30–PM10:02","AM11:30–PM10:03","AM11:30–PM10:04","AM11:30–PM10:05","AM11:30–PM10:06","AM11:30–PM10:00","AM11:30–PM10:01",3.7,32,,127.072134,37.5505389,"페스타마레.jpg"
+"개미집","음식점",,"AM10:00–AM12:02","AM10:00–AM12:03","AM10:00–AM12:04","AM10:00–AM12:05","AM10:00–AM12:06","AM10:00–PM00:00","AM10:00–AM12:01",3.8,84,,127.072134,37.5505389,"개미집.jpg"
+"바베양장","음식점",,"AM11:00–PM11:30","AM11:00–PM11:30","AM11:00–PM11:30","AM11:00–PM11:30","AM11:00–PM11:30","AM11:00–PM11:30","AM11:00–PM11:30",3.7,58,,127.0359435,37.542462,"바베양장.jpg"
+"소세지연구소 부대전골","음식점",,"AM10:00–PM10:00","AM10:00–PM10:00","AM10:00–PM10:00","AM10:00–PM10:00","AM10:00–PM10:00","AM10:00–PM10:00","Closed",4.9,8,,127.0352974,37.5484923,"소세지연구소 부대전골.jpg"
+"빠오즈푸","딤섬 전문 레스토랑",,"AM11:30–PM8:30","AM11:30–PM8:30","Closed","AM11:30–PM8:30","AM11:30–PM8:30","AM11:30–PM8:30","AM11:30–PM8:30",4.1,220,,127.072134,37.5505389,"빠오즈푸.jpg"
+"엉뚱식당 한우전문점","음식점",,,,,,,,,4.9,9,,127.0497051,37.5649299,"엉뚱식당 한우전문점.jpg"
+"샹그라","음식점",,"AM11–PM10","AM11–PM10","AM11–PM10","AM11–PM10","AM11–PM10","AM11–PM10","AM11–PM10",4,1,,127.072134,37.5505389,"샹그라.jpg"
+"매화반점","중국 음식점",,"PM12–AM1","PM12–AM1","PM12–AM1","PM12–AM1","PM12–AM1","PM12–AM1","PM12–AM1",3.7,606,,127.072134,37.5505389,"매화반점.jpg"
+"투썸플레이스 어린이대공원역점","카페",,"AM8–PM11:30","AM8–PM11:30","AM8–PM11:30","AM8–PM11:30","AM8–PM11:30","AM8–PM11:30","AM8–PM11:30",3.9,47,,127.072134,37.5505389,"투썸플레이스 어린이대공원역점.jpg"
+"벨롱에스프레소","카페",,"AM11–PM10:30","AM11–PM10:30","AM11–PM10:30","AM11–PM10:30","AM11–PM10:30","AM11–PM10:30","AM11–PM10:30",4.1,21,,127.072134,37.5505389,"벨롱에스프레소.jpg"
+"롬곡","카페",,,,,,,,,4.4,23,,127.072134,37.5505389,"롬곡.jpg"
+"카페레가토(CAFFE' LEGATO)","카페",,"AM11:30–PM11","Closed","AM11:30–PM11","AM11:30–PM11","AM11:30–PM11","AM11:30–PM11","AM11:30–PM11",,,,127.0500747,37.5463294,"카페레가토(CAFFE' LEGATO).jpg"
+"카페 호이","카페",,,,,,,,,4.3,9,,127.072134,37.5505389,"카페 호이.jpg"
+"(주)바나나토크","카페",,"AM11–PM11","AM11–PM11","AM11–PM11","AM11–PM11","AM11–PM11","AM11–PM11","AM11–PM11",3.5,56,,127.072134,37.5505389,"(주)바나나토크.jpg"
+"카페데코믹스 건대점","카페",,,,,,,,,4.1,25,,127.072134,37.5505389,"카페데코믹스 건대점.jpg"
+"감성다방","카페",,"AM11:30–PM11","Closed","AM11:30–PM11","AM11:30–PM11","AM11:30–PM11","AM11:30–PM11","AM11:30–PM11",4.5,23,,127.072134,37.5505389,"감성다방.jpg"
+"투썸플레이스 아차산역","카페",,"AM8–PM11:30","AM8–PM11:30","AM8–PM11:30","AM8–PM11:30","AM8–PM11:30","AM8–PM11:30","AM8–PM11:30",4.1,56,,127.072134,37.5505389,"투썸플레이스 아차산역.jpg"
+"투썸플레이스군자역점","카페",,,,,,,,,3.6,30,,127.072134,37.5505389,"투썸플레이스군자역점.jpg"
+"투썸플레이스 성수역","카페",,"AM8–PM11","AM8–PM11","AM8–PM11","AM8–PM11","AM8–PM11","AM9–PM10","AM9–PM11",4,6,,127.0365232,37.5449238,"투썸플레이스 성수역.jpg"
+"탐앤탐스군자역점","카페",,"PM7–AM2","PM7–AM2","PM7–AM2","PM7–AM2","PM7–AM2","PM7–AM2","PM7–AM2",3.8,30,,127.072134,37.5505389,"탐앤탐스군자역점.jpg"
+"케이이스케이프","카페",,"AM10–PM11:15","AM10–PM11:15","AM10–PM11:15","AM10–PM11:15","AM10–PM11:15","AM10–PM11:15","AM10–PM11:15",3.8,4,,127.072134,37.5505389,"케이이스케이프.jpg"
+"와플그란데","카페",,"AM8–PM10","AM8–PM10","AM8–PM10","AM8–PM10","AM8–PM10","AM11–PM7","AM11–PM7",4.3,13,,127.072134,37.5505389,"와플그란데.jpg"
+"더착한커피세종대점","카페",,,,,,,,,3.5,2,,127.072134,37.5505389,"더착한커피세종대점.jpg"
+"이디야 성수우리W타워점","카페",,"AM8–PM10","AM8–PM10","AM8–PM10","AM8–PM10","AM8–PM10","AM8–PM10","Closed",3.3,20,,127.0447038,37.5448163,"이디야 성수우리W타워점.jpg"
+"샹그리라","카페",,"PM12–PM10","PM12–PM10","PM12–PM10","PM12–PM10","PM12–PM10","PM12–PM10","PM12–PM10",4.2,25,,127.072134,37.5505389,"샹그리라.jpg"
+"Cafe Mummy","카페",,"PM12–PM10","PM12–PM10","PM12–PM10","PM12–PM10","PM12–PM10","PM12–PM10","PM12–PM10",3,1,,127.072134,37.5505389,"Cafe Mummy.jpg"
+"마우스래빗","카페",,"AM10–PM11:30","AM10–PM11:30","AM10–PM11:30","AM10–PM11:30","AM10–PM11:30","AM10–PM11:30","AM10–PM11:30",4.6,252,,127.072134,37.5505389,"마우스래빗.jpg"
+"어니언","카페",,"AM8–PM10","AM8–PM10","AM8–PM10","AM8–PM10","AM8–PM10","AM8–PM10","AM8–PM10",4.1,165,,127.0407063,37.5446969,"어니언.jpg"
+"이디야","커피숍/커피 전문점",,,,,,,,,3.8,6,,127.072134,37.5505389,"이디야.jpg"
+"그라지에","커피숍/커피 전문점",,,,,,,,,,,,127.072134,37.5505389,"그라지에.jpg"
+"최가커피","커피숍/커피 전문점",,"AM11:30–PM11:50","AM11:30–PM11:50","AM11:30–PM11:50","AM11:30–PM11:50","AM11:30–PM11:50","AM11:30–PM11:50","AM12–PM11",4.5,81,,127.072134,37.5505389,"최가커피.jpg"
+"엔제리너스 건대역점","커피숍/커피 전문점",,"Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours",3.9,175,,127.072134,37.5505389,"엔제리너스 건대역점.jpg"
+"헨델과그레텔","커피숍/커피 전문점",,,,,,,,,4.1,10,,127.072134,37.5505389,"헨델과그레텔.jpg"
+"아리스타","커피숍/커피 전문점",,,,,,,,,3.5,4,,127.0457856,37.5467332,"아리스타.jpg"
+"투썸플레이스 건대입구점","커피숍/커피 전문점",,"AM8:30–AM1","AM8:30–AM1","AM8:30–AM1","AM8:30–AM1","AM8:30–AM1","AM8:30–AM1","AM8:30–AM1",,,,127.072134,37.5505389,"투썸플레이스 건대입구점.jpg"
+"커피빈코리아 건대스타시티점","커피숍/커피 전문점",,,,,,,,,4.2,12,,127.072134,37.5505389,"커피빈코리아 건대스타시티점.jpg"
+"이디야커피","커피숍/커피 전문점",,,,,,,,,3,2,,127.0487379,37.5609017,"이디야커피.jpg"
+"엔젤리너스 건대스타시티점","커피숍/커피 전문점",,"AM8–PM11","AM8–PM11","AM8–PM11","AM8–PM11","AM8–PM11","AM7–PM11","AM7–PM11",3.6,5,,127.072134,37.5505389,"엔젤리너스 건대스타시티점.jpg"
+"커피마켓","커피숍/커피 전문점",,"AM9–AM3","AM9–AM3","AM9–AM3","AM9–AM3","AM9–AM3","AM9–AM3","AM9–AM312",3.7,73,,127.072134,37.5505389,"커피마켓.jpg"
+"스타벅스 장한평역점","커피숍/커피 전문점",,"AM7–PM11","AM7–PM11","AM7–PM11","AM7–PM11","AM7–PM11","AM7–PM11","AM8–PM11",4.1,113,,127.0480034,37.5622228,"스타벅스 장한평역점.jpg"
+"할리스커피 테크노마트점","커피숍/커피 전문점",,"AM9:15–PM10","AM9:15–PM10","AM9:15–PM10","AM9:15–PM10","AM9:15–PM10:30","AM9:15–PM10:30","AM9:15–PM10:30",4.3,3,,127.072134,37.5505389,"할리스커피 테크노마트점.jpg"
+"스타벅스 건대입구점","커피숍/커피 전문점",,"AM7–PM11","AM7–PM11","AM7–PM11","AM7–PM11","AM7–PM11","AM8–PM11","AM8–PM11",3.7,190,,127.072134,37.5505389,"스타벅스 건대입구점.jpg"
+"스타벅스 군자역점","커피숍/커피 전문점",,"AM7–PM11","AM7–PM11","AM7–PM11","AM7–PM11","AM7–PM11","AM7–PM11:30","AM7–PM11:30",3.9,122,,127.072134,37.5505389,"스타벅스 군자역점.jpg"
+"카페베네 장안점","커피숍/커피 전문점",,"AM8–AM12","AM8–AM12","AM8–AM12","AM8–AM12","AM8–AM12","AM8–AM12","AM8–AM12",3.6,40,,127.0432299,37.5623146,"카페베네 장안점.jpg"
+"엔제리너스 건대병원","커피숍/커피 전문점",,"Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours",3.3,74,,127.072134,37.5505389,"엔제리너스 건대병원.jpg"
+"모카하마","커피숍/커피 전문점",,"AM9–PM9","AM9–PM9","AM9–PM9","AM9–PM9","AM9–PM9","Closed","Closed",3.9,7,,127.072134,37.5505389,"모카하마.jpg"
+"벨라빈스커피","커피숍/커피 전문점",,,,,,,,,3.3,4,,127.0467855,37.5478164,"벨라빈스커피.jpg"
+"투썸플레이스 장안점","커피숍/커피 전문점",,"AM11–PM12","AM11–PM12","AM11–PM12","AM11–PM12","AM11–PM12","AM11–PM12","AM11–PM12",3.4,20,,127.072134,37.5505389,"투썸플레이스 장안점.jpg"
+"몽골 울란바타르 문화진흥원","문화센터",,,,,,,,,3.5,4,,127.072134,37.5505389,"몽골 울란바타르 문화진흥원.jpg"
+"성수아트홀","공연예술 극장",,,,,,,,,4.3,96,,127.0294472,37.5454017,"성수아트홀.jpg"
+"홍대돈부리 건대점","음식점",,,,,,,,,4,1,,127.072134,37.5505389,"홍대돈부리 건대점.jpg"
+"전주명가콩나물국밥","음식점",,"Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours",3.9,94,,127.072134,37.5505389,"전주명가콩나물국밥.jpg"
+"차이나플레인","중국 음식점",,"AM11:30–PM10","AM11:30–PM10","AM11:30–PM10","AM11:30–PM10","AM11:30–PM10","AM11:30–PM10","AM11:30–PM10",3.6,70,,127.0394529,37.5445945,"차이나플레인.jpg"
+"비스트로 드 욘트빌 BISTROT de YOUNTVILLE (Restaurant français)","프랑스 음식점",,"PM12–AM3","PM12–AM3","PM12–AM3","PM12–AM3","PM12–AM3","PM12–AM3","PM12–AM3",4.3,67,,127.0237136,37.526034,"비스트로 드 욘트빌 BISTROT de YOUNTVILLE (Restaurant français).jpg"
+"꼬메노","카페",,,,,,,,,4.4,10,,127.072134,37.5505389,"꼬메노.jpg"
+"김종욱커피","커피숍/커피 전문점",,"AM9–PM10","AM9–PM10","AM9–PM10","AM9–PM10","AM9–PM10","AM9–PM10","AM9–PM10",4.4,44,,127.0320031,37.5495606,"김종욱커피.jpg"
+"바곱창","술집",,,,,,,,,4.3,10,,127.019475,37.5504806,"바곱창.jpg"
+"피에스타 2 스윙댄스 바 Fiesta 2 Swing Dance Bar","술집",,,,,,,,,4.6,16,,127.019475,37.5504806,"피에스타 2 스윙댄스 바 Fiesta 2 Swing Dance Bar.jpg"
+"positive zero lounge","재즈바",,"Closed","PM6–AM2","PM6–AM2","PM6–AM2","PM6–AM2","PM6–AM2","PM6–AM2",4.4,51,,127.019475,37.5504806,"positive zero lounge.jpg"
+"바 델마","바 & 그릴",,"PM7:30–AM2","PM7:30–AM2","PM7:30–AM2","PM7:30–AM2","PM7:30–AM2","PM7:30–AM2","Closed",4.6,12,,127.019475,37.5504806,"바 델마.jpg"
+"믹솔로지 MIXOLOGY","칵테일바",,"PM8–AM2","PM8–AM2","PM8–AM2","PM8–AM2","PM8–AM3","PM8–AM3","Closed",4.9,30,,127.019475,37.5504806,"믹솔로지 MIXOLOGY.jpg"
+"정식바","와인 바",,"PM6–AM2","PM6–AM2","PM6–AM2","PM6–AM2","PM6–AM2","PM6–AM2","PM12–AM3",4.5,24,,127.019475,37.5504806,"정식바.jpg"
+"오아시스 LP 뮤직바","술집",,,,,,,,,4.8,17,,127.019475,37.5504806,"오아시스 LP 뮤직바.jpg"
+"White Bar (화이트 바)","칵테일바",,"PM7–AM3","PM7–AM3","PM7–AM3","PM7–AM3","PM7–AM3","PM7–AM3","PM7–AM32",4.3,24,,127.019475,37.5504806,"White Bar (화이트 바).jpg"
+"볼트82","칵테일바",,"PM7–AM3","PM9–AM3","PM9–AM3","PM9–AM4","PM9–AM4","PM9–AM4","PM9–AM2",4.4,79,,127.019475,37.5504806,"볼트82.jpg"
+"바코난","칵테일바",,"PM7–AM3","PM7–AM3","PM7–AM3","PM7–AM3","PM7–AM3","PM7–AM3","PM7–AM3",4.3,6,,127.019475,37.5504806,"바코난.jpg"
+"칵테일바 카페루이 본점 (Cafe Louis HQ)","칵테일바",,"PM6–AM2","PM6–AM2","PM6–AM2","PM6–AM2","PM6–AM2","PM6–AM2","Closed",4.2,19,,127.019475,37.5504806,"칵테일바 카페루이 본점 (Cafe Louis HQ).jpg"
+"레드모델바 잠실신천점","술집",,"PM8–AM7","PM8–AM7","PM8–AM7","PM8–AM7","PM8–AM7","PM8–AM7","Closed",4.2,5,,127.019475,37.5504806,"레드모델바 잠실신천점.jpg"
+"한남동 와이낫 (WHY NOT)","칵테일바",,"PM7–AM4","PM7–AM4","PM7–AM4","PM7–AM4","PM7–AM5","PM7–AM5","PM7–AM4",4.4,54,,127.019475,37.5504806,"한남동 와이낫 (WHY NOT).jpg"
+"미식바","와인 바",,,,,,,,,5,1,,127.019475,37.5504806,"미식바.jpg"
+"원스인어블루문","재즈바",,"PM6–AM1","PM6–AM1","PM6–AM2","PM6–AM2","PM6–AM2","PM6–AM2","PM6–AM12",4.4,238,,127.019475,37.5504806,"원스인어블루문.jpg"
+"Bar Musk – 바 머스크","술집",,"PM7–AM2","PM6–AM2","PM6–AM2","PM6–AM2","PM6–AM2","PM6–AM2","Closed",4.6,15,,127.019475,37.5504806,"Bar Musk – 바 머스크.jpg"
+"1971바","술집",,,,,,,,,3,1,,127.019475,37.5504806,"1971바.jpg"
+"먼데이블루스 와인바","술집",,,,,,,,,4.4,28,,127.019475,37.5504806,"먼데이블루스 와인바.jpg"
+"사이드웨이 와인","와인 바",,"PM6–AM2","PM6–AM2","PM6–AM2","PM6–AM2","PM6–AM2","PM5–AM2","PM5–AM12",4.3,46,,127.019475,37.5504806,"사이드웨이 와인.jpg"
+"신시어","바 & 그릴",,,,,,,,,4.7,7,,127.019475,37.5504806,"신시어.jpg"
+"세종문화회관","문화센터",,,,,,,,,4.3,"1,620",,126.9668882,37.5725254,"세종문화회관.jpg"
+"대치2문화센타","문화센터",,,,,,,,,3.7,28,,127.0556294,37.5022996,"대치2문화센타.jpg"
+"롯데MBC문화센터 강남점","문화센터",,,,,,,,,4.5,12,,127.0460367,37.4976341,"롯데MBC문화센터 강남점.jpg"
+"역삼2동문화센터","문화센터",,,,,,,,,5,1,,127.0380157,37.4959613,"역삼2동문화센터.jpg"
+"대치4문화복지회관","문화센터",,,,,,,,,3.9,23,,127.0491358,37.4997536,"대치4문화복지회관.jpg"
+"동부여성문화센터","문화센터",,,,,,,,,5,3,,127.0012392,37.5772007,"동부여성문화센터.jpg"
+"송파여성문화회관","문화센터",,"AM9–PM10","AM9–PM10","AM9–PM10","AM9–PM10","AM9–PM10","AM9–PM10","Closed",3.8,146,,127.1010648,37.5058779,"송파여성문화회관.jpg"
+"허리우드극장","영화관",,,,,,,,,4,37,,126.9793248,37.5727009,"허리우드극장.jpg"
+"CGV 천호","영화관",,"9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM",4.2,941,,127.1334892,37.5456582,"CGV 천호.jpg"
+"합동영화(주)","영화관",,,,,,,,,4,300,,126.9828812,37.5696522,"합동영화(주).jpg"
+"CGV 강남","영화관",,"9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM",3.7,"1,640",,127.0175587,37.5015645,"CGV 강남.jpg"
+"민속극장풍류","공연예술 극장",,,,,,,,,4.6,28,,127.0358766,37.5101818,"민속극장풍류.jpg"
+"CGV 피카디리1958","영화관",,"9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM",3.9,849,,126.9883196,37.5495559,"CGV 피카디리1958.jpg"
+"CGV 강남","영화관",,"9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM","9:30AM–11PM",3.7,"1,640",,126.9883196,37.5495559,"CGV 강남.jpg"
+"홍콩반점0410 어린이대공원점","중국 음식점",,,,,,,,,,,,127.0702833,37.5505439,"홍콩반점0410 어린이대공원점.jpg"
+"페리카나 화양리점","음식점",,,,,,,,,,,,127.0671614,37.544678,"페리카나 화양리점.jpg"
+"미다래","일본 음식점",,,,,,,,,3,2,,127.0692446,37.5422339,"미다래.jpg"
+"아이점프 군자점","카페",,"AM10–PM8","AM10–PM8","AM10–PM8","AM10–PM8","AM10–PM8","AM10–PM8","AM10–PM8",4.1,13,,127.0702833,37.5505439,"아이점프 군자점.jpg"
+"단지커피","카페",,"AM11–PM9","AM11–PM9","AM11–PM9","AM11–PM9","AM11–PM9","AM12–PM9","Closed",4.6,11,,127.0702833,37.5505439,"단지커피.jpg"
+"옥루몽어린이대공원점","카페",,"AM8–PM11","AM8–PM11","AM8–PM11","AM8–PM11","AM8–PM11","AM8–PM11","AM8–PM11",4,21,,127.0702833,37.5505439,"옥루몽어린이대공원점.jpg"
+"모서리에커피집","카페",,"AM11:30–PM10","AM11:30–PM10","AM11:30–PM10","AM11:30–PM10","AM11:30–PM10","AM11:30–PM10","AM11:30–PM10",4.6,13,,127.0708259,37.5460009,"모서리에커피집.jpg"
+"Comeno","카페",,"PM1–PM11","Closed","PM1–PM11","PM1–PM11","PM1–PM11","PM12–AM12","PM12–AM12",4.3,11,,127.0668841,37.5455626,"Comeno.jpg"
+"까페에이치투","커피숍/커피 전문점",,,,,,,,,1.5,2,,127.0745234,37.5551566,"까페에이치투.jpg"
+"영화커피호프","커피숍/커피 전문점",,,,,,,,,5,2,,127.06948,37.5583645,"영화커피호프.jpg"
+"Bar Twelve @Cheongdam","바 & 그릴",,"PM7:30–AM3","PM7:30–AM3","PM7:30–AM3","PM7:30–AM3","PM8–AM4","PM8–AM4","PM7:30–AM3",4.5,34,,127.0097459,37.5511748,"Bar Twelve @Cheongdam.jpg"
+"몰트바 오프 삼성동 (Malt Bar OFF)","술집",,"PM7–AM2","PM7–AM2","PM7–AM2","PM7–AM2","PM7–AM2","PM7–AM2","Closed",4.7,23,,127.0097459,37.5511748,"몰트바 오프 삼성동 (Malt Bar OFF).jpg"
+"뱅가","와인 바",,"PM6–AM2","PM6–AM2","PM6–AM2","PM6–AM2","PM6–AM2","PM6–AM2","Closed",4.4,47,,127.0097459,37.5511748,"뱅가.jpg"
+"스쿠로","와인 바",,"PM6–AM12","PM6–AM2","PM6:00–AM2:00","PM6:00–AM2:00","PM6:00–AM2:00","PM6:00–AM2:00","PM6:00–PM00:00",4.5,42,,127.0097459,37.5511748,"스쿠로.jpg"
+"최고노래방","노래방",,,,,,,,,,,,127.0640981,37.5464572,"최고노래방.jpg"
+"락휴노래연습장","노래방",,,,,,,,,4,2,,127.0668893,37.5419839,"락휴노래연습장.jpg"
+"SBS노래방","노래방",,"Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours",3,2,,127.0549302,37.5505426,"SBS노래방.jpg"
+"로또노래방","노래방",,"Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours",3,1,,127.0652925,37.5443194,"로또노래방.jpg"
+"알쏭노래방","노래방",,"PM1–AM6","PM1–AM6","PM1–AM6","PM1–AM6","PM1–AM6","PM1–AM6","PM1–AM6",5,1,,127.0633786,37.541621,"알쏭노래방.jpg"
+"불티나노래방","노래방",,"Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours",,,,127.0468055,37.5434902,"불티나노래방.jpg"
+"DC노래방","노래방",,"Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours",,,,127.0662243,37.5421885,"DC노래방.jpg"
+"칸노래방","노래방",,"Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours",,,,127.0636446,37.5415222,"칸노래방.jpg"
+"팡팡노래방","노래방",,"Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours",,,,127.0658338,37.5412618,"팡팡노래방.jpg"
+"포그니노래방","노래방",,"Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours",,,,127.0549302,37.5505426,"포그니노래방.jpg"
+"사이버노래방","노래방",,"Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours",,,,127.0621953,37.5418172,"사이버노래방.jpg"
+"웰빙노래방","노래방",,"Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours",,,,127.0642229,37.5416506,"웰빙노래방.jpg"
+"대한민국노래방","노래방",,"Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours",,,,127.0650006,37.5409007,"대한민국노래방.jpg"
+"쟁반노래방","노래방",,"Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours",,,,127.0606076,37.5395204,"쟁반노래방.jpg"
+"뉴월드노래방","노래방",,"Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours",,,,127.0611954,37.5421227,"뉴월드노래방.jpg"
+"쟁반노래방","노래방",,"Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours",,,,127.065841,37.5413467,"쟁반노래방.jpg"
+"삼바노래방","노래방",,"Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours",,,,127.0549302,37.5505426,"삼바노래방.jpg"
+"쌍둥이노래방","노래방",,"Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours",,,,127.0639174,37.541595,"쌍둥이노래방.jpg"
+"NEW쟁반노래방","노래방",,"Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours",3.7,3,,127.0631845,37.5620182,"NEW쟁반노래방.jpg"
+"악어떼노래방","노래방",,"Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours",,,,127.0654632,37.540911,"악어떼노래방.jpg"
+"초밥짓는원숭이","일본 음식점",,"AM11:30–PM3:30","AM11:30–PM3:30","AM11:30–PM3:30","AM11:30–PM3:30","AM11:30–PM3:30","AM11:30–PM3:30","AM11:30–PM3:30",3.2,21,,127.0695066,37.5431033,"초밥짓는원숭이.jpg"
+"와하카","음식점",,,,,,,,,4.2,73,,127.0368305,37.5478922,"와하카.jpg"
+"카페오롯","카페",,"AM10–PM11","AM10–PM11","AM10–PM11","AM10–PM11","AM10–PM11","AM10–PM11","AM10–PM11",4.2,34,,127.0484837,37.54845,"카페오롯.jpg"
+"카페우유니","카페",,"AM10–PM11","AM10–PM11","AM10–PM11","AM10–PM11","AM10–PM11","AM10–PM11","Closed",4.5,26,,127.0299956,37.5610174,"카페우유니.jpg"
+"오르에르(OrEr)","카페",,"AM11–PM11","AM11–PM11","AM11–PM11","AM11–PM11","AM11–PM11","AM11–PM11","AM11–PM11",4,124,,127.0337885,37.543431,"오르에르(OrEr).jpg"
+"카페나루","카페",,"AM8–PM8","AM8:00–PM8:00","AM8:00–PM8:00","AM8:00–PM8:00","AM8:00–PM8:00","AM8:00–PM6:00","Closed",4.1,15,,127.072134,37.5505389,"카페나루.jpg"
+"타로카페드뷔시산장","카페",,"Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours",4.4,18,,127.0229545,37.558454,"타로카페드뷔시산장.jpg"
+"카페보니또 성수점","카페",,"AM8–PM12","AM8–PM12","AM8–PM12","AM8–PM12","AM8–PM12","AM8–PM12","AM8–PM12",4,12,,127.0384367,37.5413172,"카페보니또 성수점.jpg"
+"카페시벳","카페",,,,,,,,,4.5,18,,127.0220009,37.5616654,"카페시벳.jpg"
+"에잇디 카페","카페",,,,,,,,,4.5,4,,127.0188619,37.5244898,"에잇디 카페.jpg"
+"담쟁이북카페","카페",,,,,,,,,4.8,5,,127.072134,37.5505389,"담쟁이북카페.jpg"
+"MILD","카페",,"AM12–PM8:30","AM12–PM8:30","AM12–PM8:30","AM12–PM8:30","AM12–PM8:30","AM11–PM9:30","AM11–PM9:30",4.4,19,,127.0459459,37.5354365,"MILD.jpg"
+"카페 마리","커피숍/커피 전문점",,"AM7–PM9","AM7–PM9","AM7–PM9","AM7–PM9","AM7–PM9","AM12–PM9","AM7–PM9",4.4,5,,127.0131429,37.5250603,"카페 마리.jpg"
+"카페 레지던스","카페",,"AM12–PM9","AM12–PM9","AM12–PM9","AM12–PM9","AM12–PM9","AM12–PM9","AM12–PM9",3.5,2,,127.072134,37.5505389,"카페 레지던스.jpg"
+"원풀키즈카페","카페",,"AM10–PM10","AM10–PM10","AM10–PM10","AM10–PM10","AM10–PM10","AM10–PM10","AM10–PM10",3.3,8,,127.072134,37.5505389,"원풀키즈카페.jpg"
+"카페 피아트","카페",,"AM9–PM11","AM9–PM11","AM9–PM11","AM9–PM11","AM9–PM11","AM9–PM11","AM9–PM11",3.9,18,,127.072134,37.5505389,"카페 피아트.jpg"
+"Camel Café","카페",,"AM11:30–PM10","AM11:30–PM10","AM11:30–PM10","AM11:30–PM10","AM11:30–PM10","AM11:30–PM10","AM11:30–PM10",3.9,55,,127.0383868,37.5371956,"Camel Café.jpg"
+"카페드유라","커피용품 판매점",,"AM9–PM6","AM9–PM6","AM9–PM6","AM9–PM6","AM9–PM6","AM9–PM4","Closed",5,1,,127.0285199,37.5273389,"카페드유라.jpg"
+"소코 바 BAR SOKO","칵테일바",,"Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Closed",4.4,26,,127.0051026,37.534872,"소코 바 BAR SOKO.jpg"
+"더블유바","와인 바",,,,,,,,,4.3,4,,127.019475,37.5504806,"더블유바.jpg"
+"불러노래방","노래방",,"Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours",5,1,,127.0873258,37.5560008,"불러노래방.jpg"
+"엘리스노래방","노래방",,,,,,,,,2,1,,127.072134,37.5505389,"엘리스노래방.jpg"
+"NBA노래방","노래방",,,,,,,,,2.3,3,,127.072134,37.5505389,"NBA노래방.jpg"
+"성수문화복지회관","사회 복지 센터",,,,,,,,,4.4,13,,127.0425457,37.5454251,"성수문화복지회관.jpg"
+"한국문화센터","문화센터",,,,,,,,,,,,127.0630416,37.5388782,"한국문화센터.jpg"
+"메가박스 군자","영화관",,,,,,,,,4,1,,127.0739777,37.5557163,"메가박스 군자.jpg"
+"가람성","중국 음식점",,"Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours",3.8,21,,127.0752829,37.5452336,"가람성.jpg"
+"빕스 어린이대공원점","패밀리 레스토랑",,"AM11:30–PM10:00","AM11:30–PM10:00","AM11:30–PM10:00","AM11:30–PM10:00","AM11:30–PM10:00","AM11:30–PM10:00","AM11:30–PM10:00",3.7,382,,127.0751642,37.5516355,"빕스 어린이대공원점.jpg"
+"하남돼지집 세종대점","한식 고기구이 레스토랑",,"PM00:00–PM12:00","PM00:00–PM12:00","PM00:00–PM12:00","PM00:00–PM12:00","PM00:00–PM12:00","PM00:00–PM12:00","PM00:00–PM12:00",4.2,38,,127.0714333,37.5469414,"하남돼지집 세종대점.jpg"
+"카페 어드벤처 스튜디오","카페",,,,,,,,,3,2,,127.0681101,37.5505436,"카페 어드벤처 스튜디오.jpg"
+"언커먼그라운드","커피숍/커피 전문점",,"AM8:00–PM10:00","AM8:00–PM10:00","AM8:00–PM10:00","AM8:00–PM10:00","AM8:00–PM10:00","PM12:00–7:00","PM12:00–7:00",3.9,35,,127.0552083,37.543451,"언커먼그라운드.jpg"
+"kingdombar Sm Bar","칵테일바",,"PM8:00–AM2:00","PM8:00–AM2:00","PM8:00–AM2:00","PM8:00–AM2:00","PM8:00–AM2:00","PM8:00–AM2:00","PM8:00–AM2:00",4.3,3,,127.0796402,37.5375863,"kingdombar Sm Bar.jpg"
+"Bar Lupin","바 & 그릴",,,,,,,,,4,22,,127.036382,37.5263762,"Bar Lupin.jpg"
+"바푸리 성수역점","음식점",,"AM7:30–PM9:30","AM7:30–PM9:30","AM7:30–PM9:30","AM7:30–PM9:30","AM7:30–PM9:30","AM7:30–PM9:30","Closed",4.2,6,,127.0530532,37.5459424,"바푸리 성수역점.jpg"
+"레솔베르시가바","시가 전문점",,"Open 24 hours","Open 24 hours","PM12:00–AM3:00","Open 24 hours","Open 24 hours","Open 24 hours","PM12:00–PM00:00",4.6,40,,127.0366052,37.5246742,"레솔베르시가바.jpg"
+"몽크투바흐","재즈바",,"Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours",4.5,35,,127.0228984,37.5211724,"몽크투바흐.jpg"
+"부킹노래방","노래방",,,,,,,,,,,,127.0661451,37.5391509,"부킹노래방.jpg"
+"국립현대미술관 서울관","미술관",,"AM10–PM6","AM10–PM6","AM10–PM6","AM10–PM6","AM10:00–PM9:00","AM10:00–PM9:00","AM10–PM6",4.4,"1,375",,126.9628596,37.5794091,"국립현대미술관 서울관.jpg"
+"대림미술관","미술관",,"Closed","AM10–PM6","AM10–PM6","AM10:00–PM8:00","AM10–PM6","AM10:00–PM8:00","AM10–PM6",4.2,876,,126.9558315,37.577459,"대림미술관.jpg"
+"삼성리움미술관","미술관",,"Closed","AM10:30–PM6:00","AM10:30–PM6:00","AM10:30–PM6:00","AM10:30–PM6:00","AM10:30–PM6:00","AM10:30–PM6:00",4.4,862,,126.9810695,37.538122,"삼성리움미술관.jpg"
+"D Museum","미술관",,"Closed","AM10–PM6","AM10–PM6","AM10–PM6","AM10:00–PM8:00","AM10:00–PM8:00","AM10–PM6",4.1,"1,086",,126.9939275,37.5371914,"D Museum.jpg"
+"소마미술관","미술관",,"Closed","AM10–PM6","AM10–PM6","AM10–PM6","AM10–PM6","AM10–PM6","AM10–PM6",4,285,,127.1007442,37.5166362,"소마미술관.jpg"
+"국립현대미술관 덕수궁관","현대미술관",,"Closed","AM10:00–PM7:00","AM10:00–PM9:00","AM10:00–PM7:00","AM10:00–PM7:00","AM10:00–PM9:00","AM10:00–PM7:00",4.4,259,,126.9561827,37.5658959,"국립현대미술관 덕수궁관.jpg"
+"서울시립미술관 서소문본관","미술관",,"Closed","AM10:00–PM7:00","AM10:00–PM7:00","AM10:00–PM7:00","AM10:00–PM7:00","AM10–PM6","AM10–PM6",4.3,832,,126.9562698,37.5640253,"서울시립미술관 서소문본관.jpg"
+"아르코미술관","미술관",,"Closed","AM11:00–PM6:00","AM11:00–PM6:00","AM11:00–PM6:00","AM11:00–PM6:00","AM11:00–PM6:00","AM11:00–PM6:00",4.4,44,,126.9856794,37.5804502,"아르코미술관.jpg"
+"서울시립미술관 경희궁미술관","미술관",,"AM10:00–PM8:00","AM10:00–PM8:00","AM10:00–PM8:00","AM10:00–PM8:00","AM10:00–PM8:00","AM10:00–PM8:00","AM10:00–PM8:00",3,4,,126.9512047,37.5700964,"서울시립미술관 경희궁미술관.jpg"
+"포스코미술관","미술관",,,,,,,,,3.9,61,,127.0386377,37.5058037,"포스코미술관.jpg"
+"K현대미술관","미술관",,"Closed","AM10:00–PM8:00","AM10:00–PM8:00","AM10:00–PM8:00","AM10:00–PM8:00","AM10:00–PM8:00","AM10:00–PM6:30",3.9,151,,127.0215448,37.5242737,"K현대미술관.jpg"
+"간송미술관","미술관",,"AM10–PM6","AM10–PM6","AM10–PM6","AM10–PM6","AM10–PM6","AM10–PM6","AM10–PM6",4,25,,126.9793463,37.5936152,"간송미술관.jpg"
+"서울미술관","미술관",,"Closed","AM10–PM6","AM10–PM6","AM10–PM6","AM10–PM6","AM10–PM6","AM10–PM6",4.1,798,,126.9457404,37.5948345,"서울미술관.jpg"
+"국립현대미술관","미술관",,"Closed","AM10–PM6","AM10–PM6","AM10–PM6","AM10–PM6","AM10:00–PM9:00","AM10–PM6",4.3,762,,127.0020942,37.4303743,"국립현대미술관.jpg"
+"일민미술관","미술관",,"Closed","AM11:00–PM7:00","AM11:00–PM7:00","AM11:00–PM7:00","AM11:00–PM7:00","AM11:00–PM7:00","AM11:00–PM7:00",3.9,95,,126.9601545,37.569784,"일민미술관.jpg"
+"국립현대미술관 창동레지던시","미술관",,"AM10–PM6","AM10–PM6","AM10–PM6","AM10–PM6","AM10–PM6","AM10–PM6","AM10–PM6",4,9,,127.0218964,37.6406935,"국립현대미술관 창동레지던시.jpg"
+"한미사진미술관","미술관",,"AM10–PM7","AM10–PM7","AM10–PM7","AM10–PM7","AM10–PM7","AM10–PM7","Closed",4.2,22,,127.0964485,37.516571,"한미사진미술관.jpg"
+"성곡미술관","미술관",,"Closed","AM10–PM6","AM10–PM6","AM10–PM6","AM10–PM6","AM10–PM6","AM10–PM6",4.1,79,,126.9522548,37.5731157,"성곡미술관.jpg"
+"성북구립미술관","미술관",,,,,,,,,,,,127.0324413,37.603604,"성북구립미술관.jpg"
+"예술의전당 한가람미술관","미술관",,"AM11:00–PM8:00","AM11:00–PM8:00","AM11:00–PM8:00","AM11:00–PM8:00","AM11:00–PM8:00","AM11:00–PM8:00","AM11:00–PM8:00",4.3,"1,422",,126.9967367,37.4803793,"예술의전당 한가람미술관.jpg"
+"에어텔24 여행사","여행사",,"PM00:00–PM11:30","PM00:00–PM11:30","PM00:00–PM11:30","PM00:00–PM11:30","PM00:00–PM11:30","PM00:00–PM11:30","PM00:00–PM11:30",5,1,,126.992038,37.5036322,"에어텔24 여행사.jpg"
+"유강원(순명효황후의 릉)문화유적","역사적 명소",,,,,,,,,2,1,,127.0643031,37.549363,"유강원(순명효황후의 릉)문화유적.jpg"
+"살곶이다리","역사적 명소",,"Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours",4,118,,127.0214313,37.5360063,"살곶이다리.jpg"
+"아차산성","역사적 명소",,,,,,,,,4.2,86,,127.0854302,37.5544541,"아차산성.jpg"
+"광화문","역사적 명소",,"AM8:00–PM5:00","AM8:00–PM5:00","AM8:00–PM5:00","AM8:00–PM5:00","AM8:00–PM5:00","AM8:00–PM5:00","AM8:00–PM5:00",4.5,"4,150",,126.9593062,37.5759369,"광화문.jpg"
+"풍납토성","역사적 명소",,"Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours",3.8,30,,127.1034372,37.5390793,"풍납토성.jpg"
+"장충단비","역사적 명소",,,,,,,,,,,,126.9866244,37.5575642,"장충단비.jpg"
+"숭례문","역사적 명소",,"Closed","AM9:00–PM6:00","AM9:00–PM6:00","AM9:00–PM6:00","AM9:00–PM6:00","AM9:00–PM6:00","AM9:00–PM6:00",4.3,"2,661",,126.9577925,37.5599526,"숭례문.jpg"
+"남한산성 북문","역사적 명소",,,,,,,,,4.1,276,,127.1672906,37.481568,"남한산성 북문.jpg"
+"광평대군묘","역사적 명소",,,,,,,,,3.4,9,,127.0746175,37.486769,"광평대군묘.jpg"
+"아차산4보루","역사적 명소",,"Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours",3,3,,127.0867368,37.5711395,"아차산4보루.jpg"
+"서울문묘","역사적 명소",,,,,,,,,4.8,4,,126.9785776,37.5858494,"서울문묘.jpg"
+"동대문","역사적 명소",,,,,,,,,4.1,"1,080",,126.9920357,37.5711389,"동대문.jpg"
+"우정총국","역사적 명소",,"AM9:00–PM5:00","AM9:00–PM5:00","AM9:00–PM5:00","AM9:00–PM5:00","AM9:00–PM5:00","AM9:00–PM5:00","AM9:00–PM5:00",4,8,,126.9651532,37.5743555,"우정총국.jpg"
+"압구정터","역사적 명소",,,,,,,,,,,,127.0214313,37.5360063,"압구정터.jpg"
+"청풍김씨 대종회","역사적 명소",,,,,,,,,,,,127.0139346,37.5748283,"청풍김씨 대종회.jpg"
+"동구릉 재실","역사적 명소",,,,,,,,,4.4,15,,127.11688,37.6186227,"동구릉 재실.jpg"
+"광통교","역사적 명소",,"Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours",4.6,13,,126.963655,37.5691135,"광통교.jpg"
+"월계동각심재","역사적 명소",,"Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours",3,3,,127.0332285,37.633944,"월계동각심재.jpg"
+"목릉","역사적 명소",,,,,,,,,4,10,,127.1156626,37.6256571,"목릉.jpg"
+"서울어린이대공원놀이동산","테마파크",,"AM10–PM7","AM10–PM7","AM10–PM7","AM10–PM7","AM10–PM7","AM10–PM9","AM10–PM7",4.3,950,,127.0488321,37.5506984,"서울어린이대공원놀이동산.jpg"
+"서울랜드","놀이공원",,"AM9:30–PM10:00","AM9:30–PM10:00","AM9:30–PM10:00","AM9:30–PM10:00","AM9:30–PM10:00","AM9:30–PM10:00","AM9:30–PM10:00",4.2,"3,186",,126.9851078,37.4341563,"서울랜드.jpg"
+"어린이대공원","테마파크",,"AM5:00–PM10:00","AM5:00–PM10:00","AM5:00–PM10:00","AM5:00–PM10:00","AM5:00–PM10:00","AM5:00–PM10:00","AM5:00–PM10:00",4.4,"3,034",,127.0458185,37.5482248,"어린이대공원.jpg"
+"삼성에버랜드(주)","놀이공원",,,,,,,,,4.4,7,,126.9947057,37.4923535,"삼성에버랜드(주).jpg"
+"롯데월드 매직아일랜드","놀이공원",,"AM9:30–PM10:00","AM9:30–PM10:00","AM9:30–PM10:00","AM9:30–PM10:00","AM9:30–PM10:00","AM9:30–PM10:00","AM9:30–PM10:00",4.3,"2,709",,127.064939,37.5088728,"롯데월드 매직아일랜드.jpg"
+"두리랜드","놀이공원",,"Closed","AM10:00–PM5:00","AM10:00–PM5:00","AM10:00–PM5:00","AM10:00–PM5:00","AM10:00–PM7:00","AM10:00–PM7:00",3.9,71,,126.91541,37.7246681,"두리랜드.jpg"
+"문래공원관리사무소","놀이공원",,"AM9:00–PM6:00","AM9:00–PM6:00","AM9:00–PM6:00","AM9:00–PM6:00","AM9:00–PM6:00","Closed","Closed",,,,126.8602701,37.5176033,"문래공원관리사무소.jpg"
+"국립공원관리공단빨래골","놀이공원",,,,,,,,,3,2,,126.9675451,37.6792182,"국립공원관리공단빨래골.jpg"
+"Running Man Ep 1","놀이공원",,,,,,,,,5,2,,126.9550913,37.5782,"Running Man Ep 1.jpg"
+"월미테마파크","놀이공원"," 중구 월미도에 위치한 놀이공원으로 1992년에 설립된 마이랜드에 이어서 2009년 11월 즈음에 개장한 놀이공원이다. 규모가 놀이공원에 비해 작고 주변에 울타리가 없어 기존의 건물들과 경계가 없는 편이지만 사람들이 많이 찾는 장소이다. 20가지가 넘는 놀이기구 시설들이 있다.","AM10:00–PM10:00","AM10:00–PM10:00","AM10:00–PM10:00","AM10:00–PM10:00","AM10:00–PM10:00","AM10:00–PM10:30","AM10:00–PM10:30",3.8,"1,113",,126.5612681,37.471318,"월미테마파크.jpg"
+"원더존","놀이공원","부천시 원미구 춘의동에 위치한 원더존은 보다 이색적이고 신레포츠형 놀이동산으로 가족 나들이나, 단체 활동을 수용할 수 있는 넓은 잔디운동장과 안락한 휴식처들이 준비되어 있다. 20종이 넘는 놀이기구가 설치되어 있고, 3개의 박물관이 전시하고 있어 아이들과 시간을 보내기 좋은 장소이다.",,,,,,,,3,6,,126.7673075,37.5038035,"원더존.jpg"
+"남한산성유원지관리사무실","놀이공원","성남시 중원구 은행2동에 위치해 있는 남한산성 인근에 위치한 시민공원이다. 계곡과 분수, 작은 연못으로 되어 있는 생태학습장이 있어, 아이들과 동행하기 용이하다. 공원로를 따라 산책을 할 수도 있으며, 양궁장과 같은 시설들로 여러 체험이 가능하다.",,,,,,,,4.3,16,,127.1442749,37.4729638,"남한산성유원지관리사무실.jpg"
+"테지움 서울","테마파크","종로구 창신 1동에 위치한 테지움 서울은 테디베어 테마파크로 테디베어를 직접 만지고 안아보는 오픈형 이색체험전시 공간이다. 이곳에서 테디베어의 어원과 유래, 역사를 알 수 있다. 서울 테마 존에서는 옛 시절 서울부터 현재 서울까지를 테디베어로 소개하고 있다.","AM8:30–PM6:00","AM8:30–PM6:00","AM8:30–PM6:00","AM8:30–PM6:00","AM8:30–PM6:00","AM8:30–PM6:00","AM8:30–PM6:00",4.1,214,,126.9550913,37.5782,"테지움 서울.jpg"
+"롯데월드 언더씨킹덤","놀이공원","은평구 진관동에 위치한 은평 롯데몰 3~4층에 오픈한 실내 키즈파크다. 바닷속 왕국을 테마로 하고 있으며 어린이 위주 어트랙션이 주를 이룬다.","AM10:00–PM9:00","AM10:00–PM9:00","AM10:00–PM9:00","AM10:00–PM9:00","AM10:00–PM9:00","AM10:00–PM9:00","AM10:00–PM9:00",3.8,103,,126.8830636,37.6376234,"롯데월드 언더씨킹덤.jpg"
+"풍무동 중앙공원 공룡놀이터","놀이공원","김포시 풍무동에 위치한 중앙공원 내부의 공룡 놀이터로, 어린이들의 취향에 맞도록 공룡 형상을 띄는 놀이기구들이 있으며, 공룡 조형물도 있다.","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours",1,1,,126.6909869,37.6036421,"풍무동 중앙공원 공룡놀이터.jpg"
+"하니랜드","놀이공원","파주시 조리읍에 위치한 캠핑장으로 야외 어린이용 놀이공원과 식당가가 있어 아동과 시간을 보낼 수 있는 시설물들이 있다.","AM10:00–PM5:30","AM10:00–PM5:30","AM10:00–PM5:30","AM10:00–PM5:30","AM10:00–PM5:30","AM10:00–PM5:30","AM10:00–PM5:30",3.7,153,,126.7981818,37.749982,"하니랜드.jpg"
+"물동네","놀이공원","남양주시 수동면에 위치한 캠핑장으로 야외수영장과 계곡변의 캠핑시설과 실내 숙박시설이 있어 숙식이 가능하다.","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours",2.3,4,,127.2777366,37.719324,"물동네.jpg"
+"롯데월드","테마파크","송파구 잠실동에 위치한 놀이공원으로 석촌호수 위에 있는 야외 매직아일렌드와 실내의 롯데월드 어드벤처로 이루어져 있다. 실내는 언더랜드인 지하 1층부터 지상 4층까지 시설물들이 자리잡고 있으며, 총 23가지의 놀이시설들이 자리해 있다. 야외의 매직아일렌드에는 17가지의 놀이기구가 있다. 잠실역으로도 입장이 가능하여 접근성이 뛰어나다는 장점이 있다.","AM9:30–PM10:00","AM9:30–PM10:00","AM9:30–PM10:00","AM9:30–PM10:00","AM9:30–PM11:00","AM9:30–PM11:00","Closed",4.2,"13,355",,127.0631481,37.5111158,"롯데월드.jpg"
+"에버랜드","놀이공원","용인시 포곡읍에 위치한 테마파크로 대한민국의 테마파크중 가장 크다. 넓은 부지를 바탕으로 글로벌 페어, 아메리칸 어드벤처, 매직랜드, 유러피언 어드벤처, 주토피아의 5개의 구역으로 구성되어 있으며 여러 놀이기구와 동물원, 식당과 상점들이 있다. 이색적인 공연과 퍼레이드, 전시시설들이 많으며, 시즌별로 바뀌기 때문에 여러 종류별로 운영되고 있다. 자체적으로 리조트를 운영함으로 숙박 및 모든 여가생활이 가능하다.","AM10:00–PM9:00","AM10:00–PM9:00","AM10:00–PM9:00","AM10:00–PM9:00","AM10:00–PM10:00","AM10:00–PM10:00","AM10:00–PM9:00",4.4,"16,677",,127.1675475,37.2939104,"에버랜드.jpg"
+"일신놀이공원","놀이공원","부평구 일신동에 위치한 공원으로 시민들을 위한 산책로와 휴계시설등이 있다.
+","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours",5,1,,126.7073008,37.482593,"일신놀이공원.jpg"
+"성삼공원","공원","성동구 성수1동에 위치한 공원으로 건물 사이에 있는 작은 공원이다.","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours",3.9,7,,127.0590901,37.5420115,"성삼공원.jpg"
+"서남환경공원","공원","강서구 방화동에 위치한 수목공원으로 시민들을 위하여 잡풀로 우거진 초지나 다름없던 곳을 새롭게 만든 공원이다. 평탄한 언덕길에 나무들을 많이 심어 산책하기에 좋고 산책로 끄트머리에 메타세쿼이아 나무가 숲을 이뤄 이곳의 메타세쿼이야 길이 인상적이다. 습지로를 따라 산책을 즐길수도 있으며 풋살장등의 편의시설도 있다.","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours",,,,127.0802988,37.5519278,"환경공원.jpg"
+"맨발공원","공원","광진구 능동에 위치한 어린이대공원 내의 맨발공원으로 음악분수 광장 세갈래길 중 정면으로가면 도착할 수 있다. 넓은 풀밭과 흙길, 지압을 할 수 있는 타일들이 이색적이다.","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours",,,,127.0810532,37.5508016,"맨발공원.jpg"
+"뚝섬유수지체육공원","공원","서울숲 공원 북쪽 끝에 자리잡고 있는 시민공원으로 성동구에서 시민들의 스포츠 활동 공간 확충과 체육활성화 토대를 마련하기 위해 뚝섬유원지에 체육공원을 만들었다. 서울숲과 붙어있기 때문에 한강변과 가깝다는 장점이 있다.","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours",3.8,24,,127.0405181,37.5496009,"뚝섬체육공원.jpg"
+"미나리공원","공원","동대문구 장안동에 위치한 공원으로 장한평역 4번출구에서 도보 15분 내외로 갈 수 있다.","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours",3.6,5,,127.068102,37.563681,"미나리공원.jpg"
+"상원어린이공원","공원","성동구 성수동 1가에 위치한 공원으로 어린이를 위한 놀이 시설물 등이 있다.","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours",4,2,,127.046119,37.5475661,"상원어린이공원.jpg"
+"열린무대","공원","광진구 능동에 위치한 어린이대공원 내의 야외 시설물로 정문 음악분수 광장에 자리한다. 부채꼴 모양의 야외 무대이며 여러 공연등이 상영되기도 한다.","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours",,,,127.0768934,37.5488553,"열린무대.jpg"
+"마장상상어린이공원","공원","도봉구에 위치한 공원으로 지역 주민과 어린이들의 의견을 반영해 낡은 놀이터를 상상력과 창의력의 공원으로 리모델링하였다.","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours","Open 24 hours",2.7,3,,127.0402858,37.5621198,"마장상상어린이공원.jpg"

@@ -3,7 +3,7 @@
  ## Intro
  [동네예보정보조회서비스](https://www.data.go.kr/dataset/15000099/openapi.do) API를 호출해 현재 위치의 실시간 기상정보를 불러옵니다.
  
- ##Dependency to use
+ ## Dependency to use
  실시간 기상정보 모듈을 사용하기 위해선 아래의 라이브러리/API 키가 필요합니다
  >pytz\
  >[동네예보정보조회서비스](https://www.data.go.kr/dataset/15000099/openapi.do) API 키

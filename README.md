@@ -66,4 +66,3 @@
 > 크롤러 : https://github.com/newhiwoong/Sejong_ITIP-/blob/master/MDfile/crawling.md  
 > 날씨 API : https://github.com/newhiwoong/Sejong_ITIP-/blob/master/MDfile/weather.md  
 > 미세먼지 API : https://github.com/newhiwoong/Sejong_ITIP-/blob/master/MDfile/fine-dust.md  
-> 구글맵 API : https://github.com/newhiwoong/Sejong_ITIP-/blob/master/MDfile/googlemap.md  
