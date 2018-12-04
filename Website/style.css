@@ -1,0 +1,73 @@
+.sidebar{
+    position: fixed;
+    left: 80%;
+    width: 150px;
+}
+
+
+.goto{
+    margin-bottom: 5px;
+    background: #fff;
+    border: 1px solid #dcdcdc;
+    color: #666;
+    font-size: 2em;
+    font-weight: bold;
+    width: 100%;
+    height: 80px;
+    cursor: pointer;
+}
+
+.button{
+    margin-bottom: 5px;
+    background: #fff;
+    border: 1px solid #dcdcdc;
+    color: #666;
+    font-size: 2em;
+    font-weight: bold;
+    width: 100%;
+    height: 80px;
+    cursor: pointer;
+}
+
+.gourl{
+    margin-bottom: 5px;
+    background: #fff;
+    border: 1px solid #dcdcdc;
+    color: #666;
+    font-size: 2em;
+    font-weight: bold;
+    margin: 50% 50%;
+    cursor: pointer;
+}
+
+.goto:hover{
+    border: 1px solid cornflowerblue;
+}
+
+.goto:focus, .goto:active{
+    outline: 0;
+}
+
+.active{
+    border: 1px solid cornflowerblue;
+    color: cornflowerblue;
+}
+
+.content{
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    height: 110%;
+}
+
+#content1{
+    background: url(images/p1.jpg);
+}
+
+#content2{
+    background: url(images/p2.jpg);
+}
+
+#content3{
+    background: url(images/p3.jpg);
+}
