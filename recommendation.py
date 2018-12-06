@@ -1,10 +1,8 @@
-
 # coding: utf-8
 
 # ## 라이브러리 import
 
-# In[56]:
-
+# python recommendation.py 2 EatingFood,Drinking,Watch 광진구 37.5505441 127.0722199
 
 import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
@@ -17,8 +15,6 @@ from xml.etree.ElementTree import *
 from math import *
 import datetime
 import pytz
-import gmaps
-import gmaps.datasets
 import datetime
 import time
 import re
@@ -91,7 +87,7 @@ def get_location():
 # In[60]:
 
 
-def get_weather_data(longi, latit, key="...."):
+def get_weather_data(longi, latit, key="......."): #부분에 당신의 날씨 API키를 입력하고 
     grib_date, grib_time = get_grib_date()
     grib_url = "http://newsky2.kma.go.kr/service/SecndSrtpdFrcstInfoService2/ForecastGrib?"
     forecast_date, forecast_time = get_forecast_date()
@@ -373,18 +369,18 @@ def Longitude_Latitude_To_KM(num, clas):
 if __name__ == "__main__":
     inputs = []
 
-    for i in range(1,5):
+    for i in range(1,6):
         try:
             inputs.append(sys.argv[i])
         except:
             inputs.append(0)
 
     # 장소, 구, 위도, 경도 
-    #for i in range(0,4):
+    #for i in range(0,5):
     #    print(i, inputs[i])
 
     #위치 가지고 오기 
-    if(not(inputs[1])):
+    if(not(inputs[4])):
         driver = webdriver.Chrome('chromedriver.exe')
 
         Current_location = get_location()
@@ -394,11 +390,11 @@ if __name__ == "__main__":
         Longitude, Latitude = float(Longitude), float(Latitude)
 
     else:
-        stationName = inputs[1]
-        Longitude, Latitude = float(inputs[3]), float(inputs[2])
+        stationName = inputs[2]
+        Longitude, Latitude = float(inputs[4]), float(inputs[3])
 
     url = 'http://openapi.airkorea.or.kr/openapi/services/rest/ArpltnInforInqireSvc/getMsrstnAcctoRltmMesureDnsty'
-    service_key = '....' # FIXME
+    service_key = '.......' # API키가 필요 
     stationName = stationName
 
     #미세먼지 
@@ -468,9 +464,12 @@ if __name__ == "__main__":
 
 
     # ## 원하는 장소로 필터링
-
+    # 음식같은거면 좀 더 좀게 , 의미있는 곳은 멀리, 너무 멀리있으면 
+    # 케이스도 만들어서 헤보게 보기 
+    # 데이터의 한계점 까지 -> 강남구청에서 
+    # 거리 설정 -> ok
     #1.음식 먹기
-    EatingFood = [
+    EatingFood = [ #가까운 
         '딤섬 전문 레스토랑',
         '음식점',
         '이탈리아 음식점',
@@ -483,7 +482,7 @@ if __name__ == "__main__":
     ]
 
     #2. 마시기 
-    Drinking = [ '바 & 그릴',
+    Drinking = [ '바 & 그릴', #가까운 
         '술집',
         '와인 바',
         '재즈바',
@@ -494,15 +493,16 @@ if __name__ == "__main__":
     #####
 
     #3. 의미있는 곳
-    MeaningfulPlace = ['문화유산보존지역',
+    MeaningfulPlace = ['문화유산보존지역', #멀리 
         '불교사찰',
         '성당',
         '역사유적지',
-        '역사적 명소'
+        '역사적 명소',
+        '정부청사'
     ]
 
     #4. 밖 인공,자연
-    Outdoors = ['고궁',
+    Outdoors = ['고궁', #멀리 
         '관광명소',
         '관광지',
         '다리',
@@ -514,7 +514,7 @@ if __name__ == "__main__":
     ]
 
     #5. 앉아서 보고 듣기
-    SeeAndHear=['공연예술 극장',
+    SeeAndHear=['공연예술 극장', #가까운 
         '극장',
         '영화관',
         '자동차극장'
@@ -522,76 +522,96 @@ if __name__ == "__main__":
 
 
     #6. 구경하기 
-    Watch =['미술관',
+    Watch =['미술관', #멀리 
         '박물관'
     ]
 
-    #7. 놀기
-    Play = ['노래방',
-        '놀이공원'
-    ]
+    #7. 노래방  
+    Karaoke = ['노래방' ] #가까운
+            
+    #7. 놀이공원 
+    AmusementPark = ['놀이공원']  #멀리 
+   
 
     #8. 쇼핑하기
-    Shopping=['쇼핑몰',
+    Shopping=['쇼핑몰',  #멀리 
         '시가 전문점',
         '시장',
         '커피용품 판매점',
     ]
 
     #9. 운동하기
-    Exercise = ['건강 센터',
+    Exercise = ['건강 센터', #가까운 
         '스포츠 단지',
-        '스포츠단지'
+        '스포츠단지',
+        '문화센터'
     ]
 
-    #10. 복지
-    Welfare =['문화센터',
-        '정부청사'
-    ]
 
-    
+
+    Close_Far = 1
+
     #장소 선정 
-    if(inputs[0]):
+    if(inputs[1]):
         places = []
-        places_name = inputs[0].split(',')
+        places_name = inputs[1].split(',')
         for pl in places_name:
             if(pl == "EatingFood"):
                 places.append(EatingFood)
+                Close_Far = 0
+
             elif(pl == "Drinking"):
                 places.append(Drinking)
+                Close_Far = 0
+
             elif(pl == "MeaningfulPlace"):
                 places.append(MeaningfulPlace)
+
             elif(pl == "Outdoors"):
                 places.append(Outdoors)
+
             elif(pl == "SeeAndHear"):
                 places.append(SeeAndHear)
+                Close_Far = 0
+
             elif(pl == "Watch"):
-                places.append(Play )
-            elif(pl == "Play"):
-                places.append(Play)
+                places.append(Watch)
+
+            elif(pl == "Karaoke"):
+                places.append(Karaoke)
+                Close_Far = 0
+
+            elif(pl == "AmusementPark"):
+                places.append(AmusementPark)
+
             elif(pl == "Shopping"):
                 places.append(Shopping)
+
             elif(pl == "Exercise"):
                 places.append(Exercise)
-            elif(pl == "Welfare"):
-                places.append(Welfare)
+                Close_Far = 0
+
     
     else:   
         places = [EatingFood,Drinking,MeaningfulPlace,Outdoors,SeeAndHear,Watch,Play,Shopping,Exercise,Welfare]
 
-
+    #print(places)
     hopedf = Make_Hope_Places(places)
 
     df = hopedf
-
+    #print(df)
     O = KM_To_Longitude_Latitude(1, "Longitude")
     A = KM_To_Longitude_Latitude(1, "Latitude")
 
+    lims = 0
     while 1:
         Fdf = Distance_filtering(df,Longitude,Latitude,O,A)
+        lims += 1
         if 10 > len(Fdf["Name"]):
-            O+=0.1
-            A+=0.02
+            O+=KM_To_Longitude_Latitude(0.1, "Longitude")
+            A+=KM_To_Longitude_Latitude(0.1, "Longitude")
+        elif lims < 5:
+            break
         else:
             break
 
@@ -642,26 +662,43 @@ if __name__ == "__main__":
 
     # ### 최종 추천 장소 뽑기 및 출력
 
-    np.random.choice(r_index_l, p=list(roulette_dic.values()))
-
-
-    find_place_idx = np.random.choice(r_index_l, p=list(roulette_dic.values()))
-    find_place = Fdf.loc[find_place_idx]
-    find_place
-
-    print(find_place["Name"])
-    print("분류 : ",find_place["Function"])
-    print("사진 : ",'image/'+find_place["Image"])
-    #img=mpimg.imread('image/'+find_place["Image"])
-    #imgplot = plt.imshow(img)
-    #plt.show()
-
-    print("설명 : ",find_place["Details"])
+    #뽑을 숫자 
+    if(inputs[0]):
+        ref_num = int(inputs[0])
+    else:
+        ref_num = 3
 
     f = open('output.csv', 'w', encoding='utf-8', newline='')
     wr = csv.writer(f)
-    wr.writerow([find_place["Name"]])
-    wr.writerow([find_place["Function"]])
-    wr.writerow(['image/'+find_place["Image"]])
-    wr.writerow([find_place["Details"]])
+    find_place_idxs = []
+
+    for i in range(ref_num):
+        whiletest = 1
+        while(whiletest):
+            find_place_idx = np.random.choice(r_index_l, p=list(roulette_dic.values()))
+            whiletest = 0
+            for fpi in find_place_idxs:
+                whiletest = 1
+                if(fpi == find_place_idx):
+                    whiletest = 1
+                    break
+                else:
+                    whiletest = 0
+                    break
+
+        find_place = Fdf.loc[find_place_idx]
+        find_place
+
+        print(find_place["Name"])
+        print("분류 : ",find_place["Function"])
+        print("사진 : ",'image/'+find_place["Image"])
+        #img=mpimg.imread('image/'+find_place["Image"])
+        #imgplot = plt.imshow(img)
+        #plt.show()
+        print("설명 : ",find_place["Details"])
+        wr.writerow([find_place["Name"]])
+        wr.writerow([find_place["Function"]])
+        wr.writerow(['image/'+find_place["Image"]])
+        wr.writerow([find_place["Details"]])
+
     f.close()

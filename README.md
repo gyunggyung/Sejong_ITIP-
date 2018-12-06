@@ -22,7 +22,7 @@
 - Longitude : 장소의 경도를 기재합니다.
 - Latitude : 장소의 위도를 기재합니다.
 
-#### Show density of Data  
+###density of Data  
 ![](image/map.PNG)
 
 
@@ -46,22 +46,108 @@
 ### 8. 다양한 장소 추천 크롤링한 정보들과 사진 등을 표시하며 몇 가지 장소를 추천
 ![](image/result.PNG)
 
-## 다양한 사용방법
-<b>아래 내용을 수정하면 자신이 원하는 기상상태와 위치에 맞게 추천을 할 수 있습니다.</b>  
+## 사용방법
+<b>아래 준비 작업을 마친 후 프로그램을 다양한 방법으로 실행할 수 있습니다.</b>  
 
-- stationName = '광진구'
-- long = 127.073092
-- lati = 37.550208 
-- Longitude=12700
-- Latitude=3755
-- fine_dust = int(fine_dust)
-- Ultrafine_dust= int(Ultrafine_dust)
-- T1H = int(weather_dict["T1H"])
-- RN1 = float(weather_dict["RN1"])
-- PTY = int(weather_dict["PTY"])
-- SKY = int(weather_dict["SKY"])
-- LGT = int(weather_dict["LGT"])
-- WSD = int(weather_dict["WSD"])
+### 준비작업
+```
+def get_weather_data(longi, latit, key="......."): #부분에 당신의 날씨 API키를 입력하고 
+service_key = '.......' # API키가 필요 
+```
+
+위 작업이 끝나면 이제 프로그램을 실행 할 수 있습니다.
+
+### 실행
+아래 코드를 실행하면 프로그램이 실행되고 장소를 추천해줍니다.  
+`python recommendation.py`
+
+가고 싶은 장소의 분류, 현재 위치의 구, 위도와 경도를 알고 있다고 가정한다면 아래와 같이 사용할 수 있습니다.  
+`python recommendation.py EatingFood 광진구 37.5505441 127.0722199`
+
+현재 구와 위도와 경도는 모르겠으나 가고 싶은 장소만 분류만 선택하고 싶다면 아래와 같이 사용할 수 있습니다.  
+`python recommendation.py EatingFood`
+
+가고 싶은 장소는 아래 분류를 보고 선택하면 됩니다.
+
+### Function 분류
+```
+ #1.음식 먹기
+    EatingFood = [
+        '딤섬 전문 레스토랑',
+        '음식점',
+        '이탈리아 음식점',
+        '일본 음식점',
+        '중국 음식점',
+        '패밀리 레스토랑',
+        '프랑스 음식점',
+        '한국식 소고기 전문 음식점',
+        '한식 고기구이 레스토랑'
+    ]
+
+    #2. 마시기 
+    Drinking = [ '바 & 그릴',
+        '술집',
+        '와인 바',
+        '재즈바',
+        '카페',
+        '칵테일바',
+    ]
+
+    #####
+
+    #3. 의미있는 곳
+    MeaningfulPlace = ['문화유산보존지역',
+        '불교사찰',
+        '성당',
+        '역사유적지',
+        '역사적 명소'
+    ]
+
+    #4. 밖 인공,자연
+    Outdoors = ['고궁',
+        '관광명소',
+        '관광지',
+        '다리',
+        '대광장',
+        '타워',
+        '공원',
+        '국립공원',
+        '산'
+    ]
+
+    #5. 앉아서 보고 듣기
+    SeeAndHear=['공연예술 극장',
+        '극장',
+        '영화관',
+        '자동차극장'
+    ]
+
+
+    #6. 구경하기 
+    Watch =['미술관',
+        '박물관'
+    ]
+
+    #7. 놀이공원 
+    AmusementPark = ['놀이공원']  
+
+    #8. 쇼핑하기
+    Shopping=['쇼핑몰',
+        '시가 전문점',
+        '시장',
+        '커피용품 판매점',
+    ]
+
+    #9. 운동하기
+    Exercise = ['건강 센터',
+        '스포츠 단지',
+        '스포츠단지'
+    ]
+
+    #10. 노래방  
+    Karaoke = ['노래방' ] #가까운
+```
+
 
 ## 더 알아보기
 <b>프로그램 제작에 필요한 크롤러와 API들의 사용법입니다.</b>  
