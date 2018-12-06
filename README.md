@@ -59,13 +59,13 @@ service_key = '.......' # API키가 필요
 
 ### 실행
 아래 코드를 실행하면 프로그램이 실행되고 장소를 추천해줍니다.  
-`python recommendation.py`
+```python recommendation.py```
 
 가고 싶은 장소의 분류, 현재 위치의 구, 위도와 경도를 알고 있다고 가정한다면 아래와 같이 사용할 수 있습니다.  
-`python recommendation.py EatingFood 광진구 37.5505441 127.0722199`
+```python recommendation.py EatingFood 광진구 37.5505441 127.0722199```
 
 현재 구와 위도와 경도는 모르겠으나 가고 싶은 장소만 분류만 선택하고 싶다면 아래와 같이 사용할 수 있습니다.  
-`python recommendation.py EatingFood`
+```python recommendation.py EatingFood```
 
 가고 싶은 장소는 아래 분류를 보고 선택하면 됩니다.
 
