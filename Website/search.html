@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>test</title>
+    <script type="text/javascript" src="http://code.jquery.com/jquery-3.3.1.min.js"></script>
+</head>
+<body>
+<script type="text/javascript" src="js/python.js"></script>
+<div class="SearchBox">
+    <input type="checkbox" name="search" id="eatingfood" value="EatingFood">식사
+    <input type="checkbox" name="search" id="drinking" value="Drinking">주점&바
+    <input type="checkbox" name="search" id="meaningfulplace" value="MeaningfulPlace">의미있는 곳
+    <input type="checkbox" name="search" id="outdoors" value="Outdoors">야외
+    <input type="checkbox" name="search" id="seeandhear" value="SeeAndHear">관람
+    <input type="checkbox" name="search" id="watch" value="Watch">전시
+    <input type="checkbox" name="search" id="play" value="Play">오락
+    <input type="checkbox" name="search" id="shopping" value="Shopping">쇼핑
+    <label for="exercise"></label><input type="checkbox" name="search" id="exercise" value="Exercise">운동
+</div>
+<div class="confirm">
+    <input type="button" name="Process" onclick="search()" value="검색">
+    <script type="text/javascript">
+        function search() {
+            var checked = [];
+            $("input[name=search]:checked").each(function (i) {
+                checked.push($(this).val());
+            });
+            if (checked.length == 0)
+                alert("범주를 선택해주세요");
+            else {
+                alert(checked[0]);
+                run_python(checked);
+            }
+
+        }
+    </script>
+    
+</div>
+</body>
+</html>

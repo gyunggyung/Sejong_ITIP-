@@ -1,0 +1,17 @@
+{
+  "name": "htdocs",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "~4.16.4",
+    "python-shell": "~1.0.6",
+    "mysql": "~2.16.0",
+    "node-datetime": "~2.1.2",
+    "browserify": "~16.2.3",
+    "net-browserify": "~0.2.4",
+    "jquery": "~3.3.1",
+    "body-parser": "latest"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
