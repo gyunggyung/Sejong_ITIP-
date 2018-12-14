@@ -389,7 +389,7 @@ if __name__ == "__main__":
 
 
     url = 'http://openapi.airkorea.or.kr/openapi/services/rest/ArpltnInforInqireSvc/getMsrstnAcctoRltmMesureDnsty'
-    service_key = 'gp%2F0k4N8AyphEuS%2BHMmkEhU%2Fm3xARw6xqkK4Px9kvg1Kj5g0bcyl8ctV9mysVT17TDX6AspklcsMSa%2BONKilfQ%3D%3D' # API키가 필요
+    service_key = '' # API키가 필요
     stationName = stationName
 
     #미세먼지
