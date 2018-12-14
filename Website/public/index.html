@@ -3,67 +3,9 @@
     <title>실내로</title>
     <meta charset="utf-8" />
     <script type="text/javascript" src="js/jquery-1.12.4.min.js"></script>
-    <script type="text/javascript">
-        $(document).ready(function () {            
-            $.ajax({
-                url: "output.csv",
-                dataType: "text",
-                success: function (data) {                 
-                    var text = $('#newCheckText').val();
-                    var str = data;
-                    var str_array = str.split('\n');
-                    var i, j;
-                    for (i = 0; i < str_array.length; i++) {
-                        str_array[i] = str_array[i].replace(/^\s*/, "").replace(/\s*$/, "");
-                           
-                        if(i==0)
-                            $('#print1').append('<br />'+'<br />');
-                        if((i+2)%4==0){
-                            $('#print1').append('<img src="'+ str_array[i] + '">'+'<br />'+'<br />'+'<br />');
-                        } else{
-                            $('#print1').append(str_array[i]+'<br />');
-                        }
-                        if((i+1)%4==0){
-                            $('#print1').append('<br />'+'<br />');
-                            j=i+1;
-                            break;
-                        }
-                    }
-                    for (i = j; i < str_array.length; i++) {
-                        str_array[i] = str_array[i].replace(/^\s*/, "").replace(/\s*$/, "");
-                        if(i==j)
-                            $('#print2').append('<br />'+'<br />');
-                        if((i+2)%4==0){
-                            $('#print2').append('<img src="'+ str_array[i] + '">'+'<br />'+'<br />');
-                        } else{
-                            $('#print2').append(str_array[i]+'<br />');
-                        }
-                        if((i+1)%4==0){
-                            $('#print2').append('<br />'+'<br />');
-                            j=i+1;
-                            break;
-                        }
-                    }
-                    for (i = j; i < str_array.length; i++) {
-                        str_array[i] = str_array[i].replace(/^\s*/, "").replace(/\s*$/, "");
-                        if (i == j)
-                            $('#print3').append('<br />' + '<br />');
-                        if ((i + 2) % 4 == 0) {
-                            $('#print3').append('<img src="' + str_array[i] + '">' + '<br />' + '<br />');
-                        } else {
-                            $('#print3').append(str_array[i] + '<br />');
-                        }
-                        if ((i + 1) % 4 == 0) {
-                            $('#print3').append('<br />' + '<br />');
-                            break;
-                        }
-                    }
-                }
-            });
-        });
-    </script>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="loading.css">
     <style type="text/css">
         html {
             min-width: 800px;
@@ -79,6 +21,10 @@
             height: 70%;
             margin-left: 100;
             margin: 0 auto;
+        }
+        
+        .hidden {
+            visibility: hidden;
         }
 
         #full-slider .slide-panel {
@@ -358,7 +304,7 @@
               opacity: 0;
           }
 
-          star-input > .input.focus {
+          .star-input > .input:focus {
               outline: 1px dotted #ddd;
           }
 
@@ -476,8 +422,11 @@
 
     <div class="content" id="content2">
         <button class="goto" target="1">처음으로</button>
+        <div id="loading" class="hidden">
+            <img src="./images/loading-image.gif" id="loading-image">
+        </div>
         <div id="full-slider-wrapper">
-            <div id="full-slider">
+            <div id="full-slider" class="hidden">
                 <div class="slide-panel active1">
                     <center>
                         <div id="print1"></div>
@@ -504,7 +453,6 @@
                 function slidePanel( newPanel, direction ) {
                     // define the offset of the slider obj, vis a vis the document
                     var offsetLeft = $slider.offset().left;
-
                     // offset required to hide the content off to the left / right
                     var hideLeft = -1 * ( offsetLeft + $slider.width() );
                     var hideRight = $(window).width() - offsetLeft;
@@ -531,33 +479,26 @@
                         left: 0
                     }, 500 );
                 }
-
                 var $slider = $('#full-slider');
                 var $sliderPanels = $slider.children('.slide-panel');
-
                 var $navWrap = $('<div id="full-slider-nav"></div>').appendTo( $slider );
                 var $navLeft = $('<div id="full-slider-nav-left"></div>').appendTo( $navWrap );
                 var $navRight = $('<div id="full-slider-nav-right"></div>').appendTo( $navWrap );
-
                 var currPanel = 0;
 
                 $navLeft.click(function() {
                     currPanel--;
-
                     // check if the new panel value is too small
                     if ( currPanel < 0 ) currPanel = $sliderPanels.length - 1;
-
                     slidePanel(currPanel, 'right');
                 });
 
                 $navRight.click(function() {
                     currPanel++;
-
-                // check if the new panel value is too big
-                if ( currPanel >= $sliderPanels.length ) currPanel = 0;
-
-                slidePanel(currPanel, 'left');
-            });
+                    // check if the new panel value is too big
+                    if (currPanel >= $sliderPanels.length) currPanel = 0;
+                    slidePanel(currPanel, 'left');
+                });
             });
         </script>
         <button class="goto" target="3">평가하기</button>
@@ -582,65 +523,63 @@
                 </span>
                 <output for="star-input" id="star" style="color:white;"><b>0</b>점</output>
             </span>
-            <script src="js/star.js"></script>
-            <script src="js/review.js"></script>
-            <script src="js/python.js"></script>
             <form action="#" accept-charset="utf-8" name="person_info" method="get">
                 <fieldset style="width:200px">
                     <legend style="color:white;">리뷰</legend>
                     <textarea name="addText" id="reviewContent" placeholder="리뷰를 입력해주세요" rows="6" cols="70%" ></textarea>
                 </fieldset>
             </form>
-            <input type="submit" id="review" value="등록하기">
+            <input type="submit" id="review" onclick="sendReview()" value="등록하기">
         </div>
     </div>
+    <script src="js/star.js"></script>
+    <script src="js/review.js"></script>
     <script type="text/javascript">
         $('#search').click(function () {
             var checked = [];
-            $("input[name=search]:checked").each(function (i) {
+            var checkedStr = "";
+            var i;
+
+            for (i = 0; i < 3; i++) {
+                $('#print' + (i+1)).empty();
+            }
+            $('#full-slider').addClass('hidden');
+            $('#loading').removeClass('hidden');
+
+            $("input[name=search]:checked").each(function () {
                 checked.push($(this).val());
             });
-            if (checked.length === 0)
-                alert("범주를 선택해주세요");
-            else {
-                $.ajax({
-                    url: 'http://localhost:8000/ajax',
-                    dataType: 'json',
-                    type: 'POST',
-                    data: {'msg':checked},
-                    success: ""
-                })
-            }
+            if (checked.length !== 0)
+                checkedStr = checked.join(',');
+
+            $.ajax({
+                url: 'http://localhost:8000/ajax',
+                dataType: 'json',
+                type: 'POST',
+                data: {'msg':checkedStr},
+                success: function (result) {
+                    console.log(result);
+                    showResult(result)
+                }
+            })
         });
     </script>
-    <script>
-        $('#review').click(function () {
-            var str = $("#reviewContent").val();
-            var star;
-            var $checked = $(".star-input").find(":checked");
-            if ($checked.length === 0) {
-                star = 0;
-            } else {
-                star = ($checked.next().text());
+    <script type="text/javascript">
+        function showResult(result) {
+            var str_array = result.msg;
+            var i;
+            var target;
+
+            $('#loading').addClass('hidden');
+            $('#full-slider').removeClass('hidden');
+            for (i = 0; i < str_array.length; i++) {
+                target = '#print' + (i+1);
+                $(target).append('<br />' +'<div id= "Name">' + str_array[i].Name + '</div>' + '<br />');
+                $(target).append('<img src="' + str_array[i].Image + '">' + '<br />' + '<br />' + '<br />');
+                $(target).append(str_array[i].Function + '<br />');
+                $(target).append('<br />' + str_array[i].Details + '<br />');
             }
-            if (str.length == 0) {
-                alert("리뷰를 입력해주세요");
-                $("#reviewContent").focus();
-            } else if (star === 0) {
-                alert("별점을 선택해주세요")
-            } else {
-                $.ajax({
-                    url: 'http://localhost:8000/review',
-                    dataType: 'json',
-                    type: 'POST',
-                    data: {'review': [str, star]},
-                    success: function (data) {
-                        if (data['success'])
-                            alert('리뷰가 등록되었습니다')
-                    }
-                })
-            }
-        })
+        }
     </script>
     <script>
         $(function(){
