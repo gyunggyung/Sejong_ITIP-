@@ -1,18 +1,22 @@
 exports.runPython = function (check) {
-    var num = [3];
-    var arg = [];
-    arg = num.concat(check);
-    console.log(arg, arg.length);
+    var prepared = [3];
+    var arg = prepared.concat(check);
     let python_shell = require('python-shell');
     let options = {
         mode: 'text',
         pythonPath: "C:/Users/user/AppData/Local/conda/conda/envs/crawling/python.exe", // edit this
         pythonOptions: ['-u'],
-        scriptPath: 'C:/APM_Setup/htdocs/public/python', // edit this
+        scriptPath: './public/python', // edit this
         args: arg
     };
-    python_shell.PythonShell.run('recommendation.py', options, function (err) {
-        if (err) throw err;
-        console.log('finished');
+    var output;
+    var pyshell = new python_shell.PythonShell('recommendation.py', options);
+
+    console.log(arg, arg.length);
+    pyshell.on('message', function (message) {
+        output = message;
+        console.log(output);
+        pyshell.childProcess.kill();
+        return output
     });
 };

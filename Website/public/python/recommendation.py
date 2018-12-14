@@ -23,6 +23,7 @@ from selenium import webdriver
 from selenium.common.exceptions import NoSuchElementException
 import sys
 import csv
+import requests
 
 
 # ## 현재 위치 가져오기
@@ -40,6 +41,7 @@ def get_location():
     driver.find_element_by_xpath("//button[@aria-label='내 위치 보기']").click()
     while new_url == driver.current_url:
         time.sleep(0.3)
+        driver.find_element_by_xpath("//button[@aria-label='확대']").click()
     new_url = driver.current_url
 
     coordinate = new_url.split('/@')[1].split(',')[0:2]
@@ -50,17 +52,18 @@ def get_location():
     while True:
         time.sleep(0.5)
         new_url = driver.current_url
-        print(new_url)
+        # print(new_url)
         if "search" in new_url:
             try:
                 driver.find_element_by_class_name("section-result")
             except NoSuchElementException:
-                print("redirecting")
+                # print("redirecting")
+                new_url
         elif "place" in new_url:
             try:
                 place = driver.find_element_by_xpath("//span[@class='widget-pane-link']")
             except NoSuchElementException:
-                print("loading")
+                #print("loading")
                 time.sleep(0.2)
             else:
                 break
@@ -79,7 +82,7 @@ def get_location():
 # In[60]:
 
 
-def get_weather_data(longi, latit, key="gp%2F0k4N8AyphEuS%2BHMmkEhU%2Fm3xARw6xqkK4Px9kvg1Kj5g0bcyl8ctV9mysVT17TDX6AspklcsMSa%2BONKilfQ%3D%3D"):
+def get_weather_data(longi, latit, key="......."): #부분에 당신의 날씨 API키를 입력하고 
     grib_date, grib_time = get_grib_date()
     grib_url = "http://newsky2.kma.go.kr/service/SecndSrtpdFrcstInfoService2/ForecastGrib?"
     forecast_date, forecast_time = get_forecast_date()
@@ -367,17 +370,16 @@ if __name__ == "__main__":
         except:
             inputs.append(0)
 
-    # 장소, 구, 위도, 경도 
+    # 장소, 구, 위도, 경도
     #for i in range(0,5):
     #    print(i, inputs[i])
 
-    #위치 가지고 오기 
+    #위치 가지고 오기
     if(not(inputs[4])):
         driver = webdriver.Chrome('chromedriver.exe')
 
         Current_location = get_location()
         driver.close()
-
         Longitude, Latitude, stationName = Current_location
         Longitude, Latitude = float(Longitude), float(Latitude)
 
@@ -385,16 +387,16 @@ if __name__ == "__main__":
         stationName = inputs[2]
         Longitude, Latitude = float(inputs[4]), float(inputs[3])
 
+
     url = 'http://openapi.airkorea.or.kr/openapi/services/rest/ArpltnInforInqireSvc/getMsrstnAcctoRltmMesureDnsty'
-    service_key = 'mjQjWwbo9HiJmVNyJIdJ6BIa0yezT%2Br0NeCRYcqMpJrftaWV27F%2BXnHl0Pfo5N1ZR929SCVLzR5h93dPMbDxGQ%3D%3D' # FIXME
+    service_key = 'gp%2F0k4N8AyphEuS%2BHMmkEhU%2Fm3xARw6xqkK4Px9kvg1Kj5g0bcyl8ctV9mysVT17TDX6AspklcsMSa%2BONKilfQ%3D%3D' # API키가 필요
     stationName = stationName
 
-    #미세먼지 
-    weather_dict = get_weather_data(Longitude, Latitude)
+    #미세먼지
+    weather_dict = get_weather_data(Longitude, Latitude, service_key)
     fine_dust, Ultrafine_dust, dataTime = get_fine_dict_data(service_key, stationName)
 
     df = pd.read_csv("Seoul_Place.csv")
-
 
     # # MAIN CODE
 
@@ -419,19 +421,19 @@ if __name__ == "__main__":
         fine_dust = int(fine_dust)
     except:
         fine_dust=0
-    try: 
+    try:
         Ultrafine_dust= int(Ultrafine_dust)
     except:
         Ultrafine_dust= 0
-    try: 
+    try:
         T1H = int(weather_dict["T1H"])
     except:
         T1H=0
-    try: 
+    try:
         RN1 = float(weather_dict["RN1"])
     except:
         RN1=0
-    try: 
+    try:
         PTY = int(weather_dict["PTY"])
     except:
         PTY = 0
@@ -439,29 +441,29 @@ if __name__ == "__main__":
         SKY = int(weather_dict["SKY"])
     except:
         SKY = 0
-    try: 
+    try:
         LGT = int(weather_dict["LGT"])
     except:
         LGT = 0
-    try: 
+    try:
         WSD = int(weather_dict["WSD"])
     except:
         WSD = 0
 
     if (fine_dust>=3 or Ultrafine_dust>=3 or T1H<-5 or 30 <T1H or RN1>=1 or PTY>=1):
         df = df[df["Indoor/Outdoors"]!="Outdoor"]
-        
+
     if(fine_dust==4 or Ultrafine_dust==4 or LGT >=1 or WSD >=100or T1H<-15 or 37 <T1H or RN1>=10):
         df = df[df["Indoor/Outdoors"]=="Indoor"]
 
 
     # ## 원하는 장소로 필터링
-    # 음식같은거면 좀 더 좀게 , 의미있는 곳은 멀리, 너무 멀리있으면 
-    # 케이스도 만들어서 헤보게 보기 
-    # 데이터의 한계점 까지 -> 강남구청에서 
+    # 음식같은거면 좀 더 좀게 , 의미있는 곳은 멀리, 너무 멀리있으면
+    # 케이스도 만들어서 헤보게 보기
+    # 데이터의 한계점 까지 -> 강남구청에서
     # 거리 설정 -> ok
     #1.음식 먹기
-    EatingFood = [ #가까운 
+    EatingFood = [ #가까운
         '딤섬 전문 레스토랑',
         '음식점',
         '이탈리아 음식점',
@@ -473,8 +475,8 @@ if __name__ == "__main__":
         '한식 고기구이 레스토랑'
     ]
 
-    #2. 마시기 
-    Drinking = [ '바 & 그릴', #가까운 
+    #2. 마시기
+    Drinking = [ '바 & 그릴', #가까운
         '술집',
         '와인 바',
         '재즈바',
@@ -485,7 +487,7 @@ if __name__ == "__main__":
     #####
 
     #3. 의미있는 곳
-    MeaningfulPlace = ['문화유산보존지역', #멀리 
+    MeaningfulPlace = ['문화유산보존지역', #멀리
         '불교사찰',
         '성당',
         '역사유적지',
@@ -494,7 +496,7 @@ if __name__ == "__main__":
     ]
 
     #4. 밖 인공,자연
-    Outdoors = ['고궁', #멀리 
+    Outdoors = ['고궁', #멀리
         '관광명소',
         '관광지',
         '다리',
@@ -506,44 +508,42 @@ if __name__ == "__main__":
     ]
 
     #5. 앉아서 보고 듣기
-    SeeAndHear=['공연예술 극장', #가까운 
+    SeeAndHear=['공연예술 극장', #가까운
         '극장',
         '영화관',
         '자동차극장'
     ]
 
 
-    #6. 구경하기 
-    Watch =['미술관', #멀리 
+    #6. 구경하기
+    Watch =['미술관', #멀리
         '박물관'
     ]
 
-    #7. 노래방  
+    #7. 노래방
     Karaoke = ['노래방' ] #가까운
-            
-    #7. 놀이공원 
-    AmusementPark = ['놀이공원']  #멀리 
-   
+
+    #7. 놀이공원
+    AmusementPark = ['놀이공원']  #멀리
+
 
     #8. 쇼핑하기
-    Shopping=['쇼핑몰',  #멀리 
+    Shopping=['쇼핑몰',  #멀리
         '시가 전문점',
         '시장',
         '커피용품 판매점',
     ]
 
     #9. 운동하기
-    Exercise = ['건강 센터', #가까운 
+    Exercise = ['건강 센터', #가까운
         '스포츠 단지',
         '스포츠단지',
         '문화센터'
     ]
 
-
-
     Close_Far = 1
 
-    #장소 선정 
+    #장소 선정
     if(inputs[1]):
         places = []
         places_name = inputs[1].split(',')
@@ -583,9 +583,9 @@ if __name__ == "__main__":
                 places.append(Exercise)
                 Close_Far = 0
 
-    
-    else:   
-        places = [EatingFood,Drinking,MeaningfulPlace,Outdoors,SeeAndHear,Watch,Karaoke,Shopping,Exercise,AmusementPark]
+
+    else:
+        places = [EatingFood,Drinking,MeaningfulPlace,Outdoors,SeeAndHear,Karaoke,Watch,Shopping,Exercise]
 
     #print(places)
     hopedf = Make_Hope_Places(places)
@@ -607,7 +607,7 @@ if __name__ == "__main__":
         else:
             break
 
-    print(len(Fdf["Name"]))
+    #print(len(Fdf["Name"]))
 
 
     Fdf = Fdf.fillna(0)
@@ -624,7 +624,7 @@ if __name__ == "__main__":
 
     # ### 초기화
     #     0점으로 즉 비여있는 값들을 제일 낮은 점수 -1로 바꾸기
-    zidx = Fdf[Fdf["Score"]==0].index.tolist() 
+    zidx = Fdf[Fdf["Score"]==0].index.tolist()
     ms = min(Score)-1
 
     for i in zidx:
@@ -654,15 +654,15 @@ if __name__ == "__main__":
 
     # ### 최종 추천 장소 뽑기 및 출력
 
-    #뽑을 숫자 
+    #뽑을 숫자
     if(inputs[0]):
         ref_num = int(inputs[0])
     else:
         ref_num = 3
 
-    f = open('output.csv', 'w', encoding='utf-8', newline='')
-    wr = csv.writer(f)
+
     find_place_idxs = []
+    result = []
 
     for i in range(ref_num):
         whiletest = 1
@@ -681,20 +681,15 @@ if __name__ == "__main__":
         find_place = Fdf.loc[find_place_idx]
         find_place
 
-        print(find_place["Name"])
-        print("분류 : ",find_place["Function"])
-        print("사진 : ",'image/'+find_place["Image"])
+        #print(find_place["Name"])
+        #print("분류 : ",find_place["Function"])
+        #print("사진 : ",'image/'+find_place["Image"])
         #img=mpimg.imread('image/'+find_place["Image"])
         #imgplot = plt.imshow(img)
         #plt.show()
-        print("설명 : ",find_place["Details"])
-        wr.writerow([find_place["Name"]])
-        wr.writerow([find_place["Function"]])
-        wr.writerow(['image/'+find_place["Image"]])
-        wr.writerow([find_place["Details"]])
+        #print("설명 : ",find_place["Details"])
 
-    f.close()
-    driver = webdriver.Chrome('chromedriver.exe')
-    driver.get("https://www.google.co.kr/maps")
-    driver.close()
-    exit(0)
+        result.append({"Name":find_place["Name"], "Function":find_place["Function"], "Image": "image/"+find_place["Image"],
+                                  "Details":find_place["Details"]})
+
+    print(json.dumps({'msg': result, 'longitude':Longitude, 'latitude': Latitude}))
