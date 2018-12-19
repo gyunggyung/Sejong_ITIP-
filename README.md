@@ -75,7 +75,7 @@ python recommendation.py EatingFood
 
 가고 싶은 장소는 아래 분류를 보고 선택하면 됩니다.
 
-### web 사용법
+### eb 사용법
 
 아래 문서 참고
 
@@ -166,3 +166,4 @@ https://github.com/newhiwoong/Sejong_ITIP-/blob/master/MDfile/website.md
 > 크롤러 : https://github.com/newhiwoong/Sejong_ITIP-/blob/master/MDfile/crawling.md  
 > 날씨 API : https://github.com/newhiwoong/Sejong_ITIP-/blob/master/MDfile/weather.md  
 > 미세먼지 API : https://github.com/newhiwoong/Sejong_ITIP-/blob/master/MDfile/fine-dust.md  
+> Web 이용 사용 : https://github.com/newhiwoong/Sejong_ITIP-/blob/master/MDfile/website.md
