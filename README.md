@@ -75,7 +75,7 @@ python recommendation.py EatingFood
 
 가고 싶은 장소는 아래 분류를 보고 선택하면 됩니다.
 
-### eb 사용법
+### Web 사용법
 
 아래 문서 참고
 
