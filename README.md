@@ -22,7 +22,7 @@
 - Longitude : 장소의 경도를 기재합니다.
 - Latitude : 장소의 위도를 기재합니다.
 
-###density of Data  
+### density of Data  
 ![](image/map.PNG)
 
 
