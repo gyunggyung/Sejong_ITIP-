@@ -75,6 +75,12 @@ python recommendation.py EatingFood
 
 가고 싶은 장소는 아래 분류를 보고 선택하면 됩니다.
 
+### web 사용법
+
+아래 문서 참고
+
+https://github.com/newhiwoong/Sejong_ITIP-/blob/master/MDfile/website.md
+
 ### Function 분류
 ```
  #1.음식 먹기
