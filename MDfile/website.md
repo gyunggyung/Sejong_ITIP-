@@ -1,6 +1,6 @@
  <h1 align="left">웹사이트 전반에 대해</h1>
  
- ##DB
+ ## DB
  리뷰 저장 DB는 `mysql`로 구성되었으며, 테이블의 각 칼럼은 다음과 같다.
  
  |index|star|review|place|datetime|
@@ -8,7 +8,7 @@
  |리뷰저장순서|별점(정량평가)|리뷰(정성평가)|현재 추천 장소|리뷰 등록 시각|
  |int(auto_increase)|int|text|text|text|
  
- ##Dependency to use
+ ## Dependency to use
  필요 외부 라이브러리는 다음과 같다.
  ```text
  express
@@ -23,11 +23,11 @@
  npm install
  ```
  
- ##How to use
+ ## How to use
  1. DB로 사용할 mysql과 연동한다. 상기 표를 참고하여 테이블을 구축한 뒤, `review.js`파일에 있는 `connection` 변수를 적절히 수정한다.
  2. `app.js`를 실행한 뒤 `localhost:8000`으로 접속한다. 포트는 DB와 겹치지 않는 한, 수정해도 된다.
  
- ##How it works
+ ## How it works
  1. 페이지에 처음 접속하면 10개의 범주 버튼과 상단의 검색하기 버튼이 있다.  
     원하는 범주를 클릭하고 검색하기 버튼을 누르면 범주에 해당하는 것들을 추천한다.  
     이 때 범주를 아무것도 클릭하지 않고 검색을 요청하면 범주에 상관없이 검색한다. 
