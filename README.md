@@ -77,6 +77,9 @@ python recommendation.py EatingFood
 
 ### Web 사용법
 
+웹은 아래 링크에 있는 파일들로 사용하면 됩니다.  
+https://github.com/newhiwoong/Sejong_ITIP-/tree/master/Website/public
+
 아래 문서 참고
 
 https://github.com/newhiwoong/Sejong_ITIP-/blob/master/MDfile/website.md
