@@ -1,6 +1,10 @@
 <h1 align="center">Sejong_ITIP</h1>
+<p align="center">
+ 
 ![](Demo.gif)  
 최근 미세먼지와 폭염 등에 대한 많은 이슈가 발생했습니다. 현재 갈만한 장소, 놀만한 장소를 추천해주는 앱들은 많으나 날씨와 미세먼지 현황을 고려하여 추천해주는 앱은 보이지 않습니다. 우리의 프로그램은 날씨와 거리를 기반으로 서울에서 갈만한 장소를 추천해줍니다.
+
+</p>
 
 > Demo Site : http://sejongitip.dothome.co.kr/
 
