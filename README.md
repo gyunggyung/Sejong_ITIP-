@@ -12,7 +12,7 @@
 
 ## Data
 <b>서울에 갈만한 장소를 정리합니다. 아래는 해당 데이터들의 Attribute value입니다.</b>  
-> https://github.com/newhiwoong/Sejong_ITIP-/blob/master/Seoul_Place.csv
+> https://github.com/gyunggyung/Sejong_ITIP-/blob/master/Seoul_Place.csv
 
 - Name : 장소의 이름을 기재합니다.
 - Function : 장소의 대분류를 기재합니다.
