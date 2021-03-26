@@ -79,11 +79,11 @@ python recommendation.py EatingFood
 ### Web 사용법
 
 웹은 아래 링크에 있는 파일들로 사용하면 됩니다.  
-https://github.com/newhiwoong/Sejong_ITIP-/tree/master/Website/public
+https://github.com/gyunggyung/Sejong_ITIP-/tree/master/Website/public
 
 아래 문서 참고
 
-https://github.com/newhiwoong/Sejong_ITIP-/blob/master/MDfile/website.md
+https://github.com/gyunggyung/Sejong_ITIP-/blob/master/MDfile/website.md
 
 ### Function 분류
 ```
@@ -167,7 +167,7 @@ https://github.com/newhiwoong/Sejong_ITIP-/blob/master/MDfile/website.md
 
 ## 더 알아보기
 <b>프로그램 제작에 필요한 크롤러와 API들의 사용법입니다.</b>  
-> 크롤러 : https://github.com/newhiwoong/Sejong_ITIP-/blob/master/MDfile/crawling.md  
-> 날씨 API : https://github.com/newhiwoong/Sejong_ITIP-/blob/master/MDfile/weather.md  
-> 미세먼지 API : https://github.com/newhiwoong/Sejong_ITIP-/blob/master/MDfile/fine-dust.md  
-> Web 이용 사용 : https://github.com/newhiwoong/Sejong_ITIP-/blob/master/MDfile/website.md
+> 크롤러 : https://github.com/gyunggyung/Sejong_ITIP-/blob/master/MDfile/crawling.md  
+> 날씨 API : https://github.com/gyunggyung/Sejong_ITIP-/blob/master/MDfile/weather.md  
+> 미세먼지 API : https://github.com/gyunggyung/Sejong_ITIP-/blob/master/MDfile/fine-dust.md  
+> Web 이용 사용 : https://github.com/gyunggyung/Sejong_ITIP-/blob/master/MDfile/website.md
